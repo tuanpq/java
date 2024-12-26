@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>:: Search Kanji ::</title>
+</head>
+<body>
+	<table>
+		<thead>
+	    	<tr>
+	        	<th> Word </th>
+				<th> Katakana </th>
+				<th> Meaning </th>
+	        </tr>
+	    </thead>
+	    <tbody>
+			<tr th:if="${kanjiWordList.empty}">
+	            <td colspan="3"> No result </td>
+	        </tr>
+	        <tr th:each="kanjiWord : ${kanjiWordList}">
+	            <td><span th:text="${kanjiWord.word}"> Word </span></td>
+				<td><span th:text="${kanjiWord.katakana}"> Katakana </span></td>
+				<td><span th:text="${kanjiWord.gloss}"> Meaning </span></td>
+	        </tr>
+	    </tbody>
+	</table>
+</body>
+</html>

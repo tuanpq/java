@@ -1,0 +1,9224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE japanesedictionary [
+
+<!ELEMENT japanesedictionary (entry*)>
+<!ELEMENT entry (reb*, keb*)>
+<!ELEMENT keb (#PCDATA)>
+<!ELEMENT reb (#PCDATA)>
+<!ELEMENT gloss (#PCDATA)>
+<!ATTLIST gloss xml:lang CDATA "eng">
+        
+]>
+
+<japanesedictionary>
+<entry>
+<reb>ヽ</reb>
+<gloss>repetition mark in katakana</gloss>
+</entry>
+<entry>
+<reb>ヾ</reb>
+</entry>
+<entry>
+<reb>ゝ</reb>
+</entry>
+<entry>
+<reb>ゞ</reb>
+</entry>
+<entry>
+<keb>〃</keb>
+<reb>おなじ</reb>
+<reb>おなじく</reb>
+<gloss>ditto mark</gloss>
+</entry>
+<entry>
+<keb>仝</keb>
+<reb>どう</reb>
+<gloss>"as above" mark</gloss>
+</entry>
+<entry>
+<keb>々</keb>
+<reb>のま</reb>
+<reb>ノマ</reb>
+</entry>
+<entry>
+<keb>○</keb>
+<keb>〇</keb>
+<reb>まる</reb>
+<gloss>circle</gloss>
+<gloss>"correct"</gloss>
+<gloss>"good"</gloss>
+<gloss>*</gloss>
+<gloss>_</gloss>
+<gloss>period</gloss>
+<gloss>full stop</gloss>
+<gloss>handakuten (diacritic)</gloss>
+</entry>
+<entry>
+<keb>ＡＢＣ順</keb>
+<reb>エービーシーじゅん</reb>
+<gloss>alphabetical order</gloss>
+</entry>
+<entry>
+<keb>ＣＤプレーヤー</keb>
+<keb>ＣＤプレイヤー</keb>
+<reb>シーディープレーヤー</reb>
+<reb>シーディープレイヤー</reb>
+<gloss>CD player</gloss>
+</entry>
+<entry>
+<keb>Ｎ響</keb>
+<reb>エヌきょう</reb>
+<gloss>NHK Symphony Orchestra</gloss>
+</entry>
+<entry>
+<keb>Ｏバック</keb>
+<reb>オーバック</reb>
+<gloss>O-back</gloss>
+<gloss>skirt with peek-a-boo hole in rump</gloss>
+</entry>
+<entry>
+<keb>Ｔシャツ</keb>
+<reb>ティーシャツ</reb>
+<gloss>T-shirt</gloss>
+<gloss>tee shirt</gloss>
+</entry>
+<entry>
+<keb>Ｔバック</keb>
+<reb>ティーバック</reb>
+<gloss>T-back</gloss>
+<gloss>bikini thong</gloss>
+</entry>
+<entry>
+<keb>あうんの呼吸</keb>
+<keb>阿吽の呼吸</keb>
+<keb>あ・うんの呼吸</keb>
+<reb>あうんのこきゅう</reb>
+<gloss>the harmonizing, mentally and physically, of two parties engaged in an activity</gloss>
+<gloss>singing from the same hymn-sheet</gloss>
+<gloss>dancing to the same beat</gloss>
+</entry>
+<entry>
+<reb>あおば</reb>
+<gloss>(former) regular (stops at every station) Tōhoku-line Shinkansen</gloss>
+</entry>
+<entry>
+<keb>明白</keb>
+<reb>めいはく</reb>
+<gloss>obvious</gloss>
+<gloss>clear</gloss>
+<gloss>plain</gloss>
+<gloss>evident</gloss>
+<gloss>apparent</gloss>
+<gloss>explicit</gloss>
+<gloss>overt</gloss>
+</entry>
+<entry>
+<keb>明白</keb>
+<keb>偸閑</keb>
+<keb>白地</keb>
+<reb>あからさま</reb>
+<gloss>plain</gloss>
+<gloss>frank</gloss>
+<gloss>candid</gloss>
+<gloss>open</gloss>
+<gloss>direct</gloss>
+<gloss>straightforward</gloss>
+<gloss>unabashed</gloss>
+<gloss>blatant</gloss>
+<gloss>flagrant</gloss>
+</entry>
+<entry>
+<keb>明かん</keb>
+<reb>あかん</reb>
+<reb>アカン</reb>
+<gloss>useless</gloss>
+<gloss>no good</gloss>
+<gloss>hopeless</gloss>
+<gloss>cannot</gloss>
+<gloss>must not</gloss>
+<gloss>not allowed</gloss>
+</entry>
+<entry>
+<keb>悪どい</keb>
+<keb>灰汁どい</keb>
+<reb>あくどい</reb>
+<gloss>gaudy</gloss>
+<gloss>showy</gloss>
+<gloss>garish</gloss>
+<gloss>loud</gloss>
+<gloss>crooked</gloss>
+<gloss>vicious</gloss>
+<gloss>wicked</gloss>
+<gloss>nasty</gloss>
+<gloss>unscrupulous</gloss>
+<gloss>dishonest</gloss>
+</entry>
+<entry>
+<keb>論う</keb>
+<reb>あげつらう</reb>
+<gloss>to discuss</gloss>
+<gloss>to find fault with</gloss>
+<gloss>to criticize</gloss>
+<gloss>to criticise</gloss>
+</entry>
+<entry>
+<keb>遇う</keb>
+<keb>配う</keb>
+<reb>あしらう</reb>
+<gloss>to treat</gloss>
+<gloss>to handle</gloss>
+<gloss>to deal with</gloss>
+<gloss>to arrange</gloss>
+<gloss>to decorate</gloss>
+<gloss>to dress</gloss>
+<gloss>to garnish</gloss>
+</entry>
+<entry>
+<keb>馬酔木</keb>
+<reb>あせび</reb>
+<reb>あしび</reb>
+<reb>あせぼ</reb>
+<reb>あせぶ</reb>
+<reb>アセビ</reb>
+<gloss>Japanese andromeda (Pieris japonica)</gloss>
+<gloss>lily-of-the-valley</gloss>
+</entry>
+<entry>
+<keb>彼処</keb>
+<keb>彼所</keb>
+<reb>あそこ</reb>
+<reb>あすこ</reb>
+<reb>かしこ</reb>
+<reb>アソコ</reb>
+<reb>あしこ</reb>
+<reb>あこ</reb>
+<gloss>there</gloss>
+<gloss>over there</gloss>
+<gloss>that place</gloss>
+<gloss>yonder</gloss>
+<gloss>you-know-where</gloss>
+<gloss>genitals</gloss>
+<gloss>private parts</gloss>
+<gloss>nether regions</gloss>
+<gloss>that far</gloss>
+<gloss>that much</gloss>
+<gloss>that point</gloss>
+</entry>
+<entry>
+<reb>あっさり</reb>
+<reb>アッサリ</reb>
+<gloss>easily</gloss>
+<gloss>readily</gloss>
+<gloss>quickly</gloss>
+<gloss>flatly (refuse)</gloss>
+<gloss>lightly (seasoned food, applied make-up, etc.)</gloss>
+<gloss>plainly</gloss>
+<gloss>simply</gloss>
+</entry>
+<entry>
+<keb>あっという間に</keb>
+<keb>あっと言う間に</keb>
+<keb>アッという間に</keb>
+<keb>アッと言う間に</keb>
+<keb>あっとゆう間に</keb>
+<keb>アッとゆう間に</keb>
+<reb>あっというまに</reb>
+<gloss>in an instant</gloss>
+<gloss>in a flash</gloss>
+<gloss>in the blink of an eye</gloss>
+<gloss>in no time at all</gloss>
+<gloss>just like that</gloss>
+</entry>
+<entry>
+<reb>あっぷあっぷ</reb>
+<gloss>floundering while nearly drowning</gloss>
+<gloss>suffering</gloss>
+</entry>
+<entry>
+<reb>あどけない</reb>
+<gloss>innocent</gloss>
+<gloss>cherubic</gloss>
+<gloss>childlike</gloss>
+</entry>
+<entry>
+<keb>彼の</keb>
+<reb>あの</reb>
+<reb>あん</reb>
+<gloss>that</gloss>
+<gloss>those</gloss>
+<gloss>the</gloss>
+</entry>
+<entry>
+<reb>あの</reb>
+<reb>あのー</reb>
+<reb>あのう</reb>
+<gloss>say</gloss>
+<gloss>well</gloss>
+<gloss>um</gloss>
+<gloss>er</gloss>
+</entry>
+<entry>
+<keb>あの人</keb>
+<keb>彼の人</keb>
+<reb>あのひと</reb>
+<gloss>he</gloss>
+<gloss>she</gloss>
+<gloss>that person</gloss>
+<gloss>you</gloss>
+</entry>
+<entry>
+<keb>あの方</keb>
+<keb>彼の方</keb>
+<reb>あのかた</reb>
+<gloss>that gentleman</gloss>
+<gloss>that lady</gloss>
+<gloss>he</gloss>
+<gloss>she</gloss>
+</entry>
+<entry>
+<keb>溢れる</keb>
+<reb>あぶれる</reb>
+<gloss>to fail (in getting a job)</gloss>
+<gloss>to miss out (at fishing, hunting, etc.)</gloss>
+<gloss>to be left out</gloss>
+<gloss>to be crowded out</gloss>
+</entry>
+<entry>
+<reb>あべこべ</reb>
+<gloss>contrary</gloss>
+<gloss>opposite</gloss>
+<gloss>inverse</gloss>
+<gloss>reverse</gloss>
+<gloss>back-to-front</gloss>
+</entry>
+<entry>
+<keb>阿呆陀羅</keb>
+<reb>あほんだら</reb>
+<reb>あほだら</reb>
+<reb>アホンダラ</reb>
+<gloss>fool</gloss>
+<gloss>oaf</gloss>
+<gloss>airhead</gloss>
+</entry>
+<entry>
+<keb>甘子</keb>
+<keb>天魚</keb>
+<keb>雨子</keb>
+<reb>あまご</reb>
+<reb>アマゴ</reb>
+<gloss>land-locked variety of red-spotted masu trout (Oncorhynchus masou ishikawae)</gloss>
+<gloss>amago</gloss>
+</entry>
+<entry>
+<reb>あやす</reb>
+<gloss>to cuddle</gloss>
+<gloss>to comfort</gloss>
+<gloss>to rock</gloss>
+<gloss>to soothe</gloss>
+<gloss>to dandle</gloss>
+<gloss>to humor</gloss>
+<gloss>to humour</gloss>
+<gloss>to lull</gloss>
+</entry>
+<entry>
+<reb>あやふや</reb>
+<gloss>uncertain</gloss>
+<gloss>indefinite</gloss>
+<gloss>vague</gloss>
+<gloss>ambiguous</gloss>
+<gloss>equivocal</gloss>
+<gloss>dubious</gloss>
+<gloss>doubtful</gloss>
+<gloss>non-committal</gloss>
+</entry>
+<entry>
+<reb>あら</reb>
+<reb>あらー</reb>
+<gloss>oh!</gloss>
+<gloss>ah!</gloss>
+<gloss>oh no</gloss>
+</entry>
+<entry>
+<keb>𩺊</keb>
+<reb>あら</reb>
+<reb>アラ</reb>
+<gloss>saw-edged perch (Niphon spinosus)</gloss>
+</entry>
+<entry>
+<keb>彼</keb>
+<keb>彼れ</keb>
+<reb>あれ</reb>
+<reb>アレ</reb>
+<gloss>that</gloss>
+<gloss>that thing</gloss>
+<gloss>that person</gloss>
+<gloss>then</gloss>
+<gloss>that time</gloss>
+<gloss>that place (over there)</gloss>
+<gloss>down there (i.e. one's genitals)</gloss>
+<gloss>period</gloss>
+<gloss>menses</gloss>
+</entry>
+<entry>
+<reb>あんな</reb>
+<gloss>that sort of</gloss>
+<gloss>that kind of</gloss>
+<gloss>like that</gloss>
+<gloss>such</gloss>
+<gloss>so</gloss>
+</entry>
+<entry>
+<keb>いい加減にしなさい</keb>
+<reb>いいかげんにしなさい</reb>
+<gloss>shape up!</gloss>
+<gloss>act properly!</gloss>
+</entry>
+<entry>
+<keb>いい年をして</keb>
+<keb>いい歳をして</keb>
+<reb>いいとしをして</reb>
+<gloss>(in spite of) being old enough to know better</gloss>
+</entry>
+<entry>
+<keb>否々</keb>
+<keb>否否</keb>
+<reb>いやいや</reb>
+<reb>いえいえ</reb>
+<gloss>no!</gloss>
+<gloss>no no!</gloss>
+<gloss>no, not at all</gloss>
+</entry>
+<entry>
+<keb>如何わしい</keb>
+<reb>いかがわしい</reb>
+<gloss>suspicious</gloss>
+<gloss>dubious</gloss>
+<gloss>unreliable</gloss>
+<gloss>indecent</gloss>
+<gloss>unseemly</gloss>
+</entry>
+<entry>
+<reb>いかす</reb>
+<reb>イカす</reb>
+<gloss>to be smart</gloss>
+<gloss>to be cool</gloss>
+<gloss>to be sharp</gloss>
+<gloss>to be stylish</gloss>
+</entry>
+<entry>
+<keb>いかなる場合でも</keb>
+<keb>如何なる場合でも</keb>
+<reb>いかなるばあいでも</reb>
+<gloss>in any case</gloss>
+<gloss>whatever the case may be</gloss>
+</entry>
+<entry>
+<keb>如何にも</keb>
+<reb>いかにも</reb>
+<gloss>indeed</gloss>
+<gloss>really</gloss>
+<gloss>truly</gloss>
+<gloss>just (like)</gloss>
+<gloss>very</gloss>
+<gloss>extremely</gloss>
+<gloss>totally</gloss>
+<gloss>terribly</gloss>
+<gloss>absolutely</gloss>
+<gloss>certainly</gloss>
+<gloss>for sure</gloss>
+</entry>
+<entry>
+<keb>幾つも</keb>
+<reb>いくつも</reb>
+<gloss>many</gloss>
+<gloss>much</gloss>
+<gloss>plenty</gloss>
+<gloss>hardly</gloss>
+</entry>
+<entry>
+<keb>行けない</keb>
+<reb>いけない</reb>
+<gloss>bad</gloss>
+<gloss>wrong</gloss>
+<gloss>naughty</gloss>
+<gloss>must not (do, be)</gloss>
+<gloss>should not</gloss>
+<gloss>ought not to</gloss>
+<gloss>useless</gloss>
+<gloss>no good</gloss>
+<gloss>bad</gloss>
+<gloss>hopeless</gloss>
+<gloss>beyond hope</gloss>
+<gloss>unfortunate</gloss>
+<gloss>a shame</gloss>
+<gloss>a pity</gloss>
+<gloss>unable to drink (alcohol)</gloss>
+<gloss>so as not to ...</gloss>
+<gloss>so that ... (won't)</gloss>
+<gloss>in case ...</gloss>
+<gloss>for fear that ...</gloss>
+<gloss>lest ...</gloss>
+</entry>
+<entry>
+<reb>いごっそう</reb>
+<gloss>stubborn person</gloss>
+<gloss>strong-minded person</gloss>
+<gloss>obstinate person</gloss>
+</entry>
+<entry>
+<reb>いざ</reb>
+<gloss>now</gloss>
+<gloss>come (now)</gloss>
+<gloss>well</gloss>
+</entry>
+<entry>
+<reb>いざこざ</reb>
+<reb>イザコザ</reb>
+<gloss>trouble</gloss>
+<gloss>quarrel</gloss>
+<gloss>difficulties</gloss>
+<gloss>complication</gloss>
+<gloss>tangle</gloss>
+</entry>
+<entry>
+<reb>イジイジ</reb>
+<reb>いじいじ</reb>
+<gloss>hesitantly</gloss>
+<gloss>timidly</gloss>
+<gloss>diffidently</gloss>
+</entry>
+<entry>
+<reb>いじける</reb>
+<gloss>to grow timid</gloss>
+<gloss>to cower</gloss>
+<gloss>to shrink</gloss>
+<gloss>to lose one's nerve</gloss>
+<gloss>to become perverse</gloss>
+<gloss>to become contrary</gloss>
+<gloss>to become warped</gloss>
+<gloss>to become withdrawn</gloss>
+<gloss>to be cramped</gloss>
+<gloss>to be constrained</gloss>
+</entry>
+<entry>
+<reb>いじましい</reb>
+<reb>いぢましい</reb>
+<gloss>stingy</gloss>
+<gloss>petty</gloss>
+<gloss>pathetic</gloss>
+<gloss>lovable</gloss>
+<gloss>sweet</gloss>
+<gloss>charming</gloss>
+<gloss>touching</gloss>
+</entry>
+<entry>
+<reb>いじらしい</reb>
+<gloss>lovable</gloss>
+<gloss>sweet</gloss>
+<gloss>charming</gloss>
+<gloss>pitiful</gloss>
+<gloss>pathetic</gloss>
+<gloss>touching</gloss>
+</entry>
+<entry>
+<keb>いじり回す</keb>
+<keb>弄り回す</keb>
+<keb>弄りまわす</keb>
+<reb>いじりまわす</reb>
+<gloss>to tinker with</gloss>
+<gloss>to fumble with</gloss>
+<gloss>to fiddle with</gloss>
+<gloss>to twiddle</gloss>
+</entry>
+<entry>
+<reb>いそいそ</reb>
+<reb>イソイソ</reb>
+<gloss>cheerfully</gloss>
+<gloss>joyously</gloss>
+<gloss>joyfully</gloss>
+<gloss>happily</gloss>
+<gloss>lightheartedly</gloss>
+<gloss>excitedly</gloss>
+<gloss>eagerly</gloss>
+</entry>
+<entry>
+<reb>イチャイチャ</reb>
+<reb>いちゃいちゃ</reb>
+<gloss>making out</gloss>
+<gloss>necking</gloss>
+<gloss>canoodling</gloss>
+<gloss>fondling</gloss>
+<gloss>flirting</gloss>
+</entry>
+<entry>
+<reb>いちゃつく</reb>
+<reb>イチャつく</reb>
+<gloss>to make out</gloss>
+<gloss>to neck</gloss>
+<gloss>to canoodle</gloss>
+<gloss>to fondle each other</gloss>
+<gloss>to flirt (with)</gloss>
+</entry>
+<entry>
+<keb>何時もより</keb>
+<reb>いつもより</reb>
+<gloss>more than usual</gloss>
+</entry>
+<entry>
+<keb>いとも簡単に</keb>
+<reb>いともかんたんに</reb>
+<gloss>very easily</gloss>
+</entry>
+<entry>
+<keb>鯔背</keb>
+<reb>いなせ</reb>
+<gloss>gallant</gloss>
+<gloss>dashing</gloss>
+<gloss>smart</gloss>
+</entry>
+<entry>
+<keb>嘶く</keb>
+<reb>いななく</reb>
+<gloss>to neigh</gloss>
+</entry>
+<entry>
+<keb>嘶き</keb>
+<reb>いななき</reb>
+<gloss>neigh</gloss>
+<gloss>whinny</gloss>
+<gloss>bray</gloss>
+</entry>
+<entry>
+<reb>いびる</reb>
+<gloss>to pick on</gloss>
+<gloss>to tease</gloss>
+</entry>
+<entry>
+<keb>嫌に</keb>
+<keb>厭に</keb>
+<reb>いやに</reb>
+<gloss>awfully</gloss>
+<gloss>terribly</gloss>
+</entry>
+<entry>
+<reb>いらっしゃい</reb>
+<reb>いらしゃい</reb>
+<gloss>come</gloss>
+<gloss>go</gloss>
+<gloss>stay</gloss>
+<gloss>welcome</gloss>
+</entry>
+<entry>
+<reb>いらっしゃいませ</reb>
+<reb>いらしゃいませ</reb>
+<gloss>welcome</gloss>
+</entry>
+<entry>
+<reb>いらっしゃる</reb>
+<gloss>to come</gloss>
+<gloss>to go</gloss>
+<gloss>to be (somewhere)</gloss>
+<gloss>to be (doing)</gloss>
+</entry>
+<entry>
+<reb>うじうじ</reb>
+<reb>ウジウジ</reb>
+<gloss>indecisively</gloss>
+<gloss>hesitantly</gloss>
+<gloss>irresolutely</gloss>
+<gloss>wishy-washily</gloss>
+</entry>
+<entry>
+<reb>うじゃうじゃ</reb>
+<reb>ウジャウジャ</reb>
+<gloss>in swarms</gloss>
+<gloss>in clusters</gloss>
+<gloss>tediously</gloss>
+<gloss>slowly</gloss>
+</entry>
+<entry>
+<reb>うずうず</reb>
+<reb>ウズウズ</reb>
+<gloss>itching to do something</gloss>
+<gloss>impatient</gloss>
+<gloss>sorely tempted</gloss>
+<gloss>eager</gloss>
+</entry>
+<entry>
+<reb>うぞうぞ</reb>
+<gloss>irrepressibly aroused (esp. sexually)</gloss>
+<gloss>stimulated</gloss>
+</entry>
+<entry>
+<reb>うだうだ</reb>
+<reb>ウダウダ</reb>
+<gloss>going on and on (about inconsequential things)</gloss>
+<gloss>talking nonsense</gloss>
+<gloss>idling away the time</gloss>
+<gloss>dawdling</gloss>
+</entry>
+<entry>
+<reb>うっかり</reb>
+<reb>ウッカリ</reb>
+<gloss>carelessly</gloss>
+<gloss>thoughtlessly</gloss>
+<gloss>inadvertently</gloss>
+</entry>
+<entry>
+<reb>うとうと</reb>
+<reb>ウトウト</reb>
+<reb>うとっと</reb>
+<reb>ウトッと</reb>
+<reb>ウトっと</reb>
+<gloss>falling into a doze</gloss>
+<gloss>dozing off</gloss>
+<gloss>nodding off</gloss>
+</entry>
+<entry>
+<reb>うねうね</reb>
+<reb>ウネウネ</reb>
+<gloss>winding</gloss>
+<gloss>meandering</gloss>
+<gloss>zigzagging</gloss>
+<gloss>zig-zag</gloss>
+<gloss>in twists and turns</gloss>
+<gloss>sinuously</gloss>
+<gloss>tortuously</gloss>
+</entry>
+<entry>
+<keb>畝り</keb>
+<reb>うねり</reb>
+<gloss>undulation</gloss>
+<gloss>winding</gloss>
+<gloss>meandering</gloss>
+<gloss>swell (of waves)</gloss>
+<gloss>ground swell</gloss>
+<gloss>surge</gloss>
+<gloss>billow</gloss>
+<gloss>roller</gloss>
+</entry>
+<entry>
+<reb>うろうろ</reb>
+<reb>ウロウロ</reb>
+<gloss>restlessly</gloss>
+<gloss>aimlessly</gloss>
+<gloss>without purpose</gloss>
+<gloss>to loiter</gloss>
+<gloss>to drift</gloss>
+<gloss>to hang about doing nothing</gloss>
+<gloss>to wander aimlessly</gloss>
+<gloss>to be restless</gloss>
+<gloss>to be restless</gloss>
+<gloss>to fuss</gloss>
+<gloss>to be in a fidget</gloss>
+</entry>
+<entry>
+<keb>狼狽える</keb>
+<reb>うろたえる</reb>
+<gloss>to be flustered</gloss>
+<gloss>to lose one's presence of mind</gloss>
+</entry>
+<entry>
+<reb>うん</reb>
+<reb>うむ</reb>
+<reb>ううむ</reb>
+<gloss>yes</gloss>
+<gloss>yeah</gloss>
+<gloss>uh huh</gloss>
+<gloss>hum</gloss>
+<gloss>hmmm</gloss>
+<gloss>well</gloss>
+<gloss>erm</gloss>
+<gloss>huh?</gloss>
+<gloss>oof</gloss>
+</entry>
+<entry>
+<reb>うんこ</reb>
+<reb>ウンコ</reb>
+<gloss>poop</gloss>
+<gloss>poo</gloss>
+<gloss>faeces</gloss>
+<gloss>feces</gloss>
+<gloss>crap</gloss>
+<gloss>trash</gloss>
+<gloss>garbage</gloss>
+</entry>
+<entry>
+<reb>うんざり</reb>
+<reb>ウンザリ</reb>
+<gloss>tedious</gloss>
+<gloss>boring</gloss>
+<gloss>being fed up with</gloss>
+</entry>
+<entry>
+<reb>ウンチ</reb>
+<reb>うんち</reb>
+<gloss>poo</gloss>
+<gloss>poop</gloss>
+<gloss>doo-doo</gloss>
+<gloss>caca</gloss>
+<gloss>whoopsie</gloss>
+</entry>
+<entry>
+<keb>鱝</keb>
+<keb>鱏</keb>
+<keb>海鷂魚</keb>
+<reb>えい</reb>
+<reb>エイ</reb>
+<gloss>ray (any fish of superorder Batoidea)</gloss>
+</entry>
+<entry>
+<reb>ええ</reb>
+<reb>えー</reb>
+<reb>えーー</reb>
+<reb>えーっ</reb>
+<gloss>yes</gloss>
+<gloss>that is correct</gloss>
+<gloss>right</gloss>
+<gloss>um</gloss>
+<gloss>errr</gloss>
+<gloss>well</gloss>
+<gloss>huh?</gloss>
+<gloss>grrr</gloss>
+<gloss>gah</gloss>
+<gloss>must I?</gloss>
+<gloss>good</gloss>
+</entry>
+<entry>
+<reb>えっと</reb>
+<reb>えーと</reb>
+<reb>えーっと</reb>
+<reb>ええと</reb>
+<reb>ええっと</reb>
+<reb>えーーっと</reb>
+<reb>えーーーっと</reb>
+<reb>えーーーーっと</reb>
+<gloss>let me see</gloss>
+<gloss>well</gloss>
+<gloss>errr ...</gloss>
+<gloss>uhh ...</gloss>
+</entry>
+<entry>
+<reb>えげつない</reb>
+<reb>エゲツない</reb>
+<gloss>dirty</gloss>
+<gloss>vulgar</gloss>
+<gloss>nasty</gloss>
+<gloss>offensive</gloss>
+<gloss>disgusting</gloss>
+</entry>
+<entry>
+<keb>斉魚</keb>
+<reb>えつ</reb>
+<reb>エツ</reb>
+<gloss>Japanese grenadier anchovy (Coilia nasus)</gloss>
+</entry>
+<entry>
+<keb>お出でになる</keb>
+<keb>御出でになる</keb>
+<reb>おいでになる</reb>
+<gloss>to be</gloss>
+<gloss>to come</gloss>
+<gloss>to go</gloss>
+</entry>
+<entry>
+<reb>おいでやす</reb>
+<gloss>welcome (in shops, etc.)</gloss>
+</entry>
+<entry>
+<reb>おい</reb>
+<reb>オイ</reb>
+<gloss>hey!</gloss>
+<gloss>say!</gloss>
+<gloss>I say!</gloss>
+<gloss>come on!</gloss>
+<gloss>look!</gloss>
+<gloss>oi!</gloss>
+<gloss>I</gloss>
+<gloss>me</gloss>
+</entry>
+<entry>
+<reb>おけさ</reb>
+<gloss>style of Japanese folk song associated with Niigata Prefecture</gloss>
+</entry>
+<entry>
+<keb>おけさ節</keb>
+<reb>おけさぶし</reb>
+<gloss>style of Japanese folk song associated with Niigata Prefecture</gloss>
+</entry>
+<entry>
+<reb>おこしやす</reb>
+<gloss>welcome!</gloss>
+</entry>
+<entry>
+<keb>お座なりになる</keb>
+<reb>おざなりになる</reb>
+<gloss>to not be taken seriously</gloss>
+</entry>
+<entry>
+<reb>おしっこ</reb>
+<reb>オシッコ</reb>
+<gloss>wee-wee</gloss>
+<gloss>pee-pee</gloss>
+<gloss>number one</gloss>
+</entry>
+<entry>
+<reb>おしゃぶり</reb>
+<gloss>teething ring</gloss>
+<gloss>pacifier</gloss>
+<gloss>dummy</gloss>
+<gloss>blowjob</gloss>
+</entry>
+<entry>
+<keb>悍ましい</keb>
+<reb>おぞましい</reb>
+<gloss>disgusting</gloss>
+<gloss>repulsive</gloss>
+</entry>
+<entry>
+<reb>オタオタ</reb>
+<reb>おたおた</reb>
+<gloss>flustered</gloss>
+<gloss>flurried</gloss>
+<gloss>(shocked) speechless</gloss>
+</entry>
+<entry>
+<reb>おちんちん</reb>
+<gloss>penis</gloss>
+</entry>
+<entry>
+<reb>おっかない</reb>
+<gloss>frightening</gloss>
+<gloss>scary</gloss>
+<gloss>extreme</gloss>
+<gloss>exaggerated</gloss>
+<gloss>huge</gloss>
+</entry>
+<entry>
+<keb>落っこちる</keb>
+<reb>おっこちる</reb>
+<gloss>to fall</gloss>
+<gloss>to drop</gloss>
+<gloss>to fail (an exam)</gloss>
+<gloss>to lose (a contest, election, etc.)</gloss>
+<gloss>to be unsuccessful</gloss>
+</entry>
+<entry>
+<reb>おっさん</reb>
+<reb>オッサン</reb>
+<gloss>middle-aged man</gloss>
+<gloss>Buddhist priest</gloss>
+</entry>
+<entry>
+<reb>おっちょこちょい</reb>
+<reb>オッチョコチョイ</reb>
+<gloss>careless person</gloss>
+<gloss>scatterbrain</gloss>
+<gloss>birdbrain</gloss>
+<gloss>hasty person</gloss>
+</entry>
+<entry>
+<reb>おっぱい</reb>
+<reb>オッパイ</reb>
+<gloss>boobs</gloss>
+<gloss>boobies</gloss>
+<gloss>breasts</gloss>
+<gloss>tits</gloss>
+<gloss>breast milk</gloss>
+</entry>
+<entry>
+<keb>御田</keb>
+<keb>お田</keb>
+<reb>おでん</reb>
+<gloss>oden</gloss>
+</entry>
+<entry>
+<reb>オドオド</reb>
+<reb>おどおど</reb>
+<gloss>timidly</gloss>
+<gloss>nervously</gloss>
+<gloss>hesitantly</gloss>
+<gloss>trembling (with fear)</gloss>
+<gloss>fearfully</gloss>
+<gloss>anxiously</gloss>
+</entry>
+<entry>
+<keb>お鍋</keb>
+<keb>御鍋</keb>
+<reb>おなべ</reb>
+<reb>オナベ</reb>
+<gloss>pan</gloss>
+<gloss>pot</gloss>
+<gloss>transgender man (female-to-male)</gloss>
+<gloss>butch lesbian</gloss>
+<gloss>female transvestite</gloss>
+<gloss>maidservant</gloss>
+<gloss>housemaid</gloss>
+<gloss>night work</gloss>
+</entry>
+<entry>
+<reb>おなら</reb>
+<reb>オナラ</reb>
+<gloss>wind</gloss>
+<gloss>gas</gloss>
+<gloss>fart</gloss>
+</entry>
+<entry>
+<reb>おばこ</reb>
+<gloss>young girl</gloss>
+<gloss>daughter</gloss>
+<gloss>unmarried girl</gloss>
+</entry>
+<entry>
+<reb>おべっか</reb>
+<gloss>flattery</gloss>
+</entry>
+<entry>
+<reb>おべんちゃら</reb>
+<gloss>(excessive) flattery</gloss>
+<gloss>smarminess</gloss>
+<gloss>fawning</gloss>
+</entry>
+<entry>
+<keb>お負けに</keb>
+<keb>御負けに</keb>
+<reb>おまけに</reb>
+<gloss>to make matters worse</gloss>
+<gloss>besides</gloss>
+<gloss>what's more</gloss>
+<gloss>in addition</gloss>
+<gloss>on top of that</gloss>
+</entry>
+<entry>
+<keb>お呪い</keb>
+<keb>御呪い</keb>
+<keb>お咒い</keb>
+<reb>おまじない</reb>
+<gloss>good luck charm</gloss>
+</entry>
+<entry>
+<reb>おまんこ</reb>
+<reb>オマンコ</reb>
+<gloss>pussy</gloss>
+<gloss>vulva</gloss>
+<gloss>vagina</gloss>
+<gloss>sex</gloss>
+<gloss>fucking</gloss>
+<gloss>screwing</gloss>
+</entry>
+<entry>
+<keb>御襁褓気触れ</keb>
+<keb>お襁褓気触れ</keb>
+<keb>オムツ気触れ</keb>
+<reb>おむつかぶれ</reb>
+<reb>オムツかぶれ</reb>
+<gloss>diaper rash</gloss>
+<gloss>nappy rash</gloss>
+</entry>
+<entry>
+<keb>お粧し</keb>
+<keb>御粧し</keb>
+<reb>おめかし</reb>
+<gloss>dressing up</gloss>
+<gloss>putting on makeup</gloss>
+<gloss>dolling (oneself) up</gloss>
+</entry>
+<entry>
+<keb>おめでとう御座います</keb>
+<keb>御目出度う御座います</keb>
+<keb>お目出度うございます</keb>
+<reb>おめでとうございます</reb>
+<gloss>congratulations</gloss>
+</entry>
+<entry>
+<reb>おや</reb>
+<gloss>oh!</gloss>
+<gloss>oh?</gloss>
+<gloss>my!</gloss>
+</entry>
+<entry>
+<reb>おやおや</reb>
+<gloss>my goodness!</gloss>
+<gloss>oh my!</gloss>
+<gloss>oh dear!</gloss>
+</entry>
+<entry>
+<reb>おろおろ</reb>
+<reb>オロオロ</reb>
+<gloss>in confusion</gloss>
+<gloss>in a fluster</gloss>
+<gloss>in bewilderment</gloss>
+<gloss>in a dither</gloss>
+<gloss>in a panic</gloss>
+<gloss>all shook up</gloss>
+<gloss>helplessly</gloss>
+<gloss>sobbing</gloss>
+<gloss>tearfully</gloss>
+<gloss>trembling (voice)</gloss>
+</entry>
+<entry>
+<reb>おデブさん</reb>
+<reb>おでぶさん</reb>
+<gloss>chubby person</gloss>
+</entry>
+<entry>
+<keb>お握り</keb>
+<keb>御握り</keb>
+<reb>おにぎり</reb>
+<gloss>onigiri</gloss>
+<gloss>rice ball (often triangular, sometimes with a filling and wrapped in nori)</gloss>
+</entry>
+<entry>
+<keb>お陰</keb>
+<keb>お蔭</keb>
+<keb>御陰</keb>
+<keb>御蔭</keb>
+<reb>おかげ</reb>
+<gloss>grace (of God)</gloss>
+<gloss>benevolence (of Buddha)</gloss>
+<gloss>blessing</gloss>
+<gloss>assistance</gloss>
+<gloss>help</gloss>
+<gloss>aid</gloss>
+<gloss>effects</gloss>
+<gloss>influence</gloss>
+</entry>
+<entry>
+<keb>お陰様</keb>
+<keb>お蔭様</keb>
+<keb>おかげ様</keb>
+<keb>お陰さま</keb>
+<keb>御陰様</keb>
+<keb>お蔭さま</keb>
+<keb>御蔭様</keb>
+<reb>おかげさま</reb>
+<gloss>(someone's) assistance</gloss>
+<gloss>help</gloss>
+<gloss>aid</gloss>
+<gloss>kindness</gloss>
+<gloss>goodwill</gloss>
+<gloss>grace (of God)</gloss>
+<gloss>benevolence (of Buddha)</gloss>
+<gloss>blessing</gloss>
+</entry>
+<entry>
+<keb>お下げ</keb>
+<keb>御下げ</keb>
+<reb>おさげ</reb>
+<gloss>wearing one's hair in braids</gloss>
+</entry>
+<entry>
+<keb>お化け</keb>
+<keb>御化け</keb>
+<reb>おばけ</reb>
+<reb>オバケ</reb>
+<gloss>ghost</gloss>
+<gloss>apparition</gloss>
+<gloss>goblin</gloss>
+<gloss>monster</gloss>
+<gloss>demon</gloss>
+<gloss>something unusually large</gloss>
+</entry>
+<entry>
+<keb>お化け屋敷</keb>
+<keb>おばけ屋敷</keb>
+<keb>御化け屋敷</keb>
+<reb>おばけやしき</reb>
+<gloss>haunted house</gloss>
+<gloss>spook house</gloss>
+<gloss>haunted house (attraction)</gloss>
+<gloss>haunted attraction</gloss>
+</entry>
+<entry>
+<keb>お嫁さん</keb>
+<reb>およめさん</reb>
+<gloss>wife</gloss>
+</entry>
+<entry>
+<keb>お菓子</keb>
+<keb>御菓子</keb>
+<reb>おかし</reb>
+<gloss>confections</gloss>
+<gloss>sweets</gloss>
+<gloss>candy</gloss>
+<gloss>cake</gloss>
+</entry>
+<entry>
+<keb>お願いします</keb>
+<keb>御願いします</keb>
+<reb>おねがいします</reb>
+<gloss>please</gloss>
+</entry>
+<entry>
+<keb>お願いいたします</keb>
+<keb>お願い致します</keb>
+<keb>御願い致します</keb>
+<keb>御願いいたします</keb>
+<reb>おねがいいたします</reb>
+<gloss>please</gloss>
+</entry>
+<entry>
+<keb>お帰りなさい</keb>
+<keb>御帰りなさい</keb>
+<reb>おかえりなさい</reb>
+<gloss>welcome home</gloss>
+</entry>
+<entry>
+<keb>お気の毒</keb>
+<keb>御気の毒</keb>
+<keb>お気のどく</keb>
+<reb>おきのどく</reb>
+<gloss>I am sorry (to hear, to say, etc.)</gloss>
+<gloss>a pity</gloss>
+</entry>
+<entry>
+<keb>お客さん</keb>
+<keb>御客さん</keb>
+<reb>おきゃくさん</reb>
+<gloss>guest</gloss>
+<gloss>visitor</gloss>
+<gloss>customer</gloss>
+<gloss>client</gloss>
+<gloss>shopper</gloss>
+<gloss>spectator</gloss>
+<gloss>audience</gloss>
+<gloss>tourist</gloss>
+<gloss>sightseer</gloss>
+<gloss>passenger</gloss>
+</entry>
+<entry>
+<keb>お客様</keb>
+<keb>お客さま</keb>
+<keb>御客様</keb>
+<keb>御客さま</keb>
+<reb>おきゃくさま</reb>
+<gloss>guest</gloss>
+<gloss>visitor</gloss>
+<gloss>customer</gloss>
+<gloss>client</gloss>
+<gloss>shopper</gloss>
+<gloss>spectator</gloss>
+<gloss>audience</gloss>
+<gloss>tourist</gloss>
+<gloss>sightseer</gloss>
+<gloss>passenger</gloss>
+</entry>
+<entry>
+<keb>お休みなさい</keb>
+<keb>御休みなさい</keb>
+<reb>おやすみなさい</reb>
+<gloss>good night</gloss>
+</entry>
+<entry>
+<keb>お宮</keb>
+<reb>おみや</reb>
+<gloss>Shinto shrine</gloss>
+</entry>
+<entry>
+<keb>お宮参り</keb>
+<keb>御宮参り</keb>
+<reb>おみやまいり</reb>
+<gloss>miyamairi</gloss>
+<gloss>newborn child's first visit to a shrine (within about 30 days of being born)</gloss>
+<gloss>visiting a shrine</gloss>
+</entry>
+<entry>
+<keb>お供</keb>
+<keb>御供</keb>
+<keb>お伴</keb>
+<keb>御伴</keb>
+<reb>おとも</reb>
+<gloss>attendant</gloss>
+<gloss>companion</gloss>
+</entry>
+<entry>
+<keb>お金</keb>
+<keb>御金</keb>
+<reb>おかね</reb>
+<gloss>money</gloss>
+</entry>
+<entry>
+<keb>お兄さん</keb>
+<keb>御兄さん</keb>
+<reb>おにいさん</reb>
+<gloss>older brother</gloss>
+<gloss>elder brother</gloss>
+<gloss>young man</gloss>
+<gloss>buddy</gloss>
+<gloss>fella</gloss>
+<gloss>laddie</gloss>
+</entry>
+<entry>
+<keb>お兄ちゃん</keb>
+<keb>御兄ちゃん</keb>
+<reb>おにいちゃん</reb>
+<gloss>(one's) older brother</gloss>
+<gloss>lad</gloss>
+<gloss>sonny</gloss>
+</entry>
+<entry>
+<keb>お結び</keb>
+<keb>御結び</keb>
+<reb>おむすび</reb>
+<gloss>onigiri</gloss>
+<gloss>rice ball</gloss>
+</entry>
+<entry>
+<keb>お見えになる</keb>
+<keb>御見えになる</keb>
+<reb>おみえになる</reb>
+<gloss>to arrive</gloss>
+</entry>
+<entry>
+<keb>お見舞い</keb>
+<keb>お見舞</keb>
+<keb>御見舞い</keb>
+<keb>御見舞</keb>
+<reb>おみまい</reb>
+<gloss>calling on someone who is ill</gloss>
+<gloss>enquiry</gloss>
+<gloss>inquiry</gloss>
+</entry>
+<entry>
+<keb>お古</keb>
+<keb>御古</keb>
+<reb>おふる</reb>
+<gloss>used article (esp. clothes)</gloss>
+</entry>
+<entry>
+<keb>お好み焼き</keb>
+<keb>お好み焼</keb>
+<keb>御好み焼き</keb>
+<keb>御好み焼</keb>
+<reb>おこのみやき</reb>
+<gloss>okonomiyaki</gloss>
+</entry>
+<entry>
+<keb>お構いなく</keb>
+<keb>お構い無く</keb>
+<keb>御構い無く</keb>
+<keb>御構いなく</keb>
+<reb>おかまいなく</reb>
+<gloss>please don't fuss over me</gloss>
+<gloss>don't go to any trouble</gloss>
+<gloss>don't bother</gloss>
+</entry>
+<entry>
+<keb>お絞り</keb>
+<keb>御絞り</keb>
+<reb>おしぼり</reb>
+<gloss>wet towel (supplied at table)</gloss>
+<gloss>hot, moistened hand towel</gloss>
+</entry>
+<entry>
+<keb>お札</keb>
+<keb>御札</keb>
+<reb>おさつ</reb>
+<gloss>banknote</gloss>
+<gloss>bill</gloss>
+<gloss>note</gloss>
+</entry>
+<entry>
+<keb>お雑煮</keb>
+<keb>御雑煮</keb>
+<reb>おぞうに</reb>
+<gloss>soup containing rice cakes and vegetables (New Year's dish)</gloss>
+</entry>
+<entry>
+<keb>お三時</keb>
+<keb>御三時</keb>
+<reb>おさんじ</reb>
+<gloss>afternoon snack (eaten around 3 o'clock)</gloss>
+<gloss>afternoon tea</gloss>
+</entry>
+<entry>
+<keb>お参り</keb>
+<keb>御参り</keb>
+<reb>おまいり</reb>
+<gloss>visit (to a shrine, grave, etc.)</gloss>
+<gloss>worship</gloss>
+</entry>
+<entry>
+<keb>お産</keb>
+<keb>御産</keb>
+<reb>おさん</reb>
+<gloss>(giving) birth</gloss>
+<gloss>childbirth</gloss>
+<gloss>delivery</gloss>
+</entry>
+<entry>
+<keb>お仕舞い</keb>
+<keb>お終い</keb>
+<keb>御仕舞い</keb>
+<keb>御終い</keb>
+<keb>お仕舞</keb>
+<keb>御仕舞</keb>
+<reb>おしまい</reb>
+<gloss>the end</gloss>
+<gloss>closing</gloss>
+<gloss>being done for</gloss>
+<gloss>that's it</gloss>
+<gloss>that's enough</gloss>
+<gloss>that's all</gloss>
+</entry>
+<entry>
+<keb>お使い</keb>
+<keb>お遣い</keb>
+<keb>御使い</keb>
+<keb>御遣い</keb>
+<keb>お使</keb>
+<keb>御使</keb>
+<reb>おつかい</reb>
+<gloss>errand</gloss>
+<gloss>mission</gloss>
+<gloss>going on an errand</gloss>
+<gloss>messenger</gloss>
+<gloss>bearer</gloss>
+<gloss>errand boy</gloss>
+<gloss>errand girl</gloss>
+<gloss>familiar spirit</gloss>
+</entry>
+<entry>
+<keb>お姉さん</keb>
+<keb>お姐さん</keb>
+<keb>御姉さん</keb>
+<keb>御姐さん</keb>
+<reb>おねえさん</reb>
+<gloss>older sister</gloss>
+<gloss>elder sister</gloss>
+<gloss>young lady</gloss>
+<gloss>miss</gloss>
+<gloss>ma'am</gloss>
+<gloss>older girl</gloss>
+</entry>
+<entry>
+<keb>お子さん</keb>
+<keb>御子さん</keb>
+<reb>おこさん</reb>
+<gloss>child</gloss>
+</entry>
+<entry>
+<keb>お子様</keb>
+<keb>お子さま</keb>
+<keb>御子様</keb>
+<keb>御子さま</keb>
+<reb>おこさま</reb>
+<gloss>(another's) child</gloss>
+<gloss>child</gloss>
+<gloss>kid</gloss>
+</entry>
+<entry>
+<keb>お歯黒</keb>
+<keb>鉄漿</keb>
+<keb>御歯黒</keb>
+<reb>おはぐろ</reb>
+<gloss>tooth blackening</gloss>
+<gloss>tooth-blackening dye</gloss>
+</entry>
+<entry>
+<keb>お辞儀</keb>
+<keb>御辞儀</keb>
+<reb>おじぎ</reb>
+<gloss>bow</gloss>
+<gloss>bowing</gloss>
+</entry>
+<entry>
+<keb>お七夜</keb>
+<reb>おしちや</reb>
+<gloss>name-giving ceremony</gloss>
+</entry>
+<entry>
+<keb>お邪魔します</keb>
+<keb>御邪魔します</keb>
+<reb>おじゃまします</reb>
+<gloss>please excuse the intrusion</gloss>
+<gloss>I'm coming in</gloss>
+</entry>
+<entry>
+<keb>お守り</keb>
+<keb>御守り</keb>
+<keb>御守</keb>
+<keb>お守</keb>
+<reb>おまもり</reb>
+<gloss>charm</gloss>
+<gloss>amulet</gloss>
+<gloss>talisman</gloss>
+</entry>
+<entry>
+<keb>お手玉</keb>
+<keb>御手玉</keb>
+<reb>おてだま</reb>
+<gloss>beanbag</gloss>
+<gloss>beanbag juggling game</gloss>
+<gloss>bobbling the ball</gloss>
+</entry>
+<entry>
+<keb>お手上げ</keb>
+<keb>お手あげ</keb>
+<keb>御手上げ</keb>
+<reb>おてあげ</reb>
+<gloss>being done for</gloss>
+<gloss>giving up</gloss>
+<gloss>being in a hopeless situation</gloss>
+<gloss>not knowing what to do</gloss>
+<gloss>being brought to one's knees</gloss>
+</entry>
+<entry>
+<keb>お手盛り</keb>
+<keb>御手盛り</keb>
+<reb>おてもり</reb>
+<gloss>making arbitrary decisions which benefit oneself</gloss>
+<gloss>self-approved plan</gloss>
+</entry>
+<entry>
+<keb>お手洗い</keb>
+<keb>御手洗</keb>
+<keb>御手洗い</keb>
+<reb>おてあらい</reb>
+<gloss>toilet</gloss>
+<gloss>restroom</gloss>
+<gloss>lavatory</gloss>
+<gloss>bathroom</gloss>
+</entry>
+<entry>
+<keb>お手伝いさん</keb>
+<keb>御手伝いさん</keb>
+<reb>おてつだいさん</reb>
+<gloss>maid</gloss>
+</entry>
+<entry>
+<keb>お巡りさん</keb>
+<keb>御巡りさん</keb>
+<reb>おまわりさん</reb>
+<gloss>police officer</gloss>
+</entry>
+<entry>
+<keb>お召し</keb>
+<keb>お召</keb>
+<keb>御召し</keb>
+<keb>御召</keb>
+<reb>おめし</reb>
+<gloss>summoning</gloss>
+<gloss>calling</gloss>
+<gloss>riding</gloss>
+<gloss>wearing</gloss>
+<gloss>dressing</gloss>
+<gloss>clothing</gloss>
+<gloss>(high-quality) silk crepe (fabric)</gloss>
+</entry>
+<entry>
+<keb>お召し物</keb>
+<keb>御召し物</keb>
+<reb>おめしもの</reb>
+<gloss>clothing</gloss>
+</entry>
+<entry>
+<keb>お勧め</keb>
+<keb>お薦め</keb>
+<keb>お奨め</keb>
+<keb>御勧め</keb>
+<keb>御薦め</keb>
+<keb>御奨め</keb>
+<reb>おすすめ</reb>
+<reb>オススメ</reb>
+<gloss>recommendation</gloss>
+<gloss>advice</gloss>
+<gloss>suggestion</gloss>
+<gloss>encouragement</gloss>
+</entry>
+<entry>
+<keb>お上りさん</keb>
+<reb>おのぼりさん</reb>
+<gloss>countryside people (in town)</gloss>
+<gloss>visitor from the country</gloss>
+<gloss>out-of-towner</gloss>
+<gloss>country bumpkin (visiting the big city)</gloss>
+<gloss>yokel</gloss>
+</entry>
+<entry>
+<keb>お嬢さん</keb>
+<keb>御嬢さん</keb>
+<reb>おじょうさん</reb>
+<gloss>(another's) daughter</gloss>
+<gloss>young lady</gloss>
+</entry>
+<entry>
+<keb>お食い初め</keb>
+<keb>御食い初め</keb>
+<reb>おくいぞめ</reb>
+<gloss>okuizome</gloss>
+<gloss>weaning ceremony</gloss>
+</entry>
+<entry>
+<keb>お尻</keb>
+<keb>御尻</keb>
+<reb>おしり</reb>
+<reb>オシリ</reb>
+<gloss>bottom</gloss>
+<gloss>buttocks</gloss>
+<gloss>bidet function (for anal cleansing)</gloss>
+</entry>
+<entry>
+<keb>お寝小</keb>
+<keb>御寝小</keb>
+<keb>お寝しょ</keb>
+<reb>おねしょ</reb>
+<reb>オネショ</reb>
+<gloss>bed-wetting</gloss>
+</entry>
+<entry>
+<keb>お新香</keb>
+<keb>御新香</keb>
+<reb>おしんこ</reb>
+<gloss>pickled vegetables</gloss>
+<gloss>pickles</gloss>
+</entry>
+<entry>
+<keb>お浸し</keb>
+<keb>御浸し</keb>
+<keb>御ひたし</keb>
+<keb>御したし</keb>
+<reb>おひたし</reb>
+<reb>おしたし</reb>
+<gloss>boiled greens in bonito-flavoured soy sauce (vegetable side dish)</gloss>
+</entry>
+<entry>
+<keb>お神酒</keb>
+<keb>御神酒</keb>
+<keb>大御酒</keb>
+<reb>おみき</reb>
+<gloss>sacred wine</gloss>
+<gloss>sacred sake</gloss>
+<gloss>sake offered to the gods</gloss>
+<gloss>sake</gloss>
+</entry>
+<entry>
+<keb>お尋ね者</keb>
+<keb>おたずね者</keb>
+<keb>御尋ね者</keb>
+<reb>おたずねもの</reb>
+<gloss>person sought by the police</gloss>
+<gloss>wanted person</gloss>
+<gloss>fugitive from justice</gloss>
+</entry>
+<entry>
+<keb>お世辞</keb>
+<keb>御世辞</keb>
+<reb>おせじ</reb>
+<gloss>flattery</gloss>
+<gloss>compliment</gloss>
+</entry>
+<entry>
+<keb>お世話になる</keb>
+<keb>御世話になる</keb>
+<reb>おせわになる</reb>
+<gloss>to receive favor</gloss>
+<gloss>to receive assistance</gloss>
+<gloss>to receive help</gloss>
+<gloss>to be looked after</gloss>
+<gloss>to be taken care of</gloss>
+<gloss>to become dependent (on)</gloss>
+<gloss>to become much obliged (to someone)</gloss>
+<gloss>to become indebted</gloss>
+</entry>
+<entry>
+<keb>お生憎様</keb>
+<keb>おあいにく様</keb>
+<keb>お生憎さま</keb>
+<keb>御生憎様</keb>
+<reb>おあいにくさま</reb>
+<gloss>sorry</gloss>
+<gloss>too bad (for you)!</gloss>
+<gloss>tough luck!</gloss>
+</entry>
+<entry>
+<keb>お先に</keb>
+<reb>おさきに</reb>
+<gloss>before</gloss>
+<gloss>previously</gloss>
+<gloss>ahead</gloss>
+<gloss>pardon me for leaving (before you)</gloss>
+</entry>
+<entry>
+<keb>お前</keb>
+<keb>御前</keb>
+<reb>おまえ</reb>
+<reb>おまい</reb>
+<gloss>you</gloss>
+<gloss>before (a god, nobleman, etc.)</gloss>
+<gloss>in front of</gloss>
+</entry>
+<entry>
+<keb>お前さん</keb>
+<keb>御前さん</keb>
+<reb>おまえさん</reb>
+<gloss>you</gloss>
+<gloss>hubby</gloss>
+<gloss>dearie</gloss>
+</entry>
+<entry>
+<keb>お膳</keb>
+<reb>おぜん</reb>
+<gloss>four-legged tray for festive food</gloss>
+</entry>
+<entry>
+<keb>お祖父さん</keb>
+<keb>お爺さん</keb>
+<keb>御爺さん</keb>
+<keb>御祖父さん</keb>
+<reb>おじいさん</reb>
+<gloss>grandfather</gloss>
+<gloss>male senior-citizen</gloss>
+<gloss>old man</gloss>
+</entry>
+<entry>
+<keb>お祖母さん</keb>
+<keb>お婆さん</keb>
+<keb>御祖母さん</keb>
+<keb>御婆さん</keb>
+<reb>おばあさん</reb>
+<reb>おばーさん</reb>
+<gloss>grandmother</gloss>
+<gloss>old woman</gloss>
+<gloss>female senior citizen</gloss>
+</entry>
+<entry>
+<keb>お早うございます</keb>
+<keb>お早う御座います</keb>
+<keb>おはよう御座います</keb>
+<reb>おはようございます</reb>
+<reb>おはよーございます</reb>
+<gloss>good morning</gloss>
+</entry>
+<entry>
+<keb>お孫さん</keb>
+<keb>御孫さん</keb>
+<reb>おまごさん</reb>
+<gloss>grandchild</gloss>
+</entry>
+<entry>
+<keb>お待ちどおさま</keb>
+<keb>お待ち遠様</keb>
+<keb>お待ちどうさま</keb>
+<keb>御待ち遠様</keb>
+<keb>お待ち遠さま</keb>
+<keb>お待ちどお様</keb>
+<keb>お待ちどう様</keb>
+<reb>おまちどおさま</reb>
+<reb>おまちどうさま</reb>
+<gloss>I'm sorry to have kept you waiting</gloss>
+</entry>
+<entry>
+<keb>お袋</keb>
+<keb>お母</keb>
+<keb>御袋</keb>
+<reb>おふくろ</reb>
+<reb>オフクロ</reb>
+<gloss>(one's) mother</gloss>
+</entry>
+<entry>
+<keb>お大事に</keb>
+<reb>おだいじに</reb>
+<gloss>take care of yourself</gloss>
+<gloss>get well soon</gloss>
+</entry>
+<entry>
+<keb>お宅</keb>
+<keb>御宅</keb>
+<reb>おたく</reb>
+<gloss>your house</gloss>
+<gloss>your home</gloss>
+<gloss>your family</gloss>
+<gloss>your husband</gloss>
+<gloss>your organization</gloss>
+<gloss>you</gloss>
+</entry>
+<entry>
+<keb>お誕生日おめでとうございます</keb>
+<keb>御誕生日おめでとうございます</keb>
+<reb>おたんじょうびおめでとうございます</reb>
+<gloss>happy birthday</gloss>
+</entry>
+<entry>
+<keb>お知らせ</keb>
+<keb>お報せ</keb>
+<keb>御報せ</keb>
+<keb>御知らせ</keb>
+<reb>おしらせ</reb>
+<gloss>notice</gloss>
+<gloss>notification</gloss>
+</entry>
+<entry>
+<keb>お茶</keb>
+<keb>御茶</keb>
+<reb>おちゃ</reb>
+<gloss>tea (esp. green or barley)</gloss>
+<gloss>tea break (at work)</gloss>
+<gloss>tea ceremony</gloss>
+</entry>
+<entry>
+<keb>お猪口</keb>
+<keb>御猪口</keb>
+<reb>おちょこ</reb>
+<gloss>sake cup</gloss>
+</entry>
+<entry>
+<keb>お喋り</keb>
+<keb>御喋り</keb>
+<reb>おしゃべり</reb>
+<gloss>chattering</gloss>
+<gloss>talk</gloss>
+<gloss>idle talk</gloss>
+<gloss>chat</gloss>
+<gloss>chitchat</gloss>
+<gloss>gossip</gloss>
+<gloss>chatty</gloss>
+<gloss>talkative</gloss>
+<gloss>chatterbox</gloss>
+<gloss>blabbermouth</gloss>
+</entry>
+<entry>
+<keb>お天気</keb>
+<keb>御天気</keb>
+<reb>おてんき</reb>
+<gloss>weather</gloss>
+<gloss>mood</gloss>
+<gloss>temper</gloss>
+</entry>
+<entry>
+<keb>お転婆</keb>
+<keb>御転婆</keb>
+<keb>於転婆</keb>
+<reb>おてんば</reb>
+<gloss>tomboy</gloss>
+</entry>
+<entry>
+<keb>お屠蘇</keb>
+<keb>御屠蘇</keb>
+<reb>おとそ</reb>
+<gloss>New Year's sake</gloss>
+<gloss>spiced sake</gloss>
+</entry>
+<entry>
+<keb>お土産</keb>
+<keb>御土産</keb>
+<reb>おみやげ</reb>
+<reb>おみあげ</reb>
+<gloss>local specialty or souvenir bought as a gift while travelling</gloss>
+<gloss>present brought by a visitor</gloss>
+<gloss>something unpleasant that one is given (e.g. an illness while on vacation)</gloss>
+<gloss>unwelcome gift</gloss>
+<gloss>disservice</gloss>
+</entry>
+<entry>
+<keb>お湯</keb>
+<keb>御湯</keb>
+<reb>おゆ</reb>
+<gloss>hot water</gloss>
+<gloss>hot bath</gloss>
+</entry>
+<entry>
+<keb>お得</keb>
+<keb>お徳</keb>
+<keb>御得</keb>
+<keb>御徳</keb>
+<reb>おとく</reb>
+<reb>おトク</reb>
+<gloss>bargain</gloss>
+<gloss>good-value</gloss>
+<gloss>economical</gloss>
+</entry>
+<entry>
+<keb>お凸</keb>
+<keb>御凸</keb>
+<reb>おでこ</reb>
+<gloss>brow</gloss>
+<gloss>forehead</gloss>
+<gloss>prominent forehead</gloss>
+<gloss>beetle brow</gloss>
+<gloss>not catching anything</gloss>
+</entry>
+<entry>
+<keb>お婆ん</keb>
+<reb>おばん</reb>
+<gloss>old maid</gloss>
+<gloss>frump</gloss>
+<gloss>hag</gloss>
+<gloss>old woman</gloss>
+</entry>
+<entry>
+<keb>お疲れ様</keb>
+<keb>お疲れさま</keb>
+<keb>おつかれ様</keb>
+<keb>御疲れ様</keb>
+<reb>おつかれさま</reb>
+<gloss>thank you (for your hard work)</gloss>
+<gloss>good work</gloss>
+<gloss>see you</gloss>
+<gloss>goodbye</gloss>
+<gloss>goodnight</gloss>
+</entry>
+<entry>
+<keb>お付き</keb>
+<keb>御付き</keb>
+<reb>おつき</reb>
+<gloss>retainer</gloss>
+<gloss>attendant</gloss>
+<gloss>escort</gloss>
+</entry>
+<entry>
+<keb>お父さん</keb>
+<keb>御父さん</keb>
+<reb>おとうさん</reb>
+<reb>おとっさん</reb>
+<gloss>father</gloss>
+<gloss>dad</gloss>
+<gloss>papa</gloss>
+<gloss>pa</gloss>
+<gloss>pop</gloss>
+<gloss>daddy</gloss>
+<gloss>dada</gloss>
+<gloss>husband</gloss>
+<gloss>you (of an elderly person older than the speaker)</gloss>
+<gloss>he</gloss>
+<gloss>him</gloss>
+</entry>
+<entry>
+<keb>お風呂に入る</keb>
+<keb>御風呂に入る</keb>
+<reb>おふろにはいる</reb>
+<gloss>to take a bath</gloss>
+<gloss>to have a bath</gloss>
+<gloss>to take a shower</gloss>
+</entry>
+<entry>
+<keb>お腹</keb>
+<keb>お中</keb>
+<keb>御腹</keb>
+<keb>御中</keb>
+<reb>おなか</reb>
+<gloss>belly</gloss>
+<gloss>abdomen</gloss>
+<gloss>stomach</gloss>
+</entry>
+<entry>
+<keb>お別れ</keb>
+<keb>御別れ</keb>
+<reb>おわかれ</reb>
+<gloss>parting</gloss>
+<gloss>farewell</gloss>
+</entry>
+<entry>
+<keb>お返し</keb>
+<keb>御返し</keb>
+<reb>おかえし</reb>
+<gloss>return gift</gloss>
+<gloss>return favour</gloss>
+<gloss>revenge</gloss>
+<gloss>change (in a cash transaction)</gloss>
+</entry>
+<entry>
+<keb>お母さん</keb>
+<keb>御母さん</keb>
+<reb>おかあさん</reb>
+<gloss>mother</gloss>
+<gloss>mom</gloss>
+<gloss>mum</gloss>
+<gloss>ma</gloss>
+<gloss>wife</gloss>
+<gloss>you (of an elderly person older than the speaker)</gloss>
+<gloss>she</gloss>
+<gloss>her</gloss>
+</entry>
+<entry>
+<keb>お母様</keb>
+<keb>お母さま</keb>
+<keb>御母様</keb>
+<reb>おかあさま</reb>
+<gloss>mother</gloss>
+</entry>
+<entry>
+<keb>お坊ちゃん</keb>
+<keb>お坊っちゃん</keb>
+<keb>御坊ちゃん</keb>
+<keb>御坊っちゃん</keb>
+<reb>おぼっちゃん</reb>
+<gloss>son (of others)</gloss>
+<gloss>boy</gloss>
+<gloss>young master</gloss>
+<gloss>green young man from a well-to-do family</gloss>
+<gloss>young man innocent of the ways of the world</gloss>
+</entry>
+<entry>
+<keb>お墨付き</keb>
+<keb>お墨つき</keb>
+<keb>御墨付き</keb>
+<keb>お墨付</keb>
+<reb>おすみつき</reb>
+<gloss>certificate</gloss>
+<gloss>certified document</gloss>
+<gloss>authorization</gloss>
+<gloss>authorisation</gloss>
+<gloss>(the) thumbs up</gloss>
+<gloss>seal of approval</gloss>
+<gloss>paper with signature of the shogun or lord</gloss>
+</entry>
+<entry>
+<keb>お盆</keb>
+<keb>御盆</keb>
+<reb>おぼん</reb>
+<gloss>Obon</gloss>
+<gloss>Bon Festival</gloss>
+<gloss>tray</gloss>
+</entry>
+<entry>
+<keb>お餅</keb>
+<keb>御餅</keb>
+<reb>おもち</reb>
+<gloss>mochi</gloss>
+</entry>
+<entry>
+<keb>お冷</keb>
+<keb>お冷や</keb>
+<keb>御冷</keb>
+<keb>御冷や</keb>
+<reb>おひや</reb>
+<gloss>cold (drinking) water</gloss>
+<gloss>(glass of) cold water</gloss>
+<gloss>cold boiled rice</gloss>
+</entry>
+<entry>
+<keb>お漏らし</keb>
+<keb>御漏らし</keb>
+<reb>おもらし</reb>
+<gloss>wetting oneself</gloss>
+<gloss>peeing in one's pants</gloss>
+</entry>
+<entry>
+<keb>お話中</keb>
+<keb>お話し中</keb>
+<keb>御話し中</keb>
+<keb>御話中</keb>
+<reb>おはなしちゅう</reb>
+<gloss>busy (phone)</gloss>
+</entry>
+<entry>
+<keb>お碗</keb>
+<keb>御碗</keb>
+<reb>おわん</reb>
+<gloss>bowl (ceramic, porcelain)</gloss>
+</entry>
+<entry>
+<keb>お洒落</keb>
+<keb>御洒落</keb>
+<reb>おしゃれ</reb>
+<reb>オシャレ</reb>
+<gloss>stylish</gloss>
+<gloss>fashionable</gloss>
+<gloss>trendy</gloss>
+<gloss>chic</gloss>
+<gloss>smartly dressed</gloss>
+<gloss>careful about one's appearance</gloss>
+<gloss>dressing (oneself) up</gloss>
+<gloss>dressing smartly</gloss>
+<gloss>dressing nicely</gloss>
+<gloss>making oneself look attractive</gloss>
+<gloss>fashionable dresser</gloss>
+<gloss>smartly dressed person</gloss>
+</entry>
+<entry>
+<keb>畏まりました</keb>
+<reb>かしこまりました</reb>
+<gloss>certainly!</gloss>
+</entry>
+<entry>
+<reb>かしら</reb>
+<reb>かしらん</reb>
+<gloss>I wonder</gloss>
+<gloss>do you think?</gloss>
+<gloss>I might</gloss>
+<gloss>how about</gloss>
+<gloss>some kind</gloss>
+<gloss>some stage</gloss>
+<gloss>somehow</gloss>
+<gloss>somewhere</gloss>
+</entry>
+<entry>
+<keb>悴む</keb>
+<reb>かじかむ</reb>
+<gloss>to grow numb with cold</gloss>
+</entry>
+<entry>
+<keb>梶木</keb>
+<keb>旗魚</keb>
+<reb>かじき</reb>
+<reb>カジキ</reb>
+<gloss>marlin</gloss>
+<gloss>swordfish</gloss>
+<gloss>spearfish</gloss>
+<gloss>sailfish</gloss>
+</entry>
+<entry>
+<keb>片口鰯</keb>
+<reb>かたくちいわし</reb>
+<reb>カタクチイワシ</reb>
+<gloss>Japanese anchovy (Engraulis japonica)</gloss>
+</entry>
+<entry>
+<reb>カチカチ</reb>
+<reb>コチコチ</reb>
+<reb>カチコチ</reb>
+<reb>かちかち</reb>
+<reb>こちこち</reb>
+<reb>かちこち</reb>
+<reb>カッチカチ</reb>
+<gloss>ticktock</gloss>
+<gloss>chinking (e.g. of a hammer against rock)</gloss>
+<gloss>knocking</gloss>
+<gloss>clicking</gloss>
+<gloss>clacking</gloss>
+<gloss>clattering</gloss>
+<gloss>dry and hard</gloss>
+<gloss>(frozen) stiff</gloss>
+<gloss>hidebound</gloss>
+<gloss>die-hard</gloss>
+<gloss>stubborn</gloss>
+<gloss>obstinate</gloss>
+<gloss>bigoted</gloss>
+<gloss>scared stiff</gloss>
+<gloss>tense</gloss>
+<gloss>nervous</gloss>
+<gloss>frightened</gloss>
+</entry>
+<entry>
+<reb>カチッと</reb>
+<reb>かちっと</reb>
+<reb>カチっと</reb>
+<gloss>with a click</gloss>
+<gloss>with a clink</gloss>
+<gloss>with a snap</gloss>
+<gloss>firmly</gloss>
+<gloss>tightly</gloss>
+<gloss>compactly</gloss>
+<gloss>precisely</gloss>
+</entry>
+<entry>
+<reb>カチン</reb>
+<reb>かちん</reb>
+<gloss>clink</gloss>
+<gloss>clack</gloss>
+<gloss>feeling annoyed</gloss>
+<gloss>being offended</gloss>
+<gloss>being hurt</gloss>
+</entry>
+<entry>
+<reb>かっか</reb>
+<reb>カッカ</reb>
+<gloss>to burn hotly</gloss>
+<gloss>to burn redly</gloss>
+<gloss>to lose one's temper</gloss>
+<gloss>to get mad</gloss>
+<gloss>to be upset</gloss>
+</entry>
+<entry>
+<keb>格好つける</keb>
+<keb>格好付ける</keb>
+<keb>恰好つける</keb>
+<keb>恰好付ける</keb>
+<reb>かっこうつける</reb>
+<gloss>to affect a stylish air</gloss>
+<gloss>to try to look good</gloss>
+<gloss>to show off</gloss>
+</entry>
+<entry>
+<keb>掻っ攫う</keb>
+<keb>かっ攫う</keb>
+<keb>掻っさらう</keb>
+<keb>掻攫う</keb>
+<keb>搔っ攫う</keb>
+<reb>かっさらう</reb>
+<gloss>to snatch (and run)</gloss>
+<gloss>to carry off</gloss>
+<gloss>to swipe</gloss>
+<gloss>to nab</gloss>
+<gloss>to scoop up (and remove; sand, earth, etc.)</gloss>
+</entry>
+<entry>
+<reb>かっちり</reb>
+<gloss>tightly</gloss>
+<gloss>exactly</gloss>
+<gloss>precisely</gloss>
+<gloss>close-fitting (e.g. suit)</gloss>
+<gloss>firm (body)</gloss>
+<gloss>lean</gloss>
+</entry>
+<entry>
+<reb>カッと</reb>
+<reb>かっと</reb>
+<gloss>flaring up</gloss>
+<gloss>burning hotly</gloss>
+<gloss>suddenly becoming bright</gloss>
+<gloss>flying into a rage</gloss>
+<gloss>losing one's cool</gloss>
+<gloss>opening suddenly and widely (e.g. eyes, mouth)</gloss>
+<gloss>acting resolutely</gloss>
+</entry>
+<entry>
+<reb>カツカツ</reb>
+<reb>かつかつ</reb>
+<gloss>barely</gloss>
+<gloss>just</gloss>
+<gloss>narrowly</gloss>
+<gloss>with difficulty</gloss>
+</entry>
+<entry>
+<reb>かな</reb>
+<reb>かなあ</reb>
+<reb>かなー</reb>
+<reb>かなぁ</reb>
+<gloss>I wonder</gloss>
+<gloss>should I?</gloss>
+<gloss>is it?</gloss>
+<gloss>I wish that</gloss>
+<gloss>I hope that</gloss>
+</entry>
+<entry>
+<keb>敵わない</keb>
+<keb>適わない</keb>
+<reb>かなわない</reb>
+<gloss>no match for</gloss>
+<gloss>cannot compete with</gloss>
+<gloss>not in the same league as</gloss>
+<gloss>powerless against</gloss>
+<gloss>cannot stand</gloss>
+<gloss>cannot bear</gloss>
+<gloss>cannot put up with</gloss>
+<gloss>unbearable</gloss>
+<gloss>intolerable</gloss>
+<gloss>unable to do</gloss>
+<gloss>cannot do</gloss>
+<gloss>impossible</gloss>
+</entry>
+<entry>
+<keb>上さん</keb>
+<reb>かみさん</reb>
+<reb>カミさん</reb>
+<gloss>(one's) wife</gloss>
+<gloss>(someone's) wife</gloss>
+<gloss>landlady</gloss>
+</entry>
+<entry>
+<keb>かも知れない</keb>
+<reb>かもしれない</reb>
+<gloss>may</gloss>
+<gloss>might</gloss>
+<gloss>perhaps</gloss>
+<gloss>may be</gloss>
+<gloss>possibly</gloss>
+</entry>
+<entry>
+<keb>かも知れません</keb>
+<reb>かもしれません</reb>
+<gloss>may</gloss>
+<gloss>might</gloss>
+<gloss>perhaps</gloss>
+<gloss>may be</gloss>
+<gloss>possibly</gloss>
+</entry>
+<entry>
+<reb>から</reb>
+<gloss>from (e.g. time, place, numerical quantity)</gloss>
+<gloss>since</gloss>
+<gloss>from (originator)</gloss>
+<gloss>by</gloss>
+<gloss>because</gloss>
+<gloss>since</gloss>
+<gloss>out of (constituent, part)</gloss>
+<gloss>through (e.g. window, vestibule)</gloss>
+<gloss>after</gloss>
+<gloss>since</gloss>
+<gloss>expresses sympathy or warning</gloss>
+</entry>
+<entry>
+<keb>揶揄い</keb>
+<reb>からかい</reb>
+<gloss>teasing</gloss>
+<gloss>banter</gloss>
+<gloss>ribbing</gloss>
+<gloss>jest</gloss>
+<gloss>making fun (of)</gloss>
+<gloss>poking fun (at)</gloss>
+</entry>
+<entry>
+<reb>からから</reb>
+<reb>カラカラ</reb>
+<gloss>parched</gloss>
+<gloss>dried-up</gloss>
+<gloss>bone-dry</gloss>
+<gloss>empty</gloss>
+<gloss>hollow</gloss>
+<gloss>rattling</gloss>
+<gloss>clattering</gloss>
+<gloss>laughing loudly</gloss>
+<gloss>roaring with laughter</gloss>
+</entry>
+<entry>
+<keb>絡繰り</keb>
+<keb>絡繰</keb>
+<keb>機関</keb>
+<reb>からくり</reb>
+<reb>カラクリ</reb>
+<gloss>mechanism</gloss>
+<gloss>machinery</gloss>
+<gloss>contrivance</gloss>
+<gloss>device</gloss>
+<gloss>trick</gloss>
+<gloss>dodge</gloss>
+<gloss>mechanical doll</gloss>
+<gloss>string puppet</gloss>
+</entry>
+<entry>
+<reb>からっと</reb>
+<reb>カラッと</reb>
+<gloss>bright and clear (weather, sky, etc.)</gloss>
+<gloss>perfectly (fine weather)</gloss>
+<gloss>nicely dry (laundry, air, etc.)</gloss>
+<gloss>crisply (fried, cooked, etc.)</gloss>
+<gloss>frankly</gloss>
+<gloss>open-heartedly</gloss>
+</entry>
+<entry>
+<keb>からと言って</keb>
+<reb>からといって</reb>
+<gloss>just because</gloss>
+<gloss>even if</gloss>
+<gloss>even though</gloss>
+</entry>
+<entry>
+<reb>からり</reb>
+<gloss>with a clatter</gloss>
+<gloss>with a fling (opening a door, window, etc.)</gloss>
+<gloss>bright and clear (weather, sky, etc.)</gloss>
+<gloss>perfectly (fine weather)</gloss>
+<gloss>nicely dry (laundry, air, etc.)</gloss>
+<gloss>crisply (fried, cooked, etc.)</gloss>
+<gloss>cheerfully</gloss>
+<gloss>frankly</gloss>
+<gloss>open-heartedly</gloss>
+<gloss>completely (forget, change, etc.)</gloss>
+<gloss>totally</gloss>
+</entry>
+<entry>
+<keb>か弱い</keb>
+<reb>かよわい</reb>
+<gloss>weak</gloss>
+<gloss>feeble</gloss>
+<gloss>delicate</gloss>
+<gloss>frail</gloss>
+<gloss>helpless</gloss>
+</entry>
+<entry>
+<reb>ガーッと</reb>
+<reb>がーっと</reb>
+<reb>があっと</reb>
+<gloss>with a grinding noise</gloss>
+</entry>
+<entry>
+<reb>ガクガク</reb>
+<reb>がくがく</reb>
+<gloss>trembling (with fear, cold, etc.)</gloss>
+<gloss>shaking</gloss>
+<gloss>chattering (of teeth)</gloss>
+<gloss>coming loose</gloss>
+<gloss>wobbling</gloss>
+</entry>
+<entry>
+<reb>がさがさ</reb>
+<reb>ガサガサ</reb>
+<gloss>rustling</gloss>
+<gloss>dry</gloss>
+<gloss>rough feeling</gloss>
+<gloss>rough to the touch</gloss>
+<gloss>rough (of a person)</gloss>
+<gloss>course</gloss>
+<gloss>crude</gloss>
+<gloss>unrefined</gloss>
+<gloss>uncouth</gloss>
+<gloss>catching fish with a net</gloss>
+</entry>
+<entry>
+<reb>ガタガタ</reb>
+<reb>がたがた</reb>
+<gloss>rattling</gloss>
+<gloss>clattering</gloss>
+<gloss>trembling</gloss>
+<gloss>shivering</gloss>
+<gloss>quaking</gloss>
+<gloss>wobbling</gloss>
+<gloss>swaying</gloss>
+<gloss>whining</gloss>
+<gloss>grumbling</gloss>
+<gloss>griping</gloss>
+<gloss>bellyaching</gloss>
+<gloss>rickety</gloss>
+<gloss>shaky</gloss>
+<gloss>wobbly</gloss>
+<gloss>decrepit</gloss>
+<gloss>ramshackle</gloss>
+<gloss>broken down</gloss>
+</entry>
+<entry>
+<reb>ガチガチ</reb>
+<reb>がちがち</reb>
+<gloss>chattering (teeth)</gloss>
+<gloss>(frozen, worried) stiff</gloss>
+<gloss>rigid (personality, thinking, etc.)</gloss>
+<gloss>inflexible</gloss>
+<gloss>overly serious</gloss>
+<gloss>voracious (e.g. work, study)</gloss>
+<gloss>without slack or pause</gloss>
+</entry>
+<entry>
+<reb>ガチャガチャ</reb>
+<reb>がちゃがちゃ</reb>
+<gloss>with a clatter</gloss>
+<gloss>with a rattle</gloss>
+<gloss>with a clank</gloss>
+<gloss>persistently (complaining, etc.)</gloss>
+<gloss>annoyingly</gloss>
+<gloss>(going) on and on</gloss>
+<gloss>messy</gloss>
+<gloss>cluttered</gloss>
+<gloss>untidy</gloss>
+<gloss>capsule-toy vending machine</gloss>
+<gloss>capsule toy</gloss>
+<gloss>Mecopoda nipponensis (species of katydid)</gloss>
+</entry>
+<entry>
+<reb>がちゃりと</reb>
+<gloss>with a clank</gloss>
+</entry>
+<entry>
+<reb>ガチャン</reb>
+<reb>がちゃん</reb>
+<reb>ガチン</reb>
+<reb>がちん</reb>
+<gloss>(with a) slamming noise (door, telephone receiver)</gloss>
+<gloss>(with a) banging noise</gloss>
+<gloss>(with a) clash (broken dish)</gloss>
+<gloss>(with a) clank</gloss>
+<gloss>(with a) bang</gloss>
+</entry>
+<entry>
+<reb>がちんがちん</reb>
+<reb>ガチンガチン</reb>
+<gloss>tick-tock</gloss>
+<gloss>chipping (sound)</gloss>
+</entry>
+<entry>
+<reb>がっかり</reb>
+<reb>ガッカリ</reb>
+<gloss>to be disappointed</gloss>
+<gloss>to be dejected</gloss>
+<gloss>to be downhearted</gloss>
+<gloss>to be discouraged</gloss>
+<gloss>to be disheartened</gloss>
+<gloss>to lose heart</gloss>
+<gloss>to feel let down</gloss>
+<gloss>to feel exhausted</gloss>
+<gloss>to feel drained</gloss>
+</entry>
+<entry>
+<reb>がっくり</reb>
+<reb>ガックリ</reb>
+<gloss>heartbroken</gloss>
+<gloss>crestfallen</gloss>
+<gloss>dejected</gloss>
+<gloss>disappointed</gloss>
+</entry>
+<entry>
+<reb>がっしり</reb>
+<gloss>firmly</gloss>
+<gloss>solidly</gloss>
+<gloss>sturdily</gloss>
+<gloss>strongly</gloss>
+<gloss>toughly</gloss>
+</entry>
+<entry>
+<reb>がっちり</reb>
+<reb>ガッチリ</reb>
+<gloss>solid</gloss>
+<gloss>robust</gloss>
+<gloss>well-built</gloss>
+<gloss>tight</gloss>
+<gloss>taut</gloss>
+<gloss>shrewd</gloss>
+<gloss>calculating</gloss>
+<gloss>astute</gloss>
+</entry>
+<entry>
+<keb>がっちり屋</keb>
+<reb>がっちりや</reb>
+<gloss>tightwad</gloss>
+<gloss>miser</gloss>
+</entry>
+<entry>
+<reb>がっぷり</reb>
+<gloss>firmly (grasped)</gloss>
+<gloss>latched onto</gloss>
+<gloss>locked onto</gloss>
+</entry>
+<entry>
+<reb>ガツガツ</reb>
+<reb>がつがつ</reb>
+<gloss>hungrily</gloss>
+<gloss>voraciously</gloss>
+<gloss>ravenously</gloss>
+<gloss>greedily</gloss>
+<gloss>avariciously</gloss>
+<gloss>eagerly</gloss>
+<gloss>ardently</gloss>
+</entry>
+<entry>
+<reb>がぶがぶ</reb>
+<reb>ガブガブ</reb>
+<gloss>gulping down (a drink)</gloss>
+<gloss>guzzling</gloss>
+<gloss>chugging</gloss>
+<gloss>sloshing around (of liquid in one's stomach)</gloss>
+</entry>
+<entry>
+<reb>ガミガミ</reb>
+<reb>がみがみ</reb>
+<gloss>nagging</gloss>
+<gloss>griping</gloss>
+</entry>
+<entry>
+<reb>がやがや</reb>
+<reb>ガヤガヤ</reb>
+<reb>かやかや</reb>
+<reb>カヤカヤ</reb>
+<gloss>noisily (crowd of people talking)</gloss>
+<gloss>clamorously</gloss>
+<gloss>in a hubbub</gloss>
+<gloss>jabberingly</gloss>
+<gloss>chatteringly</gloss>
+<gloss>buzzingly</gloss>
+<gloss>loudly (laughing)</gloss>
+</entry>
+<entry>
+<reb>ガラガラ</reb>
+<reb>がらがら</reb>
+<gloss>with a clatter</gloss>
+<gloss>with a rattle</gloss>
+<gloss>(almost) empty</gloss>
+<gloss>(mostly) vacant</gloss>
+<gloss>bare</gloss>
+<gloss>uninhabited</gloss>
+<gloss>unoccupied</gloss>
+<gloss>raspy (voice)</gloss>
+<gloss>gravelly</gloss>
+<gloss>husky</gloss>
+<gloss>with a gargle</gloss>
+<gloss>rough (personality, speech, etc.)</gloss>
+<gloss>unreserved</gloss>
+<gloss>outspoken</gloss>
+<gloss>boorish</gloss>
+<gloss>ill-mannered</gloss>
+<gloss>rattle (baby's toy)</gloss>
+<gloss>lottery wheel</gloss>
+</entry>
+<entry>
+<keb>がらがら蛇</keb>
+<reb>がらがらへび</reb>
+<reb>ガラガラヘビ</reb>
+<gloss>rattlesnake</gloss>
+</entry>
+<entry>
+<keb>伽藍堂</keb>
+<reb>がらんどう</reb>
+<gloss>empty</gloss>
+<gloss>hollow</gloss>
+<gloss>bare</gloss>
+<gloss>vacant</gloss>
+<gloss>deserted</gloss>
+<gloss>main hall of a temple (often vast and empty)</gloss>
+</entry>
+<entry>
+<reb>がり</reb>
+<reb>ガリ</reb>
+<gloss>sliced ginger prepared in vinegar (served with sushi)</gloss>
+<gloss>pickled ginger</gloss>
+<gloss>mimeograph</gloss>
+<gloss>reprimand</gloss>
+<gloss>rebuke</gloss>
+<gloss>censure</gloss>
+<gloss>reproof</gloss>
+<gloss>overly skinny person</gloss>
+</entry>
+<entry>
+<keb>ガリ勉</keb>
+<keb>がり勉</keb>
+<keb>我利勉</keb>
+<reb>がりべん</reb>
+<reb>ガリベン</reb>
+<gloss>person who studies very hard (at school)</gloss>
+<gloss>grind</gloss>
+<gloss>swot</gloss>
+<gloss>drudge</gloss>
+<gloss>studying hard</gloss>
+<gloss>cramming</gloss>
+<gloss>swotting</gloss>
+</entry>
+<entry>
+<reb>キーキー</reb>
+<reb>キイキイ</reb>
+<reb>キィキィ</reb>
+<reb>きーきー</reb>
+<reb>きいきい</reb>
+<reb>きぃきぃ</reb>
+<gloss>with a (sharp) creak</gloss>
+<gloss>with a squeak</gloss>
+<gloss>with a screech</gloss>
+</entry>
+<entry>
+<keb>きかん気</keb>
+<keb>利かん気</keb>
+<keb>聞かん気</keb>
+<reb>きかんき</reb>
+<gloss>unruly (e.g. of a child)</gloss>
+<gloss>unyielding</gloss>
+<gloss>disobedient</gloss>
+<gloss>strong-willed</gloss>
+</entry>
+<entry>
+<reb>きちきち</reb>
+<reb>キチキチ</reb>
+<gloss>jam-packed (physically or of schedule, etc.)</gloss>
+<gloss>grinding noise</gloss>
+<gloss>precisely</gloss>
+<gloss>correctly (e.g. when working, etc.)</gloss>
+<gloss>Oriental longheaded locust (Acrida cinerea)</gloss>
+</entry>
+<entry>
+<reb>きちっと</reb>
+<gloss>exactly</gloss>
+<gloss>perfectly</gloss>
+</entry>
+<entry>
+<reb>きちんと</reb>
+<gloss>properly</gloss>
+<gloss>accurately</gloss>
+<gloss>exactly</gloss>
+<gloss>precisely</gloss>
+<gloss>regularly</gloss>
+<gloss>neatly</gloss>
+<gloss>tidily</gloss>
+<gloss>orderly</gloss>
+</entry>
+<entry>
+<reb>きっかり</reb>
+<reb>キッカリ</reb>
+<gloss>exactly</gloss>
+<gloss>just</gloss>
+<gloss>precisely</gloss>
+<gloss>punctually</gloss>
+<gloss>exactly on time</gloss>
+</entry>
+<entry>
+<reb>きっちり</reb>
+<reb>キッチリ</reb>
+<gloss>exactly</gloss>
+<gloss>precisely</gloss>
+<gloss>punctually</gloss>
+<gloss>on the dot</gloss>
+<gloss>closely</gloss>
+<gloss>tightly</gloss>
+<gloss>(fitting) perfectly</gloss>
+<gloss>properly</gloss>
+<gloss>without fail</gloss>
+</entry>
+<entry>
+<keb>屹度</keb>
+<keb>急度</keb>
+<reb>きっと</reb>
+<reb>キッと</reb>
+<gloss>surely</gloss>
+<gloss>undoubtedly</gloss>
+<gloss>almost certainly</gloss>
+<gloss>most likely (e.g. 90 percent)</gloss>
+<gloss>sternly</gloss>
+<gloss>severely</gloss>
+<gloss>having no slack</gloss>
+<gloss>rigid</gloss>
+<gloss>stiff</gloss>
+<gloss>tight</gloss>
+<gloss>suddenly</gloss>
+<gloss>abruptly</gloss>
+<gloss>instantly</gloss>
+</entry>
+<entry>
+<reb>きっぱり</reb>
+<reb>キッパリ</reb>
+<gloss>clearly</gloss>
+<gloss>plainly</gloss>
+<gloss>distinctly</gloss>
+<gloss>decisively</gloss>
+<gloss>flatly</gloss>
+<gloss>definitely</gloss>
+<gloss>resolutely</gloss>
+</entry>
+<entry>
+<reb>きつい</reb>
+<reb>キツイ</reb>
+<reb>キツい</reb>
+<gloss>tough</gloss>
+<gloss>hard</gloss>
+<gloss>severe</gloss>
+<gloss>demanding</gloss>
+<gloss>harsh</gloss>
+<gloss>determined</gloss>
+<gloss>strong-minded</gloss>
+<gloss>forceful</gloss>
+<gloss>formidable</gloss>
+<gloss>fierce</gloss>
+<gloss>strong (e.g. sunlight, alcohol)</gloss>
+<gloss>severe</gloss>
+<gloss>intense</gloss>
+<gloss>(too) tight</gloss>
+<gloss>constricting</gloss>
+<gloss>close</gloss>
+<gloss>extreme</gloss>
+<gloss>unusually strong</gloss>
+</entry>
+<entry>
+<reb>きびきび</reb>
+<gloss>brisk</gloss>
+<gloss>lively</gloss>
+<gloss>energetic</gloss>
+</entry>
+<entry>
+<reb>きゅうきゅう</reb>
+<gloss>squeak</gloss>
+</entry>
+<entry>
+<reb>きゅっと</reb>
+<reb>きゅうっと</reb>
+<gloss>creakingly</gloss>
+<gloss>squeakingly</gloss>
+<gloss>squealingly</gloss>
+<gloss>tightly (squeezing, pressing, etc.)</gloss>
+<gloss>(drinking) all in one sweep</gloss>
+</entry>
+<entry>
+<reb>キョロキョロ</reb>
+<reb>きょろきょろ</reb>
+<reb>きょときょと</reb>
+<reb>キョトキョト</reb>
+<gloss>(looking around) restlessly</gloss>
+<gloss>(looking) all around</gloss>
+<gloss>goggling</gloss>
+</entry>
+<entry>
+<reb>キラキラ</reb>
+<reb>きらきら</reb>
+<gloss>glittering</gloss>
+<gloss>sparkling</gloss>
+<gloss>glistening</gloss>
+<gloss>twinkling</gloss>
+</entry>
+<entry>
+<reb>きんきん</reb>
+<reb>キンキン</reb>
+<gloss>shrill</gloss>
+<gloss>strident</gloss>
+<gloss>piercing</gloss>
+<gloss>tinkling</gloss>
+<gloss>metallic-sounding</gloss>
+<gloss>sharp (pain, e.g. headache, earache)</gloss>
+<gloss>ice-cold</gloss>
+<gloss>very cold</gloss>
+</entry>
+<entry>
+<reb>ギクシャク</reb>
+<reb>ぎくしゃく</reb>
+<gloss>awkward (movements, speech, etc.)</gloss>
+<gloss>jerky</gloss>
+<gloss>stiff</gloss>
+<gloss>stilted</gloss>
+<gloss>strained (relations)</gloss>
+<gloss>sour</gloss>
+</entry>
+<entry>
+<reb>ぎこちない</reb>
+<reb>ぎごちない</reb>
+<gloss>awkward</gloss>
+<gloss>clumsy</gloss>
+<gloss>stiff</gloss>
+<gloss>crude</gloss>
+<gloss>unrefined</gloss>
+<gloss>constrained</gloss>
+</entry>
+<entry>
+<keb>刻々</keb>
+<keb>段々</keb>
+<keb>刻刻</keb>
+<keb>段段</keb>
+<reb>ギザギザ</reb>
+<reb>ぎざぎざ</reb>
+<gloss>notches</gloss>
+<gloss>serration</gloss>
+<gloss>indentation</gloss>
+<gloss>jaggies (stair-step artifacts in computer images)</gloss>
+<gloss>notched</gloss>
+<gloss>serrated</gloss>
+<gloss>jagged</gloss>
+<gloss>corrugated</gloss>
+<gloss>milled</gloss>
+</entry>
+<entry>
+<reb>ギスギス</reb>
+<reb>ぎすぎす</reb>
+<gloss>stiff (atmosphere, manner, etc.)</gloss>
+<gloss>cold</gloss>
+<gloss>unfriendly</gloss>
+<gloss>unsociable</gloss>
+<gloss>edgy</gloss>
+<gloss>thin and bony</gloss>
+<gloss>scrawny</gloss>
+</entry>
+<entry>
+<keb>ぎっくり腰</keb>
+<keb>ギックリ腰</keb>
+<reb>ぎっくりごし</reb>
+<gloss>strained back</gloss>
+<gloss>slipped disk</gloss>
+<gloss>lumbosacral strain</gloss>
+</entry>
+<entry>
+<reb>ぎっしり</reb>
+<reb>ギッシリ</reb>
+<reb>ぎっちり</reb>
+<reb>ギッチリ</reb>
+<gloss>tightly (packed)</gloss>
+<gloss>densely</gloss>
+<gloss>closely</gloss>
+<gloss>crammed</gloss>
+</entry>
+<entry>
+<reb>ぎゅうぎゅう</reb>
+<gloss>creaking</gloss>
+<gloss>squeaking</gloss>
+<gloss>packing in tightly</gloss>
+<gloss>cramming</gloss>
+<gloss>squeezing</gloss>
+<gloss>hard (pressing, tying, twisting, etc.)</gloss>
+<gloss>tightly</gloss>
+<gloss>with force</gloss>
+<gloss>going hard (on someone)</gloss>
+<gloss>tormenting (e.g. with questions)</gloss>
+</entry>
+<entry>
+<reb>ぎゅぎゅ</reb>
+<gloss>snoringly</gloss>
+</entry>
+<entry>
+<reb>ぎゅっと</reb>
+<reb>ギュッと</reb>
+<reb>ギュっと</reb>
+<reb>ギュって</reb>
+<reb>ギュッて</reb>
+<reb>ぎゅって</reb>
+<gloss>tightly (hold, squeeze, etc.)</gloss>
+<gloss>firmly</gloss>
+<gloss>forcefully (e.g. push)</gloss>
+<gloss>hard</gloss>
+</entry>
+<entry>
+<reb>ぎょっと</reb>
+<reb>ギョッと</reb>
+<gloss>being startled</gloss>
+</entry>
+<entry>
+<reb>ぎょろぎょろ</reb>
+<gloss>goggling</gloss>
+<gloss>rolling (one's eyes)</gloss>
+</entry>
+<entry>
+<reb>ギラギラ</reb>
+<reb>ぎらぎら</reb>
+<gloss>glaringly</gloss>
+<gloss>dazzlingly</gloss>
+<gloss>blazingly</gloss>
+</entry>
+<entry>
+<keb>限り限り</keb>
+<reb>ぎりぎり</reb>
+<reb>ギリギリ</reb>
+<gloss>just barely</gloss>
+<gloss>only just</gloss>
+<gloss>at the very limit</gloss>
+<gloss>at the last moment</gloss>
+</entry>
+<entry>
+<reb>くさくさ</reb>
+<reb>クサクサ</reb>
+<gloss>feeling depressed</gloss>
+<gloss>feeling gloomy</gloss>
+<gloss>feeling downhearted</gloss>
+</entry>
+<entry>
+<reb>くしゃくしゃ</reb>
+<reb>クシャクシャ</reb>
+<gloss>crumpled</gloss>
+<gloss>rumpled</gloss>
+<gloss>wrinkled</gloss>
+<gloss>creased</gloss>
+<gloss>tousled</gloss>
+<gloss>disheveled</gloss>
+<gloss>dishevelled</gloss>
+<gloss>to be annoyed</gloss>
+<gloss>to be irritated</gloss>
+<gloss>to be upset</gloss>
+<gloss>noisily (chewing)</gloss>
+</entry>
+<entry>
+<keb>嚏</keb>
+<keb>嚔</keb>
+<reb>くしゃみ</reb>
+<reb>くさめ</reb>
+<reb>くっさめ</reb>
+<reb>クシャミ</reb>
+<gloss>sneeze</gloss>
+<gloss>spoken twice in response to someone sneezing as a charm against an early death</gloss>
+</entry>
+<entry>
+<keb>くすくす笑う</keb>
+<keb>クスクス笑う</keb>
+<reb>くすくすわらう</reb>
+<reb>クスクスわらう</reb>
+<gloss>to giggle</gloss>
+</entry>
+<entry>
+<keb>擽ったい</keb>
+<keb>擽ぐったい</keb>
+<reb>くすぐったい</reb>
+<gloss>ticklish</gloss>
+<gloss>embarrassing</gloss>
+</entry>
+<entry>
+<keb>擽る</keb>
+<keb>擽ぐる</keb>
+<reb>くすぐる</reb>
+<gloss>to tickle</gloss>
+<gloss>to tickle (one's curiosity, vanity, etc.)</gloss>
+<gloss>to arouse</gloss>
+<gloss>to appeal to</gloss>
+<gloss>to flatter</gloss>
+<gloss>to make (someone) laugh</gloss>
+<gloss>to amuse</gloss>
+<gloss>to entertain</gloss>
+</entry>
+<entry>
+<reb>くたくた</reb>
+<reb>クタクタ</reb>
+<reb>くったくた</reb>
+<gloss>exhausted</gloss>
+<gloss>worn out</gloss>
+<gloss>dead tired</gloss>
+<gloss>battered (esp. of clothing)</gloss>
+<gloss>worn out</gloss>
+<gloss>ragged</gloss>
+<gloss>tattered</gloss>
+<gloss>(boiling) to a pulp</gloss>
+<gloss>to a mash</gloss>
+<gloss>to a mush</gloss>
+</entry>
+<entry>
+<reb>くたばっちまえ</reb>
+<reb>くたばってしまえ</reb>
+<gloss>drop dead, you bastard!</gloss>
+<gloss>fuck you!</gloss>
+</entry>
+<entry>
+<reb>くたばる</reb>
+<gloss>to kick the bucket</gloss>
+<gloss>to drop dead</gloss>
+<gloss>to die</gloss>
+<gloss>to croak</gloss>
+<gloss>to be pooped</gloss>
+<gloss>to be exhausted</gloss>
+<gloss>to be knackered</gloss>
+</entry>
+<entry>
+<reb>くたばれ</reb>
+<gloss>drop dead!</gloss>
+<gloss>go to hell!</gloss>
+<gloss>fuck you!</gloss>
+<gloss>shove it!</gloss>
+</entry>
+<entry>
+<keb>草臥れる</keb>
+<reb>くたびれる</reb>
+<gloss>to get tired</gloss>
+<gloss>to become exhausted</gloss>
+<gloss>to grow weary</gloss>
+<gloss>to become worn out</gloss>
+<gloss>to become battered (from long use)</gloss>
+<gloss>to get tired of (doing)</gloss>
+<gloss>to get fed up with</gloss>
+</entry>
+<entry>
+<keb>梔子</keb>
+<keb>巵子</keb>
+<keb>山梔子</keb>
+<keb>梔</keb>
+<reb>くちなし</reb>
+<reb>クチナシ</reb>
+<reb>しし</reb>
+<reb>さんしし</reb>
+<gloss>Cape jasmine (Gardenia jasminoides)</gloss>
+<gloss>Cape jessamine</gloss>
+<gloss>gardenia</gloss>
+</entry>
+<entry>
+<reb>くっきり</reb>
+<reb>クッキリ</reb>
+<gloss>clearly (standing out)</gloss>
+<gloss>distinctly</gloss>
+<gloss>sharply</gloss>
+<gloss>boldly</gloss>
+<gloss>in sharp relief</gloss>
+</entry>
+<entry>
+<keb>くっ付く</keb>
+<keb>食っ付く</keb>
+<reb>くっつく</reb>
+<gloss>to adhere to</gloss>
+<gloss>to stick to</gloss>
+<gloss>to cling to</gloss>
+<gloss>to keep close to</gloss>
+<gloss>to go along with</gloss>
+<gloss>to get involved with</gloss>
+<gloss>to be thick with</gloss>
+<gloss>to become intimate</gloss>
+</entry>
+<entry>
+<keb>くっ付ける</keb>
+<reb>くっつける</reb>
+<gloss>to attach</gloss>
+<gloss>to stick together</gloss>
+<gloss>to paste</gloss>
+<gloss>to glue</gloss>
+<gloss>to place together</gloss>
+<gloss>to put side by side</gloss>
+<gloss>to make (someone) get married</gloss>
+<gloss>to get (someone) hitched</gloss>
+</entry>
+<entry>
+<keb>くつくつ法師</keb>
+<reb>くつくつぼうし</reb>
+<gloss>Meimuna opalifera (species of cicada)</gloss>
+</entry>
+<entry>
+<reb>くどくど</reb>
+<gloss>tediously (explain, complain, etc.)</gloss>
+<gloss>repeatedly</gloss>
+<gloss>persistently</gloss>
+<gloss>insistently</gloss>
+<gloss>ad nauseam</gloss>
+<gloss>at great length</gloss>
+</entry>
+<entry>
+<reb>くねくね</reb>
+<reb>クネクネ</reb>
+<reb>ぐねぐね</reb>
+<reb>グネグネ</reb>
+<gloss>winding</gloss>
+<gloss>meandering</gloss>
+<gloss>wriggling</gloss>
+<gloss>wiggling</gloss>
+<gloss>waving</gloss>
+<gloss>swaying</gloss>
+<gloss>twisting and turning</gloss>
+</entry>
+<entry>
+<reb>くねる</reb>
+<gloss>to bend loosely back and forth</gloss>
+<gloss>to wriggle</gloss>
+<gloss>to be crooked</gloss>
+</entry>
+<entry>
+<keb>隈なく</keb>
+<keb>隈無く</keb>
+<reb>くまなく</reb>
+<gloss>all over</gloss>
+<gloss>everywhere</gloss>
+<gloss>in every nook and cranny</gloss>
+</entry>
+<entry>
+<reb>くよくよ</reb>
+<reb>クヨクヨ</reb>
+<gloss>to fret (over)</gloss>
+<gloss>to brood (about)</gloss>
+<gloss>to mope</gloss>
+<gloss>to worry</gloss>
+<gloss>worriedly</gloss>
+<gloss>(fretting) constantly</gloss>
+<gloss>(worrying) over this and that</gloss>
+<gloss>(obsessing) to no end</gloss>
+</entry>
+<entry>
+<reb>クラクラ</reb>
+<reb>くらくら</reb>
+<gloss>dizzily</gloss>
+<gloss>giddily</gloss>
+<gloss>spinning</gloss>
+<gloss>reeling</gloss>
+<gloss>swimming</gloss>
+<gloss>boiling up</gloss>
+</entry>
+<entry>
+<keb>比べ</keb>
+<keb>較べ</keb>
+<keb>競べ</keb>
+<reb>くらべ</reb>
+<gloss>contest</gloss>
+<gloss>comparison</gloss>
+<gloss>competition</gloss>
+</entry>
+<entry>
+<reb>くるくる</reb>
+<reb>クルクル</reb>
+<gloss>whirling</gloss>
+<gloss>revolving</gloss>
+<gloss>spinning</gloss>
+<gloss>going round and round</gloss>
+<gloss>coiling around</gloss>
+<gloss>winding around</gloss>
+<gloss>rolling around</gloss>
+<gloss>working tirelessly</gloss>
+<gloss>working hard</gloss>
+<gloss>constantly changing</gloss>
+</entry>
+<entry>
+<keb>くる病</keb>
+<keb>クル病</keb>
+<keb>佝僂病</keb>
+<keb>痀瘻病</keb>
+<reb>くるびょう</reb>
+<gloss>rickets</gloss>
+<gloss>rachitis</gloss>
+</entry>
+<entry>
+<keb>くわ入れ式</keb>
+<keb>鍬入れ式</keb>
+<reb>くわいれしき</reb>
+<gloss>ground-breaking ceremony</gloss>
+</entry>
+<entry>
+<keb>クンクン鳴く</keb>
+<keb>くんくん鳴く</keb>
+<reb>クンクンなく</reb>
+<reb>くんくんなく</reb>
+<gloss>to whine (of a dog)</gloss>
+</entry>
+<entry>
+<reb>ぐいぐい</reb>
+<reb>グイグイ</reb>
+<gloss>without hesitation</gloss>
+<gloss>with great optimism</gloss>
+<gloss>vigorously</gloss>
+<gloss>with great vigor</gloss>
+<gloss>positively</gloss>
+<gloss>(pushing or pulling) strongly</gloss>
+<gloss>(drinking) heavily</gloss>
+</entry>
+<entry>
+<reb>ぐうぐう</reb>
+<gloss>fast (asleep)</gloss>
+<gloss>snoring or grumbling sound</gloss>
+</entry>
+<entry>
+<keb>愚図愚図</keb>
+<reb>ぐずぐず</reb>
+<reb>グズグズ</reb>
+<gloss>slowly</gloss>
+<gloss>tardily</gloss>
+<gloss>dawdling</gloss>
+<gloss>lingering</gloss>
+<gloss>hesitantly</gloss>
+<gloss>complaining</gloss>
+<gloss>grumbling</gloss>
+<gloss>unsettled (e.g. weather)</gloss>
+<gloss>loose</gloss>
+<gloss>slackened</gloss>
+</entry>
+<entry>
+<reb>ぐちゃぐちゃ</reb>
+<reb>グチャグチャ</reb>
+<gloss>pulpy</gloss>
+<gloss>soppy</gloss>
+<gloss>sloppy</gloss>
+<gloss>untidy</gloss>
+<gloss>in a disarray</gloss>
+<gloss>chaotic</gloss>
+</entry>
+<entry>
+<reb>ぐっすり</reb>
+<reb>グッスリ</reb>
+<gloss>soundly (sleeping)</gloss>
+<gloss>fast (asleep)</gloss>
+</entry>
+<entry>
+<reb>ぐったり</reb>
+<reb>グッタリ</reb>
+<reb>グタリ</reb>
+<reb>ぐたり</reb>
+<gloss>limply</gloss>
+<gloss>wearily</gloss>
+<gloss>listlessly</gloss>
+<gloss>languidly</gloss>
+<gloss>exhaustedly</gloss>
+<gloss>unenergetically</gloss>
+</entry>
+<entry>
+<reb>ぐっと</reb>
+<reb>グッと</reb>
+<gloss>suddenly</gloss>
+<gloss>at once</gloss>
+<gloss>in one go</gloss>
+<gloss>with a jerk</gloss>
+<gloss>with a gulp</gloss>
+<gloss>considerably</gloss>
+<gloss>very much</gloss>
+<gloss>a lot</gloss>
+<gloss>firmly</gloss>
+<gloss>with an effort</gloss>
+<gloss>tightly</gloss>
+<gloss>exerting pressure</gloss>
+<gloss>completely (e.g. at a loss)</gloss>
+<gloss>deeply (e.g. moved)</gloss>
+</entry>
+<entry>
+<reb>ぐにゃぐにゃ</reb>
+<reb>グニャグニャ</reb>
+<gloss>flabby</gloss>
+<gloss>limp</gloss>
+<gloss>soft and pliable</gloss>
+</entry>
+<entry>
+<reb>ぐぶぐぶ</reb>
+<gloss>gurgling</gloss>
+<gloss>sound of rinsing one's mouth</gloss>
+</entry>
+<entry>
+<reb>グラグラ</reb>
+<reb>ぐらぐら</reb>
+<gloss>wobbling</gloss>
+<gloss>tottering</gloss>
+<gloss>shaking</gloss>
+<gloss>unstably</gloss>
+<gloss>unsteadily</gloss>
+<gloss>wavering (e.g. over a decision)</gloss>
+<gloss>dithering</gloss>
+<gloss>indecisively</gloss>
+<gloss>boiling up</gloss>
+<gloss>dizzily</gloss>
+<gloss>giddily</gloss>
+</entry>
+<entry>
+<keb>ぐら付く</keb>
+<reb>ぐらつく</reb>
+<reb>グラつく</reb>
+<gloss>to be unsteady</gloss>
+<gloss>to reel</gloss>
+<gloss>to shake</gloss>
+<gloss>to waver</gloss>
+<gloss>to be unsettled (feelings, thoughts, etc.)</gloss>
+</entry>
+<entry>
+<reb>ぐる</reb>
+<reb>グル</reb>
+<gloss>accomplice</gloss>
+<gloss>conspirator</gloss>
+<gloss>cohort</gloss>
+</entry>
+<entry>
+<reb>ぐるぐる</reb>
+<reb>グルグル</reb>
+<gloss>(turning) round and round</gloss>
+<gloss>in circles</gloss>
+<gloss>wrapping around</gloss>
+<gloss>winding around</gloss>
+</entry>
+<entry>
+<reb>ぐれる</reb>
+<reb>グレる</reb>
+<gloss>to stray from the right path</gloss>
+<gloss>to go wrong</gloss>
+<gloss>to go off the rails</gloss>
+<gloss>to turn delinquent</gloss>
+</entry>
+<entry>
+<reb>ぐんぐん</reb>
+<gloss>rapidly</gloss>
+<gloss>vigorously</gloss>
+<gloss>by leaps and bounds</gloss>
+<gloss>steadily</gloss>
+</entry>
+<entry>
+<reb>けじめ</reb>
+<reb>ケジメ</reb>
+<gloss>distinction (e.g. between right and wrong, public and private, etc.)</gloss>
+</entry>
+<entry>
+<reb>けたたましい</reb>
+<gloss>piercing</gloss>
+<gloss>shrill</gloss>
+<gloss>noisy</gloss>
+<gloss>loud</gloss>
+<gloss>clamorous</gloss>
+<gloss>wild</gloss>
+</entry>
+<entry>
+<keb>ケツの穴</keb>
+<keb>尻の穴</keb>
+<keb>けつの穴</keb>
+<keb>しりの穴</keb>
+<reb>けつのあな</reb>
+<reb>しりのあな</reb>
+<gloss>anus</gloss>
+<gloss>asshole</gloss>
+<gloss>arsehole</gloss>
+</entry>
+<entry>
+<reb>けど</reb>
+<reb>けども</reb>
+<gloss>but</gloss>
+<gloss>however</gloss>
+<gloss>although</gloss>
+</entry>
+<entry>
+<reb>けばけば</reb>
+<gloss>gaudy</gloss>
+<gloss>garish</gloss>
+<gloss>showy</gloss>
+</entry>
+<entry>
+<keb>ケラケラ笑う</keb>
+<keb>けらけら笑う</keb>
+<reb>ケラケラわらう</reb>
+<reb>けらけらわらう</reb>
+<gloss>to cackle</gloss>
+</entry>
+<entry>
+<reb>げっそり</reb>
+<reb>ゲッソリ</reb>
+<gloss>to be disheartened</gloss>
+<gloss>to be dejected</gloss>
+<gloss>to be discouraged</gloss>
+<gloss>to be disappointed</gloss>
+<gloss>suddenly (losing a lot of weight)</gloss>
+<gloss>looking emaciated</gloss>
+<gloss>becoming very thin</gloss>
+</entry>
+<entry>
+<reb>ゲップ</reb>
+<reb>げっぷ</reb>
+<gloss>belch</gloss>
+<gloss>burp</gloss>
+<gloss>eructation</gloss>
+</entry>
+<entry>
+<keb>ゲラゲラ笑う</keb>
+<keb>げらげら笑う</keb>
+<reb>ゲラゲラわらう</reb>
+<reb>げらげらわらう</reb>
+<gloss>to guffaw</gloss>
+<gloss>to roar with laughter</gloss>
+<gloss>to laugh heartily</gloss>
+</entry>
+<entry>
+<reb>ゲロ</reb>
+<reb>げろ</reb>
+<gloss>vomit</gloss>
+<gloss>spew</gloss>
+<gloss>puke</gloss>
+<gloss>vomiting</gloss>
+<gloss>confessing</gloss>
+</entry>
+<entry>
+<reb>げろげろ</reb>
+<reb>ゲロゲロ</reb>
+<gloss>that's gross!</gloss>
+<gloss>disgusting!</gloss>
+</entry>
+<entry>
+<keb>ゲンを担ぐ</keb>
+<keb>験を担ぐ</keb>
+<keb>げんを担ぐ</keb>
+<reb>ゲンをかつぐ</reb>
+<reb>げんをかつぐ</reb>
+<gloss>to be superstitious</gloss>
+</entry>
+<entry>
+<keb>斯う</keb>
+<reb>こう</reb>
+<gloss>in this way</gloss>
+<gloss>like this</gloss>
+<gloss>so</gloss>
+<gloss>thus</gloss>
+<gloss>this (much)</gloss>
+<gloss>so</gloss>
+<gloss>uh</gloss>
+<gloss>er</gloss>
+<gloss>mm</gloss>
+<gloss>well</gloss>
+</entry>
+<entry>
+<keb>こう言う</keb>
+<reb>こういう</reb>
+<reb>こうゆう</reb>
+<reb>こーゆー</reb>
+<reb>こーいう</reb>
+<gloss>such</gloss>
+<gloss>this sort of</gloss>
+<gloss>like this</gloss>
+</entry>
+<entry>
+<reb>こうすると</reb>
+<gloss>having done this</gloss>
+<gloss>if this is done</gloss>
+<gloss>if it is done in this way</gloss>
+</entry>
+<entry>
+<reb>こうすれば</reb>
+<gloss>if you do this</gloss>
+<gloss>if this is the case</gloss>
+</entry>
+<entry>
+<keb>こじ付ける</keb>
+<keb>故事つける</keb>
+<keb>故事付ける</keb>
+<keb>古事つける</keb>
+<reb>こじつける</reb>
+<gloss>to distort</gloss>
+<gloss>to strain (an interpretation)</gloss>
+<gloss>to stretch (the meaning of a word)</gloss>
+</entry>
+<entry>
+<reb>こせこせ</reb>
+<gloss>restlessly</gloss>
+<gloss>fussily</gloss>
+<gloss>anxiously</gloss>
+<gloss>making a fuss over trifles</gloss>
+<gloss>to be cramped</gloss>
+<gloss>to be claustrophobic</gloss>
+</entry>
+<entry>
+<reb>こそ</reb>
+<gloss>it is ... that ...</gloss>
+<gloss>precisely</gloss>
+<gloss>in particular</gloss>
+<gloss>definitely</gloss>
+<gloss>for sure</gloss>
+<gloss>only (when, after, because, etc.)</gloss>
+<gloss>although</gloss>
+<gloss>while</gloss>
+<gloss>it is the case that ... but</gloss>
+<gloss>it is precisely because ... that ...</gloss>
+<gloss>only because ...</gloss>
+<gloss>not at all</gloss>
+<gloss>not in the slightest</gloss>
+<gloss>absolutely not</gloss>
+<gloss>never</gloss>
+</entry>
+<entry>
+<reb>こそこそ</reb>
+<reb>コソコソ</reb>
+<gloss>sneakily</gloss>
+<gloss>secretly</gloss>
+<gloss>stealthily</gloss>
+<gloss>on the sly</gloss>
+</entry>
+<entry>
+<keb>こそ泥</keb>
+<keb>コソ泥</keb>
+<reb>こそどろ</reb>
+<reb>コソどろ</reb>
+<gloss>sneak thief</gloss>
+<gloss>petty thief</gloss>
+<gloss>cat burglar</gloss>
+</entry>
+<entry>
+<keb>炬燵掛け</keb>
+<keb>炬燵掛</keb>
+<keb>火燵掛</keb>
+<reb>こたつがけ</reb>
+<gloss>futon or cloth attached to the kotatsu's frame</gloss>
+<gloss>cover for kotatsu</gloss>
+</entry>
+<entry>
+<keb>こたつ布団</keb>
+<keb>炬燵布団</keb>
+<keb>コタツ布団</keb>
+<reb>こたつぶとん</reb>
+<gloss>quilt coverlet for a kotatsu</gloss>
+<gloss>kotatsu quilt</gloss>
+</entry>
+<entry>
+<reb>こだま</reb>
+<gloss>Kodama</gloss>
+</entry>
+<entry>
+<keb>拘り</keb>
+<keb>拘わり</keb>
+<reb>こだわり</reb>
+<gloss>obsession</gloss>
+<gloss>fixation</gloss>
+<gloss>hangup</gloss>
+<gloss>determination</gloss>
+<gloss>fastidiousness</gloss>
+<gloss>pickiness about (trait, style, etc.)</gloss>
+<gloss>complaining</gloss>
+<gloss>criticizing</gloss>
+<gloss>speciality (e.g. of a restaurant)</gloss>
+</entry>
+<entry>
+<keb>拘る</keb>
+<keb>拘わる</keb>
+<reb>こだわる</reb>
+<gloss>to be obsessive (about)</gloss>
+<gloss>to be overly concerned (with)</gloss>
+<gloss>to fuss (over)</gloss>
+<gloss>to worry too much (about)</gloss>
+<gloss>to be picky (about)</gloss>
+<gloss>to be hung up (on)</gloss>
+<gloss>to stick to</gloss>
+<gloss>to be particular (about)</gloss>
+<gloss>to pay special attention (to)</gloss>
+<gloss>to be fastidious (about)</gloss>
+<gloss>to insist (on)</gloss>
+<gloss>to be uncompromising</gloss>
+<gloss>to get stuck</gloss>
+<gloss>to be obstructed</gloss>
+</entry>
+<entry>
+<keb>此方</keb>
+<reb>こちら</reb>
+<reb>こっち</reb>
+<reb>こち</reb>
+<gloss>this way</gloss>
+<gloss>this direction</gloss>
+<gloss>here</gloss>
+<gloss>this (one)</gloss>
+<gloss>I</gloss>
+<gloss>me</gloss>
+<gloss>we</gloss>
+<gloss>us</gloss>
+<gloss>this person</gloss>
+</entry>
+<entry>
+<keb>此方</keb>
+<reb>こなた</reb>
+<reb>こんた</reb>
+<gloss>this way</gloss>
+<gloss>here</gloss>
+<gloss>the person in question</gloss>
+<gloss>he</gloss>
+<gloss>she</gloss>
+<gloss>him</gloss>
+<gloss>her</gloss>
+<gloss>since (a time in the past)</gloss>
+<gloss>prior to (a time in the future)</gloss>
+<gloss>me</gloss>
+<gloss>you</gloss>
+</entry>
+<entry>
+<reb>こちらこそ</reb>
+<gloss>it is I who should say so</gloss>
+</entry>
+<entry>
+<reb>こっそり</reb>
+<reb>コッソリ</reb>
+<gloss>stealthily</gloss>
+<gloss>secretly</gloss>
+<gloss>in secret</gloss>
+</entry>
+<entry>
+<reb>コツコツ</reb>
+<reb>こつこつ</reb>
+<gloss>steadily</gloss>
+<gloss>unflaggingly</gloss>
+<gloss>untiringly</gloss>
+<gloss>laboriously</gloss>
+<gloss>diligently</gloss>
+<gloss>knocking</gloss>
+<gloss>tapping</gloss>
+<gloss>clicking</gloss>
+<gloss>drumming</gloss>
+</entry>
+<entry>
+<keb>事がある</keb>
+<reb>ことがある</reb>
+<gloss>(for something) to have occurred</gloss>
+<gloss>to have done (something)</gloss>
+<gloss>(for something) to happen on occasion</gloss>
+</entry>
+<entry>
+<keb>ことが出来る</keb>
+<keb>事ができる</keb>
+<keb>事が出来る</keb>
+<reb>ことができる</reb>
+<gloss>to be able (to)</gloss>
+<gloss>to be possible (to)</gloss>
+</entry>
+<entry>
+<reb>コトコト</reb>
+<reb>ことこと</reb>
+<gloss>gentle clinking</gloss>
+<gloss>sound of rapping</gloss>
+<gloss>sound of rattling</gloss>
+<gloss>sound of lightly chopping</gloss>
+<gloss>simmering noise</gloss>
+<gloss>light bubbling</gloss>
+<gloss>sound of cooking something on a low flame</gloss>
+</entry>
+<entry>
+<keb>悉く</keb>
+<keb>尽く</keb>
+<reb>ことごとく</reb>
+<gloss>altogether</gloss>
+<gloss>entirely</gloss>
+</entry>
+<entry>
+<keb>事にすると</keb>
+<reb>ことにすると</reb>
+<gloss>perhaps</gloss>
+<gloss>maybe</gloss>
+<gloss>possibly</gloss>
+</entry>
+<entry>
+<keb>事になる</keb>
+<reb>ことになる</reb>
+<gloss>to have been decided (so) that</gloss>
+<gloss>to have been arranged (so) that</gloss>
+<gloss>to be the result (of)</gloss>
+<gloss>to be the outcome</gloss>
+<gloss>to be the reason (for)</gloss>
+</entry>
+<entry>
+<keb>事によって</keb>
+<reb>ことによって</reb>
+<gloss>via</gloss>
+<gloss>through</gloss>
+<gloss>by doing</gloss>
+<gloss>by means of</gloss>
+<gloss>using</gloss>
+</entry>
+<entry>
+<keb>此間</keb>
+<reb>こないだ</reb>
+<gloss>the other day</gloss>
+<gloss>lately</gloss>
+<gloss>recently</gloss>
+</entry>
+<entry>
+<reb>このおかげで</reb>
+<gloss>because of this</gloss>
+<gloss>thanks to this</gloss>
+<gloss>due to this</gloss>
+</entry>
+<entry>
+<reb>このため</reb>
+<gloss>because of this</gloss>
+</entry>
+<entry>
+<keb>この外</keb>
+<reb>このほか</reb>
+<gloss>besides</gloss>
+<gloss>moreover</gloss>
+<gloss>in addition</gloss>
+</entry>
+<entry>
+<keb>このような場合に</keb>
+<reb>このようなばあいに</reb>
+<gloss>in this kind of situation</gloss>
+</entry>
+<entry>
+<keb>この間</keb>
+<keb>此の間</keb>
+<reb>このあいだ</reb>
+<reb>このかん</reb>
+<gloss>the other day</gloss>
+<gloss>lately</gloss>
+<gloss>recently</gloss>
+<gloss>during this period</gloss>
+<gloss>meanwhile</gloss>
+<gloss>in the meantime</gloss>
+</entry>
+<entry>
+<keb>この結果</keb>
+<reb>このけっか</reb>
+<gloss>consequently</gloss>
+<gloss>as a result</gloss>
+</entry>
+<entry>
+<keb>この頃</keb>
+<keb>此の頃</keb>
+<reb>このごろ</reb>
+<gloss>these days</gloss>
+<gloss>nowadays</gloss>
+<gloss>now</gloss>
+<gloss>at present</gloss>
+<gloss>recently</gloss>
+<gloss>lately</gloss>
+</entry>
+<entry>
+<keb>この場合</keb>
+<reb>このばあい</reb>
+<gloss>in this case</gloss>
+</entry>
+<entry>
+<keb>この度</keb>
+<keb>此の度</keb>
+<keb>此度</keb>
+<reb>このたび</reb>
+<reb>こたび</reb>
+<gloss>this occasion</gloss>
+<gloss>at this time</gloss>
+<gloss>now</gloss>
+</entry>
+<entry>
+<keb>この辺</keb>
+<keb>此の辺</keb>
+<reb>このへん</reb>
+<gloss>this area</gloss>
+<gloss>around here</gloss>
+<gloss>this point</gloss>
+<gloss>this much</gloss>
+<gloss>this extent</gloss>
+</entry>
+<entry>
+<keb>こぼし話</keb>
+<keb>零し話</keb>
+<reb>こぼしばなし</reb>
+<gloss>complaining</gloss>
+</entry>
+<entry>
+<reb>こら</reb>
+<reb>コラ</reb>
+<reb>ゴルァ</reb>
+<gloss>hey!</gloss>
+<gloss>hey!</gloss>
+</entry>
+<entry>
+<keb>此れから</keb>
+<keb>是から</keb>
+<keb>此から</keb>
+<reb>これから</reb>
+<gloss>from now on</gloss>
+<gloss>after this</gloss>
+<gloss>in the future</gloss>
+<gloss>in future</gloss>
+<gloss>from here</gloss>
+<gloss>from this point</gloss>
+</entry>
+<entry>
+<reb>これで</reb>
+<gloss>here</gloss>
+<gloss>with this</gloss>
+</entry>
+<entry>
+<keb>これと同じ</keb>
+<reb>これとおなじ</reb>
+<gloss>the same as this</gloss>
+</entry>
+<entry>
+<keb>これ迄</keb>
+<keb>此れまで</keb>
+<keb>是迄</keb>
+<keb>此れ迄</keb>
+<reb>これまで</reb>
+<gloss>so far</gloss>
+<gloss>up to now</gloss>
+<gloss>hitherto</gloss>
+<gloss>that's enough (for today)</gloss>
+<gloss>it ends here</gloss>
+</entry>
+<entry>
+<keb>これ等</keb>
+<keb>此等</keb>
+<keb>是等</keb>
+<keb>之等</keb>
+<keb>此れ等</keb>
+<reb>これら</reb>
+<gloss>these</gloss>
+</entry>
+<entry>
+<reb>コロコロ</reb>
+<reb>ころころ</reb>
+<reb>ころんころん</reb>
+<reb>コロンコロン</reb>
+<gloss>lightly rolling (of a small and round thing)</gloss>
+<gloss>pleasant, high-pitched sound (e.g. bell, young woman's laughter)</gloss>
+<gloss>changing frequently (e.g. conversation, plans)</gloss>
+<gloss>(occurring) in rapid succession (e.g. sumo wrestlers being defeated)</gloss>
+<gloss>fickly</gloss>
+<gloss>in a fickle manner</gloss>
+<gloss>chubby</gloss>
+<gloss>rounded</gloss>
+<gloss>chirp chirp (sound of insects)</gloss>
+<gloss>ribbit ribbit (sound of frogs)</gloss>
+<gloss>croak croak</gloss>
+<gloss>roller</gloss>
+<gloss>lint roller</gloss>
+<gloss>paint roller</gloss>
+</entry>
+<entry>
+<reb>ころり</reb>
+<reb>コロリ</reb>
+<gloss>easily</gloss>
+<gloss>effortlessly</gloss>
+<gloss>suddenly</gloss>
+<gloss>utterly</gloss>
+<gloss>changing completely</gloss>
+<gloss>plink (sound of something light falling or rolling)</gloss>
+</entry>
+<entry>
+<reb>コンコン</reb>
+<reb>こんこん</reb>
+<gloss>tap-tap</gloss>
+<gloss>knock-knock</gloss>
+<gloss>bang-bang</gloss>
+<gloss>cough-cough</gloss>
+<gloss>bark (of a fox)</gloss>
+<gloss>yelp</gloss>
+<gloss>cry</gloss>
+<gloss>heavily (e.g. of snow falling)</gloss>
+<gloss>fox</gloss>
+</entry>
+<entry>
+<reb>こんな</reb>
+<gloss>this sort of</gloss>
+<gloss>this kind of</gloss>
+<gloss>like this</gloss>
+<gloss>such</gloss>
+</entry>
+<entry>
+<reb>こんなに</reb>
+<gloss>so</gloss>
+<gloss>like this</gloss>
+<gloss>in this way</gloss>
+<gloss>this much</gloss>
+<gloss>to this extent</gloss>
+</entry>
+<entry>
+<reb>ごそごそ</reb>
+<reb>ゴソゴソ</reb>
+<gloss>with a rustling sound</gloss>
+<gloss>(rummaging) around</gloss>
+</entry>
+<entry>
+<reb>ゴタゴタ</reb>
+<reb>ごたごた</reb>
+<gloss>trouble</gloss>
+<gloss>difficulties</gloss>
+<gloss>dispute</gloss>
+<gloss>quarrel</gloss>
+<gloss>discord</gloss>
+<gloss>dissension</gloss>
+<gloss>confusion</gloss>
+<gloss>disorder</gloss>
+<gloss>mess</gloss>
+<gloss>muddle</gloss>
+</entry>
+<entry>
+<reb>ごちゃごちゃ</reb>
+<reb>ごちゃ</reb>
+<reb>ごっちゃ</reb>
+<reb>ごちゃくちゃ</reb>
+<reb>ゴチャゴチャ</reb>
+<reb>ゴチャ</reb>
+<reb>ゴッチャ</reb>
+<reb>ゴチャクチャ</reb>
+<gloss>messy</gloss>
+<gloss>confused</gloss>
+<gloss>chaotic</gloss>
+<gloss>disorderly</gloss>
+<gloss>mixed-up</gloss>
+<gloss>jumbled up</gloss>
+<gloss>in a nagging manner</gloss>
+<gloss>(complaining) about various things</gloss>
+</entry>
+<entry>
+<reb>ごっこ</reb>
+<gloss>playing at (something)</gloss>
+<gloss>game of make-believe</gloss>
+<gloss>something done together</gloss>
+</entry>
+<entry>
+<reb>ごった</reb>
+<gloss>confusion</gloss>
+<gloss>mess</gloss>
+<gloss>mix</gloss>
+<gloss>huddle</gloss>
+</entry>
+<entry>
+<keb>ごった返す</keb>
+<reb>ごったがえす</reb>
+<gloss>to be in confusion or commotion</gloss>
+<gloss>to be in a turmoil</gloss>
+<gloss>to be crowded or jammed with people</gloss>
+</entry>
+<entry>
+<reb>ごぼごぼ</reb>
+<gloss>gurgling</gloss>
+<gloss>burbling</gloss>
+<gloss>bubbling</gloss>
+</entry>
+<entry>
+<keb>誤魔化し</keb>
+<keb>胡麻化し</keb>
+<reb>ごまかし</reb>
+<gloss>cheating</gloss>
+<gloss>deception</gloss>
+<gloss>trickery</gloss>
+<gloss>manipulation</gloss>
+<gloss>juggling</gloss>
+<gloss>falsifying</gloss>
+<gloss>sham</gloss>
+<gloss>camouflage</gloss>
+<gloss>smoke and mirrors</gloss>
+<gloss>cutting corners</gloss>
+</entry>
+<entry>
+<keb>ゴミ入れ</keb>
+<keb>ごみ入れ</keb>
+<keb>塵入れ</keb>
+<keb>ゴミ入</keb>
+<keb>ごみ入</keb>
+<keb>塵入</keb>
+<reb>ゴミいれ</reb>
+<reb>ごみいれ</reb>
+<gloss>trashcan</gloss>
+<gloss>rubbish bin</gloss>
+<gloss>dustbin</gloss>
+<gloss>ashcan</gloss>
+</entry>
+<entry>
+<keb>ゴミ箱</keb>
+<keb>ごみ箱</keb>
+<keb>護美箱</keb>
+<keb>塵箱</keb>
+<keb>芥箱</keb>
+<reb>ごみばこ</reb>
+<gloss>trash can</gloss>
+<gloss>garbage can</gloss>
+<gloss>rubbish bin</gloss>
+<gloss>dustbin</gloss>
+</entry>
+<entry>
+<reb>ゴロゴロ</reb>
+<reb>ごろごろ</reb>
+<reb>ゴロンゴロン</reb>
+<reb>ごろんごろん</reb>
+<gloss>rumbling (of thunder, one's stomach, etc.)</gloss>
+<gloss>grumbling</gloss>
+<gloss>growling</gloss>
+<gloss>purring</gloss>
+<gloss>rolling (of something large and heavy)</gloss>
+<gloss>tumbling</gloss>
+<gloss>all over the place</gloss>
+<gloss>everywhere</gloss>
+<gloss>commonly</gloss>
+<gloss>in great numbers</gloss>
+<gloss>idly</gloss>
+<gloss>lazily</gloss>
+<gloss>slothfully</gloss>
+<gloss>(uncomfortable feeling of) having a foreign substance in one's eye, stomach, etc.</gloss>
+<gloss>thunder</gloss>
+</entry>
+<entry>
+<keb>ご苦労様</keb>
+<keb>ご苦労さま</keb>
+<keb>御苦労様</keb>
+<keb>御苦労さま</keb>
+<reb>ごくろうさま</reb>
+<gloss>thank you (for your hard work)</gloss>
+<gloss>I appreciate your efforts</gloss>
+</entry>
+<entry>
+<keb>ご苦労さん</keb>
+<keb>御苦労さん</keb>
+<reb>ごくろうさん</reb>
+<gloss>I appreciate your efforts</gloss>
+</entry>
+<entry>
+<keb>ご兄弟</keb>
+<keb>御兄弟</keb>
+<reb>ごきょうだい</reb>
+<gloss>siblings</gloss>
+<gloss>brothers and sisters</gloss>
+</entry>
+<entry>
+<keb>ご心配なく</keb>
+<keb>御心配なく</keb>
+<reb>ごしんぱいなく</reb>
+<gloss>don't worry</gloss>
+<gloss>no worries</gloss>
+<gloss>never mind</gloss>
+</entry>
+<entry>
+<keb>ご馳走様でした</keb>
+<keb>ご馳走さまでした</keb>
+<keb>御馳走様でした</keb>
+<reb>ごちそうさまでした</reb>
+<gloss>thank you for the meal</gloss>
+<gloss>that was a delicious meal</gloss>
+<gloss>what a wonderful meal</gloss>
+</entry>
+<entry>
+<keb>ご注意</keb>
+<keb>御注意</keb>
+<reb>ごちゅうい</reb>
+<gloss>attention</gloss>
+<gloss>notice</gloss>
+<gloss>heed</gloss>
+<gloss>care</gloss>
+<gloss>caution</gloss>
+<gloss>precaution</gloss>
+<gloss>advice</gloss>
+<gloss>warning</gloss>
+<gloss>caution</gloss>
+</entry>
+<entry>
+<keb>ご覧ください</keb>
+<keb>御覧ください</keb>
+<keb>ご覧下さい</keb>
+<keb>御覧下さい</keb>
+<reb>ごらんください</reb>
+<gloss>please look at it</gloss>
+</entry>
+<entry>
+<reb>さあ</reb>
+<reb>さー</reb>
+<reb>さぁ</reb>
+<gloss>come (on)</gloss>
+<gloss>come now</gloss>
+<gloss>come along</gloss>
+<gloss>here</gloss>
+<gloss>all right</gloss>
+<gloss>right</gloss>
+<gloss>okay</gloss>
+<gloss>now</gloss>
+<gloss>here goes</gloss>
+<gloss>well</gloss>
+<gloss>hmm</gloss>
+<gloss>uh</gloss>
+<gloss>let's see</gloss>
+<gloss>I'm not sure</gloss>
+<gloss>here</gloss>
+<gloss>now</gloss>
+<gloss>there (we go)</gloss>
+<gloss>ah</gloss>
+<gloss>oh</gloss>
+<gloss>about that, ...</gloss>
+<gloss>actually, ...</gloss>
+</entry>
+<entry>
+<reb>さえ</reb>
+<gloss>even</gloss>
+<gloss>(if) only</gloss>
+<gloss>just</gloss>
+<gloss>as long as</gloss>
+<gloss>besides</gloss>
+<gloss>on top of that</gloss>
+<gloss>what's more</gloss>
+</entry>
+<entry>
+<reb>サクサク</reb>
+<reb>さくさく</reb>
+<gloss>crisp (not moist or juicy)</gloss>
+<gloss>crunchy</gloss>
+<gloss>flaky (as in pastry)</gloss>
+<gloss>crunching sound (of walking on snow, frost, sand, etc.)</gloss>
+<gloss>doing skillfully and efficiently</gloss>
+<gloss>doing quickly</gloss>
+<gloss>proceeding smoothly</gloss>
+<gloss>sound of pouring liquid</gloss>
+<gloss>speaking clearly</gloss>
+</entry>
+<entry>
+<reb>ささくれる</reb>
+<gloss>to split finely</gloss>
+<gloss>to splinter</gloss>
+<gloss>to get frayed</gloss>
+<gloss>to become irritable</gloss>
+</entry>
+<entry>
+<reb>させる</reb>
+<gloss>to make (someone) do</gloss>
+<gloss>to allow (someone) to do</gloss>
+</entry>
+<entry>
+<keb>させ子</keb>
+<reb>させこ</reb>
+<gloss>easy girl</gloss>
+<gloss>floozy</gloss>
+</entry>
+<entry>
+<keb>先</keb>
+<reb>さっき</reb>
+<gloss>a short while ago</gloss>
+<gloss>a moment ago</gloss>
+<gloss>just now</gloss>
+<gloss>some time ago</gloss>
+</entry>
+<entry>
+<reb>さっさと</reb>
+<reb>サッサと</reb>
+<gloss>quickly</gloss>
+<gloss>promptly</gloss>
+<gloss>immediately</gloss>
+<gloss>without delay</gloss>
+<gloss>briskly</gloss>
+<gloss>hurriedly</gloss>
+<gloss>hastily</gloss>
+<gloss>indifferently</gloss>
+<gloss>coldly</gloss>
+</entry>
+<entry>
+<keb>颯と</keb>
+<keb>颯っと</keb>
+<reb>さっと</reb>
+<gloss>quickly (esp. actions)</gloss>
+<gloss>suddenly (esp. wind, rain, etc.)</gloss>
+</entry>
+<entry>
+<reb>さっぱり</reb>
+<gloss>feeling refreshed</gloss>
+<gloss>feeling relieved</gloss>
+<gloss>neat</gloss>
+<gloss>tidy</gloss>
+<gloss>clean</gloss>
+<gloss>frank</gloss>
+<gloss>open-hearted</gloss>
+<gloss>plain</gloss>
+<gloss>simple</gloss>
+<gloss>light</gloss>
+<gloss>completely</gloss>
+<gloss>entirely</gloss>
+<gloss>not in the least (with neg. verb)</gloss>
+<gloss>not at all</gloss>
+<gloss>nothing at all</gloss>
+<gloss>completely useless</gloss>
+<gloss>hopeless</gloss>
+<gloss>awful</gloss>
+</entry>
+<entry>
+<keb>さて置く</keb>
+<keb>扨置く</keb>
+<keb>扨措く</keb>
+<keb>扠置く</keb>
+<reb>さておく</reb>
+<gloss>to set aside</gloss>
+</entry>
+<entry>
+<reb>さてさて</reb>
+<gloss>well!</gloss>
+<gloss>huh</gloss>
+<gloss>my, my</gloss>
+</entry>
+<entry>
+<reb>サバサバ</reb>
+<reb>さばさば</reb>
+<gloss>relieved</gloss>
+<gloss>refreshed</gloss>
+<gloss>frank</gloss>
+<gloss>candid</gloss>
+<gloss>easy-going</gloss>
+<gloss>laid-back</gloss>
+</entry>
+<entry>
+<reb>さめざめ</reb>
+<gloss>(weep) quietly</gloss>
+<gloss>silently</gloss>
+<gloss>(cry) bitterly</gloss>
+</entry>
+<entry>
+<reb>さもしい</reb>
+<gloss>low</gloss>
+<gloss>vulgar</gloss>
+<gloss>base</gloss>
+<gloss>ignoble</gloss>
+<gloss>mean</gloss>
+<gloss>selfish</gloss>
+<gloss>self-seeking</gloss>
+</entry>
+<entry>
+<reb>サヨナラホームラン</reb>
+<reb>さよならホームラン</reb>
+<gloss>game-ending home run</gloss>
+</entry>
+<entry>
+<keb>さらけ出す</keb>
+<keb>曝け出す</keb>
+<keb>曝けだす</keb>
+<reb>さらけだす</reb>
+<gloss>to expose</gloss>
+<gloss>to disclose</gloss>
+<gloss>to lay bare</gloss>
+<gloss>to confess</gloss>
+</entry>
+<entry>
+<reb>さらさら</reb>
+<reb>サラサラ</reb>
+<gloss>with a rustling sound</gloss>
+<gloss>rippling (of a stream, etc.)</gloss>
+<gloss>murmuring</gloss>
+<gloss>purling</gloss>
+<gloss>slurping down (ochazuke)</gloss>
+<gloss>quickly and easily (e.g. write a letter)</gloss>
+<gloss>with ease</gloss>
+<gloss>smoothly</gloss>
+<gloss>fluently</gloss>
+<gloss>smooth and dry (hair, sand, etc.)</gloss>
+<gloss>silky</gloss>
+<gloss>powdery (e.g. snow)</gloss>
+<gloss>free-flowing (e.g. blood)</gloss>
+</entry>
+<entry>
+<keb>さり気ない</keb>
+<keb>然りげ無い</keb>
+<keb>さり気無い</keb>
+<keb>然りげない</keb>
+<keb>然り気ない</keb>
+<keb>然り気無い</keb>
+<reb>さりげない</reb>
+<gloss>nonchalant</gloss>
+<gloss>unconcerned</gloss>
+<gloss>in a casual manner</gloss>
+</entry>
+<entry>
+<reb>さん</reb>
+<gloss>Mr.</gloss>
+<gloss>Mrs.</gloss>
+<gloss>Miss</gloss>
+<gloss>Ms.</gloss>
+<gloss>-san</gloss>
+</entry>
+<entry>
+<reb>ザクザク</reb>
+<reb>ざくざく</reb>
+<gloss>walking on frost</gloss>
+<gloss>crunching (e.g. on gravel)</gloss>
+<gloss>lots of coins or jewels</gloss>
+<gloss>cutting into large pieces</gloss>
+<gloss>loosely weaving</gloss>
+<gloss>large (pieces, stitches, sand grains, etc.)</gloss>
+</entry>
+<entry>
+<reb>ざっくばらん</reb>
+<gloss>frank</gloss>
+<gloss>candid</gloss>
+<gloss>outspoken</gloss>
+<gloss>unreserved</gloss>
+</entry>
+<entry>
+<reb>ざっと</reb>
+<gloss>roughly</gloss>
+<gloss>approximately</gloss>
+<gloss>round about</gloss>
+<gloss>more or less</gloss>
+<gloss>cursorily</gloss>
+<gloss>briefly</gloss>
+<gloss>quickly</gloss>
+<gloss>lightly</gloss>
+<gloss>roughly</gloss>
+</entry>
+<entry>
+<keb>ざまを見ろ</keb>
+<keb>様を見ろ</keb>
+<reb>ざまをみろ</reb>
+<gloss>serves you right!</gloss>
+<gloss>see what happens!</gloss>
+</entry>
+<entry>
+<reb>ザラザラ</reb>
+<reb>ざらざら</reb>
+<gloss>rough (touch, voice, etc.)</gloss>
+<gloss>coarse</gloss>
+<gloss>gritty</gloss>
+<gloss>sandy</gloss>
+<gloss>granular</gloss>
+<gloss>rattling (of beans, beads, etc.)</gloss>
+</entry>
+<entry>
+<reb>ざわざわ</reb>
+<reb>ザワザワ</reb>
+<gloss>noisily (from many people talking)</gloss>
+<gloss>in a commotion</gloss>
+<gloss>with a rustling sound (of leaves, branches, etc.)</gloss>
+<gloss>with a rippling sound (of the surface of a lake, etc.)</gloss>
+<gloss>feeling a chill</gloss>
+<gloss>with a chill (up one's spine)</gloss>
+</entry>
+<entry>
+<keb>悄悄</keb>
+<keb>悄々</keb>
+<reb>しおしお</reb>
+<reb>しょうしょう</reb>
+<reb>すごすご</reb>
+<gloss>in low spirits</gloss>
+<gloss>dejected</gloss>
+<gloss>sad</gloss>
+</entry>
+<entry>
+<reb>しか</reb>
+<gloss>nothing but</gloss>
+<gloss>except</gloss>
+<gloss>no more than</gloss>
+</entry>
+<entry>
+<keb>しがみ付く</keb>
+<reb>しがみつく</reb>
+<gloss>to cling</gloss>
+</entry>
+<entry>
+<keb>頻りに</keb>
+<reb>しきりに</reb>
+<gloss>frequently</gloss>
+<gloss>repeatedly</gloss>
+<gloss>often</gloss>
+<gloss>incessantly</gloss>
+<gloss>constantly</gloss>
+<gloss>eagerly</gloss>
+<gloss>keenly</gloss>
+<gloss>strongly</gloss>
+<gloss>intently</gloss>
+<gloss>hard</gloss>
+<gloss>terribly</gloss>
+<gloss>extremely</gloss>
+<gloss>severely</gloss>
+</entry>
+<entry>
+<keb>しくしく泣く</keb>
+<reb>しくしくなく</reb>
+<gloss>to cry softly</gloss>
+<gloss>to sob</gloss>
+<gloss>to weep</gloss>
+</entry>
+<entry>
+<reb>しくじる</reb>
+<gloss>to fail</gloss>
+<gloss>to blunder</gloss>
+<gloss>to mess up</gloss>
+<gloss>to screw up</gloss>
+<gloss>to be dismissed</gloss>
+<gloss>to be fired</gloss>
+</entry>
+<entry>
+<keb>繁繁</keb>
+<keb>繁々</keb>
+<reb>しげしげ</reb>
+<gloss>frequently</gloss>
+<gloss>often</gloss>
+<gloss>(staring) fixedly</gloss>
+<gloss>narrowly</gloss>
+<gloss>closely</gloss>
+<gloss>steadily</gloss>
+</entry>
+<entry>
+<reb>しっくり</reb>
+<gloss>exactly</gloss>
+<gloss>nicely</gloss>
+<gloss>to a tee</gloss>
+<gloss>to be fitting</gloss>
+</entry>
+<entry>
+<keb>執拗い</keb>
+<reb>しつこい</reb>
+<reb>しつっこい</reb>
+<gloss>insistent</gloss>
+<gloss>obstinate</gloss>
+<gloss>persistent</gloss>
+<gloss>tenacious</gloss>
+<gloss>too rich (taste, etc.)</gloss>
+<gloss>fatty</gloss>
+<gloss>heavy</gloss>
+<gloss>greasy</gloss>
+</entry>
+<entry>
+<reb>しとしと</reb>
+<reb>シトシト</reb>
+<gloss>gently (raining)</gloss>
+<gloss>drizzling</gloss>
+<gloss>moist</gloss>
+<gloss>damp</gloss>
+</entry>
+<entry>
+<keb>屡々</keb>
+<keb>屡屡</keb>
+<keb>屡</keb>
+<keb>数数</keb>
+<keb>数々</keb>
+<keb>数</keb>
+<reb>しばしば</reb>
+<gloss>often</gloss>
+<gloss>again and again</gloss>
+<gloss>frequently</gloss>
+<gloss>repeatedly</gloss>
+</entry>
+<entry>
+<reb>しぶとい</reb>
+<gloss>tenacious</gloss>
+<gloss>tough</gloss>
+<gloss>enduring</gloss>
+<gloss>dogged</gloss>
+<gloss>headstrong</gloss>
+<gloss>stubborn</gloss>
+<gloss>obstinate</gloss>
+<gloss>unyielding</gloss>
+</entry>
+<entry>
+<keb>仕舞った</keb>
+<reb>しまった</reb>
+<gloss>darn it!</gloss>
+<gloss>darn!</gloss>
+<gloss>oops!</gloss>
+<gloss>oh dear!</gloss>
+<gloss>oh no!</gloss>
+</entry>
+<entry>
+<keb>沁み沁み</keb>
+<keb>染み染み</keb>
+<keb>沁沁</keb>
+<reb>しみじみ</reb>
+<gloss>keenly</gloss>
+<gloss>deeply</gloss>
+<gloss>fully</gloss>
+<gloss>heartily</gloss>
+<gloss>seriously</gloss>
+<gloss>earnestly</gloss>
+<gloss>calmly</gloss>
+<gloss>quietly</gloss>
+<gloss>softly</gloss>
+<gloss>fixedly (gazing, staring)</gloss>
+<gloss>intently</gloss>
+</entry>
+<entry>
+<reb>しゃあしゃあ</reb>
+<gloss>shamelessly</gloss>
+<gloss>brazenly</gloss>
+<gloss>coolly</gloss>
+<gloss>fast flowing (of water)</gloss>
+</entry>
+<entry>
+<reb>しゃがむ</reb>
+<gloss>to squat</gloss>
+<gloss>to crouch</gloss>
+</entry>
+<entry>
+<reb>しゃきしゃき</reb>
+<reb>シャキシャキ</reb>
+<reb>シャッキシャッキ</reb>
+<gloss>crisp</gloss>
+<gloss>crunchy</gloss>
+<gloss>precise</gloss>
+<gloss>clipped</gloss>
+<gloss>brisk</gloss>
+</entry>
+<entry>
+<keb>吃逆</keb>
+<keb>噦</keb>
+<reb>しゃっくり</reb>
+<gloss>hiccup</gloss>
+<gloss>hiccough</gloss>
+</entry>
+<entry>
+<reb>しゃぶしゃぶ</reb>
+<gloss>shabu-shabu</gloss>
+</entry>
+<entry>
+<reb>しゃぶる</reb>
+<gloss>to suck</gloss>
+<gloss>to lick</gloss>
+</entry>
+<entry>
+<keb>喋り</keb>
+<reb>しゃべり</reb>
+<gloss>talk</gloss>
+<gloss>chat</gloss>
+</entry>
+<entry>
+<reb>しゃり</reb>
+<reb>シャリ</reb>
+<gloss>sushi rice</gloss>
+</entry>
+<entry>
+<keb>し易い</keb>
+<reb>しやすい</reb>
+<gloss>easy to do</gloss>
+<gloss>apt to do</gloss>
+<gloss>prone to do</gloss>
+<gloss>liable to do</gloss>
+</entry>
+<entry>
+<reb>しょっちゅう</reb>
+<gloss>always</gloss>
+<gloss>all the time</gloss>
+<gloss>constantly</gloss>
+<gloss>frequently</gloss>
+<gloss>often</gloss>
+</entry>
+<entry>
+<keb>小便をする</keb>
+<reb>しょうべんをする</reb>
+<reb>しょんべんをする</reb>
+<gloss>to urinate</gloss>
+<gloss>to pee</gloss>
+<gloss>to piss</gloss>
+</entry>
+<entry>
+<keb>小便を垂れる</keb>
+<reb>しょんべんをたれる</reb>
+<gloss>to pee</gloss>
+<gloss>to piss</gloss>
+</entry>
+<entry>
+<reb>しょんぼり</reb>
+<reb>しょんもり</reb>
+<gloss>downheartedly</gloss>
+<gloss>dejectedly</gloss>
+<gloss>dispiritedly</gloss>
+<gloss>despondently</gloss>
+</entry>
+<entry>
+<keb>白口</keb>
+<reb>しろぐち</reb>
+<reb>シログチ</reb>
+<gloss>silver white croaker (Pennahia argentata)</gloss>
+<gloss>silver croaker</gloss>
+<gloss>white croaker</gloss>
+</entry>
+<entry>
+<keb>嗄れる</keb>
+<keb>皺枯れる</keb>
+<reb>しゃがれる</reb>
+<reb>しわがれる</reb>
+<reb>かれる</reb>
+<gloss>to become hoarse</gloss>
+<gloss>to become husky</gloss>
+</entry>
+<entry>
+<keb>涔々</keb>
+<keb>涔涔</keb>
+<reb>しんしん</reb>
+<gloss>falling heavily (of rain, snow, etc.)</gloss>
+</entry>
+<entry>
+<reb>しんどい</reb>
+<gloss>tired</gloss>
+<gloss>frazzled</gloss>
+<gloss>tiresome</gloss>
+<gloss>tiring</gloss>
+<gloss>draining</gloss>
+<gloss>bothersome</gloss>
+<gloss>worrisome</gloss>
+</entry>
+<entry>
+<reb>しんねり</reb>
+<gloss>persistently</gloss>
+<gloss>slowly</gloss>
+<gloss>hesitantly</gloss>
+<gloss>irresolutely</gloss>
+</entry>
+<entry>
+<reb>しんみり</reb>
+<reb>シンミリ</reb>
+<gloss>quietly</gloss>
+<gloss>softly</gloss>
+<gloss>seriously</gloss>
+<gloss>intimately</gloss>
+<gloss>heart-to-heart</gloss>
+<gloss>solemnly</gloss>
+<gloss>sadly</gloss>
+</entry>
+<entry>
+<keb>し吹く</keb>
+<keb>繁吹く</keb>
+<keb>重吹く</keb>
+<reb>しぶく</reb>
+<gloss>to splash</gloss>
+<gloss>to spray</gloss>
+</entry>
+<entry>
+<reb>じくじく</reb>
+<gloss>oozing</gloss>
+<gloss>damp</gloss>
+<gloss>sodden</gloss>
+</entry>
+<entry>
+<reb>ジタバタ</reb>
+<reb>じたばた</reb>
+<gloss>(kicking and) struggling</gloss>
+<gloss>wriggling</gloss>
+<gloss>floundering</gloss>
+<gloss>flailing</gloss>
+<gloss>to get into a panic</gloss>
+<gloss>to make a fuss</gloss>
+<gloss>to make a scene</gloss>
+</entry>
+<entry>
+<reb>じっくり</reb>
+<gloss>(slowly and) carefully</gloss>
+<gloss>without haste</gloss>
+<gloss>thoroughly</gloss>
+<gloss>deliberately</gloss>
+<gloss>closely</gloss>
+<gloss>meticulously</gloss>
+</entry>
+<entry>
+<keb>凝乎と</keb>
+<reb>じっと</reb>
+<reb>じーっと</reb>
+<reb>じーと</reb>
+<reb>じいっと</reb>
+<gloss>motionlessly (e.g. stand, wait)</gloss>
+<gloss>(be) still</gloss>
+<gloss>fixedly (e.g. gaze, stare)</gloss>
+<gloss>intently (e.g. listen, think)</gloss>
+<gloss>patiently (endure)</gloss>
+<gloss>stoically</gloss>
+<gloss>firmly (e.g. hold)</gloss>
+<gloss>restrained</gloss>
+</entry>
+<entry>
+<keb>じっと見る</keb>
+<reb>じっとみる</reb>
+<gloss>to watch steadily</gloss>
+<gloss>to stare</gloss>
+</entry>
+<entry>
+<reb>じめじめ</reb>
+<reb>ジメジメ</reb>
+<gloss>damp</gloss>
+<gloss>humid</gloss>
+<gloss>wet</gloss>
+<gloss>clammy</gloss>
+<gloss>muggy</gloss>
+<gloss>soggy</gloss>
+<gloss>gloomy</gloss>
+<gloss>melancholy</gloss>
+<gloss>depressing</gloss>
+</entry>
+<entry>
+<reb>じゃあ</reb>
+<reb>じゃ</reb>
+<gloss>then</gloss>
+<gloss>well</gloss>
+<gloss>so</gloss>
+<gloss>well then</gloss>
+</entry>
+<entry>
+<reb>じゃあじゃあ</reb>
+<gloss>noisily (of water gushing, pouring, spilling, splashing, spraying, etc.)</gloss>
+</entry>
+<entry>
+<keb>また明日</keb>
+<reb>またあした</reb>
+<gloss>see you tomorrow</gloss>
+</entry>
+<entry>
+<keb>じゃが芋</keb>
+<keb>ジャガ芋</keb>
+<keb>ジャガ薯</keb>
+<keb>じゃが薯</keb>
+<reb>じゃがいも</reb>
+<reb>ジャガイモ</reb>
+<gloss>potato (Solanum tuberosum)</gloss>
+</entry>
+<entry>
+<keb>じゃじゃ馬</keb>
+<reb>じゃじゃうま</reb>
+<gloss>restive horse</gloss>
+<gloss>unmanageable person (esp. a woman)</gloss>
+<gloss>shrew</gloss>
+<gloss>stubborn tomboy</gloss>
+</entry>
+<entry>
+<reb>じゃぶじゃぶ</reb>
+<reb>ジャブジャブ</reb>
+<gloss>splashing (water)</gloss>
+<gloss>splashing about</gloss>
+<gloss>with a splash</gloss>
+<gloss>vigorously</gloss>
+<gloss>generously (e.g. pouring sauce)</gloss>
+<gloss>plenty</gloss>
+<gloss>greatly (using or making money)</gloss>
+</entry>
+<entry>
+<reb>じゃりじゃり</reb>
+<gloss>crunchy</gloss>
+<gloss>gritty (sand, pebbles, etc.)</gloss>
+</entry>
+<entry>
+<keb>じゃん拳</keb>
+<keb>ジャン拳</keb>
+<reb>じゃんけん</reb>
+<reb>ジャンけん</reb>
+<reb>ジャンケン</reb>
+<gloss>rock-paper-scissors (game)</gloss>
+<gloss>janken</gloss>
+</entry>
+<entry>
+<reb>じゅうじゅう</reb>
+<reb>ジュージュー</reb>
+<gloss>sizzling (of cooking meat, fish, etc.)</gloss>
+<gloss>frizzling</gloss>
+</entry>
+<entry>
+<keb>焦らす</keb>
+<reb>じらす</reb>
+<gloss>to tease</gloss>
+<gloss>to irritate</gloss>
+<gloss>to tantalize</gloss>
+<gloss>to keep (someone) in suspense</gloss>
+</entry>
+<entry>
+<reb>じりじり</reb>
+<reb>ジリジリ</reb>
+<reb>ぢりぢり</reb>
+<reb>ヂリヂリ</reb>
+<gloss>slowly (but steadily)</gloss>
+<gloss>gradually</gloss>
+<gloss>bit-by-bit</gloss>
+<gloss>irritatedly</gloss>
+<gloss>impatiently</gloss>
+<gloss>scorchingly (of the sun)</gloss>
+<gloss>sizzling (i.e. sound of frying in oil)</gloss>
+<gloss>sound of a warning bell, alarm clock, etc.</gloss>
+<gloss>oozing out (oil, sweat, etc.)</gloss>
+<gloss>seeping out</gloss>
+</entry>
+<entry>
+<keb>焦れったい</keb>
+<reb>じれったい</reb>
+<gloss>irritating</gloss>
+<gloss>impatient</gloss>
+<gloss>annoying</gloss>
+<gloss>frustrating</gloss>
+<gloss>vexing</gloss>
+</entry>
+<entry>
+<keb>じろじろ見る</keb>
+<keb>ジロジロ見る</keb>
+<reb>じろじろみる</reb>
+<reb>ジロジロみる</reb>
+<gloss>to stare at</gloss>
+<gloss>to look hard at</gloss>
+<gloss>to look up and down</gloss>
+<gloss>to scrutinize</gloss>
+<gloss>to scrutinise</gloss>
+</entry>
+<entry>
+<reb>じんわり</reb>
+<gloss>gradually (progressing)</gloss>
+<gloss>steadily</gloss>
+<gloss>slowly</gloss>
+<gloss>seeping out (sweat, tears, etc.)</gloss>
+</entry>
+<entry>
+<reb>スースー</reb>
+<reb>すーすー</reb>
+<gloss>cool sensation from passing air</gloss>
+<gloss>cool and refreshing (aftertaste)</gloss>
+<gloss>sound of air leaking</gloss>
+<gloss>sound of a sleeper's breath</gloss>
+</entry>
+<entry>
+<reb>スイスイ</reb>
+<reb>すいすい</reb>
+<gloss>lightly and smoothly (of movements)</gloss>
+<gloss>swiftly</gloss>
+<gloss>glidingly</gloss>
+<gloss>(progressing) smoothly</gloss>
+<gloss>(solving) easily</gloss>
+</entry>
+<entry>
+<keb>好き者</keb>
+<keb>好者</keb>
+<reb>すきもの</reb>
+<gloss>lecher</gloss>
+<gloss>nymphomaniac</gloss>
+<gloss>dilettante</gloss>
+</entry>
+<entry>
+<keb>すすり泣く</keb>
+<keb>啜り泣く</keb>
+<keb>啜りなく</keb>
+<reb>すすりなく</reb>
+<gloss>to sob</gloss>
+</entry>
+<entry>
+<reb>すたすた</reb>
+<gloss>(walk) briskly</gloss>
+<gloss>at a brisk pace</gloss>
+<gloss>quickly</gloss>
+</entry>
+<entry>
+<reb>すっからかん</reb>
+<reb>スッカラカン</reb>
+<gloss>completely empty</gloss>
+<gloss>penniless</gloss>
+<gloss>flat broke</gloss>
+</entry>
+<entry>
+<reb>すっかり</reb>
+<gloss>all</gloss>
+<gloss>completely</gloss>
+<gloss>totally</gloss>
+<gloss>entirely</gloss>
+<gloss>thoroughly</gloss>
+</entry>
+<entry>
+<reb>すっきり</reb>
+<reb>スッキリ</reb>
+<gloss>refreshingly</gloss>
+<gloss>with a feeling of relief</gloss>
+<gloss>pleasantly</gloss>
+<gloss>(a weight) off one's shoulder</gloss>
+<gloss>shapely</gloss>
+<gloss>neatly</gloss>
+<gloss>refinedly</gloss>
+<gloss>cleanly</gloss>
+<gloss>without trouble</gloss>
+<gloss>clearly</gloss>
+<gloss>plainly</gloss>
+<gloss>distinctly</gloss>
+<gloss>completely</gloss>
+<gloss>thoroughly</gloss>
+<gloss>not at all (with negative sentence)</gloss>
+<gloss>not even slightly</gloss>
+</entry>
+<entry>
+<reb>スカッと</reb>
+<reb>スカっと</reb>
+<reb>すかっと</reb>
+<reb>スカーッと</reb>
+<gloss>refreshingly</gloss>
+<gloss>with a feeling of relief</gloss>
+<gloss>pleasantly</gloss>
+<gloss>(a weight) off one's shoulder</gloss>
+<gloss>(wearing, etc. something) elegantly</gloss>
+<gloss>smartly</gloss>
+<gloss>stylishly</gloss>
+<gloss>in a refined manner</gloss>
+</entry>
+<entry>
+<reb>すっと</reb>
+<reb>スッと</reb>
+<reb>スーッと</reb>
+<reb>すうっと</reb>
+<gloss>straight</gloss>
+<gloss>quickly</gloss>
+<gloss>directly</gloss>
+<gloss>all of a sudden</gloss>
+<gloss>quietly</gloss>
+<gloss>gently</gloss>
+<gloss>softly</gloss>
+<gloss>to feel refreshed</gloss>
+<gloss>to feel satisfied</gloss>
+</entry>
+<entry>
+<reb>すっぱり</reb>
+<reb>すぱり</reb>
+<gloss>completely (quitting, etc.)</gloss>
+<gloss>entirely</gloss>
+<gloss>thoroughly</gloss>
+<gloss>totally</gloss>
+<gloss>wholly</gloss>
+<gloss>resolutely</gloss>
+<gloss>decisively</gloss>
+<gloss>flatly</gloss>
+<gloss>firmly</gloss>
+<gloss>without hesitation</gloss>
+<gloss>cleanly (cutting, snapping off, etc.)</gloss>
+<gloss>in a single blow</gloss>
+</entry>
+<entry>
+<reb>すっぽかす</reb>
+<gloss>to leave (something) undone</gloss>
+<gloss>to neglect (a duty, task, etc.)</gloss>
+<gloss>to break (a promise, appointment, etc.)</gloss>
+<gloss>to stand (someone) up</gloss>
+</entry>
+<entry>
+<reb>すっぽんぽん</reb>
+<reb>スッポンポン</reb>
+<gloss>utterly stark naked</gloss>
+<gloss>wearing only one's birthday suit</gloss>
+</entry>
+<entry>
+<reb>すばしっこい</reb>
+<reb>すばしこい</reb>
+<gloss>quick</gloss>
+<gloss>nimble</gloss>
+<gloss>agile</gloss>
+<gloss>sharp</gloss>
+<gloss>shrewd</gloss>
+<gloss>smart</gloss>
+<gloss>quick-witted</gloss>
+</entry>
+<entry>
+<keb>す可き</keb>
+<reb>すべき</reb>
+<gloss>should do</gloss>
+<gloss>ought to do</gloss>
+</entry>
+<entry>
+<reb>スベタ</reb>
+<reb>すべた</reb>
+<gloss>bitch</gloss>
+<gloss>witch</gloss>
+<gloss>ugly woman</gloss>
+<gloss>dog</gloss>
+<gloss>1-point card</gloss>
+<gloss>junk card</gloss>
+</entry>
+<entry>
+<reb>すやすや</reb>
+<gloss>(sleeping) peacefully</gloss>
+<gloss>quietly</gloss>
+<gloss>soundly</gloss>
+</entry>
+<entry>
+<reb>スラスラ</reb>
+<reb>すらすら</reb>
+<gloss>smoothly</gloss>
+<gloss>easily</gloss>
+<gloss>readily</gloss>
+</entry>
+<entry>
+<reb>すらり</reb>
+<gloss>long, slender and well-proportioned</gloss>
+<gloss>smooth, continuous (movement)</gloss>
+</entry>
+<entry>
+<keb>するが良い</keb>
+<reb>するがいい</reb>
+<reb>するがよい</reb>
+<gloss>had better ...</gloss>
+<gloss>may as well ...</gloss>
+</entry>
+<entry>
+<reb>するする</reb>
+<gloss>smoothly</gloss>
+<gloss>swiftly</gloss>
+</entry>
+<entry>
+<reb>すると</reb>
+<gloss>(and) then</gloss>
+<gloss>and</gloss>
+<gloss>thereupon</gloss>
+<gloss>whereupon</gloss>
+<gloss>in that case</gloss>
+<gloss>then</gloss>
+<gloss>so</gloss>
+</entry>
+<entry>
+<reb>するよろし</reb>
+<reb>するよろしい</reb>
+<gloss>had better ...</gloss>
+<gloss>may as well ...</gloss>
+</entry>
+<entry>
+<reb>するり</reb>
+<gloss>with a smooth, unhindered motion</gloss>
+<gloss>speedily and without delay</gloss>
+</entry>
+<entry>
+<keb>擦れ擦れ</keb>
+<keb>摩れ摩れ</keb>
+<reb>すれすれ</reb>
+<reb>スレスレ</reb>
+<gloss>grazing</gloss>
+<gloss>skimming</gloss>
+<gloss>almost touching</gloss>
+<gloss>passing within inches</gloss>
+<gloss>being within a whisker</gloss>
+<gloss>shaving close</gloss>
+<gloss>barely</gloss>
+<gloss>just</gloss>
+<gloss>narrowly</gloss>
+<gloss>by a slim margin</gloss>
+</entry>
+<entry>
+<reb>すんなり</reb>
+<gloss>slim</gloss>
+<gloss>slender</gloss>
+<gloss>lithe</gloss>
+<gloss>supple</gloss>
+<gloss>smoothly</gloss>
+<gloss>without resistance</gloss>
+<gloss>without trouble</gloss>
+<gloss>without difficulty</gloss>
+<gloss>without dissent</gloss>
+<gloss>easily</gloss>
+<gloss>readily</gloss>
+</entry>
+<entry>
+<reb>ずかずか</reb>
+<reb>ズカズカ</reb>
+<gloss>rudely (barging in)</gloss>
+<gloss>straight</gloss>
+<gloss>directly</gloss>
+<gloss>without hesitation</gloss>
+<gloss>without permission</gloss>
+</entry>
+<entry>
+<reb>ズキズキ</reb>
+<reb>ずきずき</reb>
+<gloss>throbbingly (of pain)</gloss>
+</entry>
+<entry>
+<reb>ずけずけ</reb>
+<reb>つけつけ</reb>
+<reb>づけづけ</reb>
+<gloss>(speak) bluntly</gloss>
+<gloss>frankly</gloss>
+</entry>
+<entry>
+<reb>ずっしり</reb>
+<reb>ズッシリ</reb>
+<reb>ずしり</reb>
+<reb>ズシリ</reb>
+<gloss>heavily</gloss>
+<gloss>profoundly</gloss>
+</entry>
+<entry>
+<reb>ずっと</reb>
+<reb>ずーっと</reb>
+<reb>ずうっと</reb>
+<gloss>continuously</gloss>
+<gloss>the whole time</gloss>
+<gloss>all the way</gloss>
+<gloss>throughout</gloss>
+<gloss>much (more)</gloss>
+<gloss>(by) far</gloss>
+<gloss>far and away</gloss>
+<gloss>a lot</gloss>
+<gloss>a great deal</gloss>
+<gloss>far (away)</gloss>
+<gloss>long (ago, before, after)</gloss>
+<gloss>straight</gloss>
+<gloss>directly</gloss>
+</entry>
+<entry>
+<keb>ずばずば言う</keb>
+<reb>ずばずばいう</reb>
+<gloss>to speak one's mind</gloss>
+<gloss>to speak very frankly</gloss>
+</entry>
+<entry>
+<reb>ズバリ</reb>
+<reb>ずばり</reb>
+<gloss>decisively</gloss>
+<gloss>decidedly</gloss>
+<gloss>boldly</gloss>
+<gloss>once and for all</gloss>
+<gloss>unreservedly</gloss>
+<gloss>frankly</gloss>
+<gloss>precisely</gloss>
+<gloss>exactly</gloss>
+</entry>
+<entry>
+<keb>ずぶ濡れ</keb>
+<keb>ズブ濡れ</keb>
+<reb>ずぶぬれ</reb>
+<gloss>dripping wet</gloss>
+<gloss>soaked</gloss>
+<gloss>drenched</gloss>
+</entry>
+<entry>
+<reb>ずらす</reb>
+<gloss>to shift</gloss>
+<gloss>to move</gloss>
+<gloss>to slide</gloss>
+<gloss>to move (an appointment, meeting, etc.)</gloss>
+<gloss>to bring forward</gloss>
+<gloss>to put back</gloss>
+<gloss>to put off</gloss>
+<gloss>to delay</gloss>
+<gloss>to postpone</gloss>
+<gloss>to stagger (e.g. working hours)</gloss>
+</entry>
+<entry>
+<reb>ずらっと</reb>
+<reb>ズラッと</reb>
+<gloss>in a line</gloss>
+<gloss>in a row</gloss>
+</entry>
+<entry>
+<reb>ずるずる</reb>
+<reb>ズルズル</reb>
+<reb>づるづる</reb>
+<gloss>(dragging a large or heavy item) slowly</gloss>
+<gloss>(falling) little by little</gloss>
+<gloss>(slipping) gradually</gloss>
+<gloss>(drawing back) slowly</gloss>
+<gloss>with a slither</gloss>
+<gloss>on and on</gloss>
+<gloss>while putting off</gloss>
+<gloss>slovenly</gloss>
+<gloss>interminably</gloss>
+<gloss>with a slurp</gloss>
+<gloss>with a sniffle</gloss>
+<gloss>loose</gloss>
+<gloss>lax</gloss>
+<gloss>inconclusive</gloss>
+<gloss>unresolved</gloss>
+</entry>
+<entry>
+<reb>ずれ</reb>
+<reb>ズレ</reb>
+<gloss>gap</gloss>
+<gloss>lag</gloss>
+<gloss>slippage</gloss>
+<gloss>difference</gloss>
+<gloss>discrepancy</gloss>
+<gloss>shear (e.g. shear stress)</gloss>
+</entry>
+<entry>
+<reb>ずれる</reb>
+<reb>ズレる</reb>
+<reb>づれる</reb>
+<gloss>to slide</gloss>
+<gloss>to slip off</gloss>
+<gloss>to get dislocated</gloss>
+<gloss>to be out of alignment</gloss>
+<gloss>to get dislodged</gloss>
+<gloss>to deviate</gloss>
+<gloss>to shift (position)</gloss>
+<gloss>to be out of sync</gloss>
+<gloss>to be slightly off</gloss>
+<gloss>to be off-point</gloss>
+</entry>
+<entry>
+<reb>ずんずん</reb>
+<reb>ズンズン</reb>
+<gloss>rapidly</gloss>
+<gloss>quickly</gloss>
+<gloss>briskly</gloss>
+<gloss>steadily</gloss>
+<gloss>by leaps and bounds</gloss>
+<gloss>booming (e.g. of a drum)</gloss>
+</entry>
+<entry>
+<reb>せかせか</reb>
+<gloss>restlessly</gloss>
+<gloss>hurriedly</gloss>
+<gloss>agitatedly</gloss>
+<gloss>fidgeting</gloss>
+</entry>
+<entry>
+<reb>せがむ</reb>
+<gloss>to badger</gloss>
+<gloss>to pester</gloss>
+<gloss>to beg</gloss>
+</entry>
+<entry>
+<reb>せこい</reb>
+<reb>セコイ</reb>
+<reb>セコい</reb>
+<gloss>petty</gloss>
+<gloss>small-minded</gloss>
+<gloss>stingy</gloss>
+<gloss>cheap</gloss>
+<gloss>mean</gloss>
+<gloss>crafty</gloss>
+<gloss>sly</gloss>
+<gloss>poor (performance, etc.)</gloss>
+<gloss>bad</gloss>
+<gloss>unskilled</gloss>
+</entry>
+<entry>
+<keb>せざるを得ない</keb>
+<reb>せざるをえない</reb>
+<gloss>cannot avoid doing</gloss>
+<gloss>cannot help but (do)</gloss>
+<gloss>is compelled to do</gloss>
+<gloss>(feel) obliged to (do)</gloss>
+<gloss>has to do</gloss>
+</entry>
+<entry>
+<reb>せしめる</reb>
+<gloss>to cheat (someone out of)</gloss>
+<gloss>to swindle</gloss>
+<gloss>to wangle</gloss>
+<gloss>to wheedle</gloss>
+<gloss>to get</gloss>
+</entry>
+<entry>
+<reb>せず</reb>
+<gloss>without doing</gloss>
+</entry>
+<entry>
+<reb>せずに</reb>
+<gloss>without (doing)</gloss>
+<gloss>instead of</gloss>
+</entry>
+<entry>
+<reb>せっかち</reb>
+<gloss>hasty</gloss>
+<gloss>impatient</gloss>
+<gloss>restless</gloss>
+<gloss>rash</gloss>
+</entry>
+<entry>
+<reb>せびる</reb>
+<gloss>to demand money</gloss>
+<gloss>to pester</gloss>
+<gloss>to extort</gloss>
+</entry>
+<entry>
+<reb>せめて</reb>
+<gloss>at least</gloss>
+<gloss>at most</gloss>
+<gloss>(even) just</gloss>
+</entry>
+<entry>
+<keb>其奴</keb>
+<reb>そいつ</reb>
+<reb>そやつ</reb>
+<reb>すやつ</reb>
+<gloss>he</gloss>
+<gloss>she</gloss>
+<gloss>that person</gloss>
+<gloss>that guy</gloss>
+<gloss>that fellow</gloss>
+<gloss>that</gloss>
+<gloss>that one</gloss>
+<gloss>that thing</gloss>
+</entry>
+<entry>
+<reb>そう</reb>
+<gloss>appearing that</gloss>
+<gloss>seeming that</gloss>
+<gloss>looking like</gloss>
+<gloss>having the appearance of</gloss>
+</entry>
+<entry>
+<keb>そうかと言って</keb>
+<reb>そうかといって</reb>
+<gloss>but still</gloss>
+<gloss>however</gloss>
+<gloss>and yet</gloss>
+<gloss>nevertheless</gloss>
+<gloss>for all that</gloss>
+</entry>
+<entry>
+<reb>そうすると</reb>
+<gloss>having done that</gloss>
+<gloss>if that is done</gloss>
+<gloss>if it is done in that way</gloss>
+</entry>
+<entry>
+<keb>然う然う</keb>
+<reb>そうそう</reb>
+<gloss>so much</gloss>
+<gloss>so often</gloss>
+<gloss>so long</gloss>
+<gloss>so many</gloss>
+<gloss>particularly</gloss>
+<gloss>especially</gloss>
+<gloss>oh, yes!</gloss>
+<gloss>that's it</gloss>
+<gloss>I remember</gloss>
+<gloss>that's right</gloss>
+<gloss>quite</gloss>
+<gloss>indeed</gloss>
+</entry>
+<entry>
+<reb>そうだ</reb>
+<gloss>that is so</gloss>
+<gloss>that is right</gloss>
+<gloss>it looks to me</gloss>
+<gloss>that's my impression</gloss>
+<gloss>people say that</gloss>
+<gloss>it is said that</gloss>
+<gloss>I hear that</gloss>
+</entry>
+<entry>
+<keb>そうでない場合は</keb>
+<reb>そうでないばあいは</reb>
+<gloss>if this is not the case</gloss>
+</entry>
+<entry>
+<keb>其処</keb>
+<keb>其所</keb>
+<reb>そこ</reb>
+<gloss>there (place relatively near listener)</gloss>
+<gloss>there (place just mentioned)</gloss>
+<gloss>that place</gloss>
+<gloss>then (of some incident just spoken of)</gloss>
+<gloss>that (of point just raised)</gloss>
+<gloss>you</gloss>
+</entry>
+<entry>
+<keb>其処いら</keb>
+<reb>そこいら</reb>
+<gloss>around there</gloss>
+<gloss>that area</gloss>
+<gloss>that</gloss>
+<gloss>that matter</gloss>
+<gloss>that point</gloss>
+<gloss>about that much</gloss>
+<gloss>approximately that amount</gloss>
+<gloss>thereabouts</gloss>
+<gloss>(or) so</gloss>
+</entry>
+<entry>
+<reb>そこそこ</reb>
+<gloss>reasonably</gloss>
+<gloss>fairly</gloss>
+<gloss>all right</gloss>
+<gloss>moderate</gloss>
+<gloss>hurriedly</gloss>
+<gloss>in a rush</gloss>
+<gloss>having barely finished</gloss>
+<gloss>approximately</gloss>
+<gloss>about</gloss>
+<gloss>or so</gloss>
+</entry>
+<entry>
+<keb>其処まで</keb>
+<keb>そこ迄</keb>
+<keb>其処迄</keb>
+<reb>そこまで</reb>
+<gloss>that far</gloss>
+<gloss>so far</gloss>
+<gloss>to that extent</gloss>
+<gloss>stop!</gloss>
+<gloss>not one step further!</gloss>
+</entry>
+<entry>
+<keb>其処ら</keb>
+<reb>そこら</reb>
+<gloss>around there</gloss>
+<gloss>that area</gloss>
+<gloss>that</gloss>
+<gloss>that matter</gloss>
+<gloss>that point</gloss>
+<gloss>about that much</gloss>
+<gloss>approximately that amount</gloss>
+<gloss>thereabouts</gloss>
+<gloss>(or) so</gloss>
+</entry>
+<entry>
+<keb>而して</keb>
+<keb>然して</keb>
+<reb>そして</reb>
+<reb>しかして</reb>
+<gloss>and</gloss>
+<gloss>and then</gloss>
+<gloss>thus</gloss>
+<gloss>and now</gloss>
+<gloss>and finally</gloss>
+</entry>
+<entry>
+<reb>そそっかしい</reb>
+<gloss>careless</gloss>
+<gloss>thoughtless</gloss>
+<gloss>hasty</gloss>
+<gloss>rash</gloss>
+</entry>
+<entry>
+<keb>唆る</keb>
+<reb>そそる</reb>
+<gloss>to excite</gloss>
+<gloss>to incite</gloss>
+<gloss>to stimulate</gloss>
+<gloss>to arouse</gloss>
+<gloss>to tempt</gloss>
+<gloss>to stir up</gloss>
+</entry>
+<entry>
+<keb>漫ろに</keb>
+<reb>そぞろに</reb>
+<gloss>in spite of oneself</gloss>
+<gloss>somehow</gloss>
+<gloss>without knowing why</gloss>
+<gloss>vaguely</gloss>
+</entry>
+<entry>
+<keb>そぞろ歩き</keb>
+<keb>漫ろ歩き</keb>
+<reb>そぞろあるき</reb>
+<gloss>slow, relaxed walk</gloss>
+<gloss>stroll</gloss>
+</entry>
+<entry>
+<keb>其方</keb>
+<reb>そちら</reb>
+<reb>そっち</reb>
+<reb>そなた</reb>
+<reb>そち</reb>
+<gloss>that way</gloss>
+<gloss>that direction</gloss>
+<gloss>there</gloss>
+<gloss>that (one)</gloss>
+<gloss>you</gloss>
+<gloss>your family</gloss>
+<gloss>your company</gloss>
+<gloss>that person</gloss>
+</entry>
+<entry>
+<reb>そっくり</reb>
+<gloss>all</gloss>
+<gloss>altogether</gloss>
+<gloss>entirely</gloss>
+<gloss>completely</gloss>
+<gloss>exactly alike (e.g. in appearance)</gloss>
+<gloss>spitting image of</gloss>
+<gloss>identical</gloss>
+<gloss>strikingly similar</gloss>
+</entry>
+<entry>
+<reb>そっと</reb>
+<reb>そうっと</reb>
+<reb>そおっと</reb>
+<reb>そーっと</reb>
+<gloss>softly</gloss>
+<gloss>gently</gloss>
+<gloss>quietly</gloss>
+<gloss>lightly</gloss>
+<gloss>stealthily</gloss>
+<gloss>secretly</gloss>
+<gloss>in secret</gloss>
+<gloss>to leave alone</gloss>
+<gloss>to leave as it is</gloss>
+</entry>
+<entry>
+<keb>其の</keb>
+<reb>その</reb>
+<reb>そん</reb>
+<gloss>that</gloss>
+<gloss>the</gloss>
+<gloss>part (as in "part two")</gloss>
+<gloss>um ...</gloss>
+<gloss>er ...</gloss>
+<gloss>uh ...</gloss>
+</entry>
+<entry>
+<keb>その上で</keb>
+<keb>其の上で</keb>
+<reb>そのうえで</reb>
+<gloss>moreover</gloss>
+<gloss>in addition</gloss>
+</entry>
+<entry>
+<keb>その為</keb>
+<keb>其の為</keb>
+<keb>其のため</keb>
+<reb>そのため</reb>
+<gloss>hence</gloss>
+<gloss>for that reason</gloss>
+</entry>
+<entry>
+<keb>その後</keb>
+<keb>其の後</keb>
+<keb>其後</keb>
+<reb>そのあと</reb>
+<reb>そのご</reb>
+<reb>そののち</reb>
+<gloss>after that</gloss>
+<gloss>afterwards</gloss>
+<gloss>thereafter</gloss>
+</entry>
+<entry>
+<keb>その実</keb>
+<keb>其の実</keb>
+<reb>そのじつ</reb>
+<gloss>in fact</gloss>
+</entry>
+<entry>
+<keb>その上</keb>
+<keb>其の上</keb>
+<reb>そのうえ</reb>
+<gloss>in addition</gloss>
+<gloss>furthermore</gloss>
+<gloss>above (which)</gloss>
+<gloss>on top of (which)</gloss>
+</entry>
+<entry>
+<keb>その場合には</keb>
+<reb>そのばあいには</reb>
+<gloss>in that case</gloss>
+</entry>
+<entry>
+<keb>その他</keb>
+<keb>その外</keb>
+<keb>其の他</keb>
+<keb>其の外</keb>
+<keb>其他</keb>
+<reb>そのほか</reb>
+<reb>そのた</reb>
+<gloss>the rest</gloss>
+<gloss>the others</gloss>
+<gloss>in addition (to that)</gloss>
+<gloss>besides that</gloss>
+<gloss>other than that</gloss>
+<gloss>and other ...</gloss>
+<gloss>and so forth</gloss>
+<gloss>and the like</gloss>
+<gloss>and what have you</gloss>
+<gloss>et cetera</gloss>
+</entry>
+<entry>
+<keb>その都度</keb>
+<reb>そのつど</reb>
+<gloss>each time it happens</gloss>
+<gloss>at all such times</gloss>
+</entry>
+<entry>
+<keb>その内</keb>
+<keb>其の内</keb>
+<keb>其内</keb>
+<reb>そのうち</reb>
+<gloss>before very long</gloss>
+<gloss>soon</gloss>
+<gloss>someday</gloss>
+<gloss>one of these days</gloss>
+<gloss>sooner or later</gloss>
+<gloss>of the previously mentioned</gloss>
+<gloss>of that number</gloss>
+<gloss>among them</gloss>
+<gloss>among others</gloss>
+</entry>
+<entry>
+<keb>その反面</keb>
+<keb>其の反面</keb>
+<reb>そのはんめん</reb>
+<gloss>on the other hand</gloss>
+</entry>
+<entry>
+<keb>抑</keb>
+<keb>抑々</keb>
+<keb>抑抑</keb>
+<keb>抑も</keb>
+<reb>そもそも</reb>
+<gloss>in the first place</gloss>
+<gloss>to begin with</gloss>
+<gloss>from the start</gloss>
+<gloss>originally</gloss>
+<gloss>ab initio</gloss>
+<gloss>after all</gloss>
+<gloss>anyway</gloss>
+<gloss>actually</gloss>
+<gloss>well, ...</gloss>
+<gloss>... on earth (e.g. "what on earth?")</gloss>
+<gloss>... in the world (e.g. "why in the world?")</gloss>
+<gloss>beginning</gloss>
+<gloss>start</gloss>
+</entry>
+<entry>
+<keb>そよ風</keb>
+<keb>微風</keb>
+<reb>そよかぜ</reb>
+<reb>びふう</reb>
+<gloss>gentle breeze</gloss>
+<gloss>soft wind</gloss>
+<gloss>breath of air</gloss>
+<gloss>zephyr</gloss>
+</entry>
+<entry>
+<keb>其れ</keb>
+<keb>其</keb>
+<reb>それ</reb>
+<gloss>that</gloss>
+<gloss>it</gloss>
+<gloss>then</gloss>
+<gloss>that point (in time)</gloss>
+<gloss>that time</gloss>
+<gloss>there</gloss>
+<gloss>you</gloss>
+</entry>
+<entry>
+<keb>其れから</keb>
+<reb>それから</reb>
+<gloss>and then</gloss>
+<gloss>after that</gloss>
+</entry>
+<entry>
+<keb>其れ丈</keb>
+<keb>其れだけ</keb>
+<reb>それだけ</reb>
+<gloss>that much</gloss>
+<gloss>as much</gloss>
+<gloss>to that extent</gloss>
+<gloss>only that</gloss>
+<gloss>that alone</gloss>
+<gloss>no more than that</gloss>
+<gloss>that is all (when finished speaking)</gloss>
+</entry>
+<entry>
+<keb>其れで</keb>
+<reb>それで</reb>
+<gloss>so</gloss>
+<gloss>therefore</gloss>
+<gloss>and</gloss>
+<gloss>(and) then</gloss>
+</entry>
+<entry>
+<keb>其れとも</keb>
+<reb>それとも</reb>
+<gloss>or</gloss>
+<gloss>or else</gloss>
+</entry>
+<entry>
+<keb>それ処か</keb>
+<keb>其れ処か</keb>
+<reb>それどころか</reb>
+<gloss>on the contrary</gloss>
+<gloss>far from it</gloss>
+<gloss>if anything</gloss>
+<gloss>in fact</gloss>
+<gloss>instead</gloss>
+</entry>
+<entry>
+<keb>其れなり</keb>
+<reb>それなり</reb>
+<gloss>in itself</gloss>
+<gloss>as it is</gloss>
+<gloss>in its own way</gloss>
+<gloss>as suits the occasion</gloss>
+<gloss>within its capacity</gloss>
+<gloss>within limitations</gloss>
+</entry>
+<entry>
+<keb>其れに</keb>
+<reb>それに</reb>
+<gloss>besides</gloss>
+<gloss>in addition</gloss>
+<gloss>also</gloss>
+<gloss>moreover</gloss>
+</entry>
+<entry>
+<keb>それに加えて</keb>
+<reb>それにくわえて</reb>
+<gloss>in addition to this</gloss>
+</entry>
+<entry>
+<keb>それ程</keb>
+<keb>其れ程</keb>
+<keb>其程</keb>
+<reb>それほど</reb>
+<gloss>to that degree</gloss>
+<gloss>to that extent</gloss>
+<gloss>that much</gloss>
+</entry>
+<entry>
+<keb>それ等</keb>
+<keb>其れ等</keb>
+<keb>其等</keb>
+<reb>それら</reb>
+<gloss>those</gloss>
+<gloss>they</gloss>
+</entry>
+<entry>
+<keb>それ以上</keb>
+<reb>それいじょう</reb>
+<gloss>further</gloss>
+<gloss>above (that)</gloss>
+<gloss>greater (than that)</gloss>
+<gloss>any more</gloss>
+</entry>
+<entry>
+<keb>それ以来</keb>
+<reb>それいらい</reb>
+<gloss>since then</gloss>
+<gloss>from that time</gloss>
+<gloss>ever since</gloss>
+</entry>
+<entry>
+<keb>それ故に</keb>
+<keb>其れ故に</keb>
+<reb>それゆえに</reb>
+<gloss>and so</gloss>
+<gloss>therefore</gloss>
+<gloss>for that reason</gloss>
+</entry>
+<entry>
+<reb>そわそわ</reb>
+<reb>ソワソワ</reb>
+<gloss>restlessly</gloss>
+<gloss>nervously</gloss>
+<gloss>uneasily</gloss>
+<gloss>in a fidget</gloss>
+</entry>
+<entry>
+<reb>そんな</reb>
+<gloss>such</gloss>
+<gloss>that sort of</gloss>
+<gloss>that kind of</gloss>
+<gloss>like that</gloss>
+<gloss>no way!</gloss>
+<gloss>never!</gloss>
+</entry>
+<entry>
+<reb>ぞくぞく</reb>
+<reb>ゾクゾク</reb>
+<gloss>shivering</gloss>
+<gloss>feeling chilly</gloss>
+<gloss>shuddering (with fear)</gloss>
+<gloss>feeling creepy</gloss>
+<gloss>thrilled</gloss>
+<gloss>excited</gloss>
+</entry>
+<entry>
+<reb>ぞっと</reb>
+<reb>ゾッと</reb>
+<gloss>shuddering</gloss>
+<gloss>shivering</gloss>
+<gloss>trembling</gloss>
+<gloss>being horrified</gloss>
+<gloss>being disgusted</gloss>
+</entry>
+<entry>
+<reb>ぞろぞろ</reb>
+<reb>ゾロゾロ</reb>
+<gloss>in a crowd</gloss>
+<gloss>in droves</gloss>
+<gloss>in a stream</gloss>
+<gloss>in succession</gloss>
+<gloss>crawling (of insects)</gloss>
+<gloss>swarming</gloss>
+<gloss>dragging (e.g. along the ground)</gloss>
+<gloss>trailing</gloss>
+<gloss>stretching out</gloss>
+</entry>
+<entry>
+<reb>ぞんざい</reb>
+<gloss>rough</gloss>
+<gloss>careless</gloss>
+<gloss>slovenly</gloss>
+<gloss>slipshod</gloss>
+<gloss>rude</gloss>
+<gloss>impolite</gloss>
+</entry>
+<entry>
+<keb>高が</keb>
+<reb>たかが</reb>
+<gloss>only</gloss>
+<gloss>merely</gloss>
+<gloss>just</gloss>
+<gloss>at most</gloss>
+<gloss>no more than</gloss>
+</entry>
+<entry>
+<keb>集り</keb>
+<reb>たかり</reb>
+<gloss>extortion</gloss>
+<gloss>blackmail</gloss>
+<gloss>shakedown</gloss>
+<gloss>extortionist</gloss>
+<gloss>blackmailer</gloss>
+<gloss>racketeer</gloss>
+</entry>
+<entry>
+<keb>たくし上げる</keb>
+<reb>たくしあげる</reb>
+<gloss>to roll up or pull up (sleeves, skirt, etc.)</gloss>
+</entry>
+<entry>
+<reb>たじたじ</reb>
+<reb>タジタジ</reb>
+<gloss>flinchingly</gloss>
+<gloss>falteringly</gloss>
+<gloss>being overwhelmed</gloss>
+<gloss>staggeringly</gloss>
+<gloss>totteringly</gloss>
+<gloss>unsteadily</gloss>
+</entry>
+<entry>
+<reb>たじろぐ</reb>
+<gloss>to shrink back</gloss>
+<gloss>to wince</gloss>
+<gloss>to flinch</gloss>
+<gloss>to recoil</gloss>
+</entry>
+<entry>
+<reb>たった</reb>
+<gloss>only</gloss>
+<gloss>merely</gloss>
+<gloss>but</gloss>
+<gloss>no more than</gloss>
+</entry>
+<entry>
+<reb>たっぷり</reb>
+<gloss>plentifully</gloss>
+<gloss>amply</gloss>
+<gloss>abundantly</gloss>
+<gloss>copiously</gloss>
+<gloss>generously</gloss>
+<gloss>fully</gloss>
+<gloss>a lot</gloss>
+<gloss>loosely</gloss>
+<gloss>with room to spare</gloss>
+<gloss>with enough space</gloss>
+<gloss>(large) enough</gloss>
+<gloss>a good (e.g. two weeks, ten kilometres)</gloss>
+<gloss>a full</gloss>
+<gloss>at least</gloss>
+<gloss>no less than</gloss>
+</entry>
+<entry>
+<keb>辿々しい</keb>
+<keb>辿辿しい</keb>
+<reb>たどたどしい</reb>
+<gloss>faltering</gloss>
+<gloss>tottering</gloss>
+<gloss>halting</gloss>
+<gloss>unsteady</gloss>
+<gloss>awkward</gloss>
+<gloss>clumsy</gloss>
+</entry>
+<entry>
+<keb>鱮</keb>
+<keb>鰱</keb>
+<reb>タナゴ</reb>
+<reb>たなご</reb>
+<gloss>bitterling (any fish of subfamily Acheilognathinae, esp. species Acheilognathus melanogaster)</gloss>
+</entry>
+<entry>
+<keb>度に</keb>
+<reb>たびに</reb>
+<reb>たんびに</reb>
+<gloss>each time</gloss>
+<gloss>every time</gloss>
+<gloss>whenever (something happens)</gloss>
+<gloss>on the occasion of</gloss>
+</entry>
+<entry>
+<reb>たらたら</reb>
+<reb>タラタラ</reb>
+<gloss>drop-by-drop</gloss>
+<gloss>dripping</gloss>
+<gloss>dribbling</gloss>
+<gloss>in a trickle</gloss>
+<gloss>incessantly (esp. speaking, e.g. complaints, compliments)</gloss>
+<gloss>in great profusion</gloss>
+<gloss>sluggishly</gloss>
+<gloss>dawdling</gloss>
+</entry>
+<entry>
+<reb>たらん</reb>
+<gloss>try to be</gloss>
+<gloss>want to be</gloss>
+</entry>
+<entry>
+<keb>たん瘤</keb>
+<reb>たんこぶ</reb>
+<reb>タンコブ</reb>
+<gloss>bump (e.g. on forehead)</gloss>
+<gloss>lump</gloss>
+<gloss>protuberance</gloss>
+<gloss>swelling</gloss>
+</entry>
+<entry>
+<reb>だから</reb>
+<gloss>so</gloss>
+<gloss>therefore</gloss>
+<gloss>accordingly</gloss>
+<gloss>consequently</gloss>
+<gloss>on those grounds</gloss>
+<gloss>that is why</gloss>
+<gloss>for that reason</gloss>
+<gloss>like I said</gloss>
+<gloss>I told you already</gloss>
+</entry>
+<entry>
+<reb>だからって</reb>
+<gloss>even so</gloss>
+<gloss>all the same</gloss>
+<gloss>nevertheless</gloss>
+<gloss>yes, but ...</gloss>
+</entry>
+<entry>
+<keb>だからと言って</keb>
+<reb>だからといって</reb>
+<gloss>while it may be true that</gloss>
+<gloss>just because</gloss>
+<gloss>nevertheless</gloss>
+<gloss>not necessarily</gloss>
+</entry>
+<entry>
+<keb>丈</keb>
+<reb>だけ</reb>
+<gloss>only</gloss>
+<gloss>just</gloss>
+<gloss>merely</gloss>
+<gloss>simply</gloss>
+<gloss>no more than</gloss>
+<gloss>nothing but</gloss>
+<gloss>alone</gloss>
+<gloss>as much as</gloss>
+<gloss>to the extent of</gloss>
+<gloss>enough to</gloss>
+</entry>
+<entry>
+<reb>だけあって</reb>
+<gloss>as one would expect from ...</gloss>
+<gloss>given that ... (naturally ...)</gloss>
+<gloss>because ...</gloss>
+<gloss>being ...</gloss>
+<gloss>for good reason</gloss>
+<gloss>there is a (good) reason that ...</gloss>
+</entry>
+<entry>
+<reb>だけでなく</reb>
+<gloss>not only ... (but also)</gloss>
+<gloss>not just</gloss>
+<gloss>as well as</gloss>
+</entry>
+<entry>
+<reb>だけど</reb>
+<gloss>however</gloss>
+</entry>
+<entry>
+<keb>丈に</keb>
+<reb>だけに</reb>
+<gloss>as one would expect from ...</gloss>
+<gloss>given that ... (naturally ...)</gloss>
+<gloss>because ...</gloss>
+<gloss>being ...</gloss>
+<gloss>precisely because ...</gloss>
+<gloss>all the more because of ...</gloss>
+<gloss>on account of ...</gloss>
+<gloss>... being what it is</gloss>
+<gloss>only to</gloss>
+<gloss>only for</gloss>
+<gloss>only in</gloss>
+</entry>
+<entry>
+<reb>ダサい</reb>
+<reb>ださい</reb>
+<gloss>uncool</gloss>
+<gloss>lame</gloss>
+<gloss>unfashionable</gloss>
+<gloss>unstylish</gloss>
+<gloss>tacky</gloss>
+<gloss>tasteless</gloss>
+<gloss>ugly</gloss>
+<gloss>corny</gloss>
+<gloss>pathetic (behaviour)</gloss>
+<gloss>sad</gloss>
+</entry>
+<entry>
+<reb>だったら</reb>
+<gloss>if it's the case</gloss>
+</entry>
+<entry>
+<reb>だぶだぶ</reb>
+<reb>ダブダブ</reb>
+<gloss>loose (of clothing)</gloss>
+<gloss>baggy</gloss>
+<gloss>flabby</gloss>
+<gloss>saggy</gloss>
+<gloss>sloshing</gloss>
+<gloss>slopping</gloss>
+<gloss>overflowing</gloss>
+<gloss>plenty (of pouring a liquid)</gloss>
+<gloss>drowning (e.g. in a sauce)</gloss>
+</entry>
+<entry>
+<keb>だぼ鯊</keb>
+<reb>だぼはぜ</reb>
+<reb>ダボハゼ</reb>
+<gloss>goby (fish)</gloss>
+</entry>
+<entry>
+<keb>だまし取る</keb>
+<keb>騙し取る</keb>
+<keb>騙しとる</keb>
+<reb>だましとる</reb>
+<gloss>to take by deception</gloss>
+<gloss>to defraud someone of</gloss>
+<gloss>to swindle someone out of</gloss>
+<gloss>to cheat someone out of</gloss>
+</entry>
+<entry>
+<keb>駄目になる</keb>
+<reb>だめになる</reb>
+<gloss>to spoil</gloss>
+<gloss>to break</gloss>
+<gloss>to go bad</gloss>
+<gloss>to go wrong</gloss>
+<gloss>to fail</gloss>
+</entry>
+<entry>
+<reb>だもの</reb>
+<gloss>indicate reason</gloss>
+<gloss>infers some protest</gloss>
+</entry>
+<entry>
+<reb>だらけ</reb>
+<gloss>full of (e.g. mistakes)</gloss>
+<gloss>riddled with</gloss>
+<gloss>covered all over with (blood, mud, etc.)</gloss>
+</entry>
+<entry>
+<reb>だらける</reb>
+<gloss>to be lazy</gloss>
+<gloss>to be slack</gloss>
+<gloss>to feel dull</gloss>
+<gloss>to feel languid</gloss>
+<gloss>to feel listless</gloss>
+</entry>
+<entry>
+<keb>だらし無い</keb>
+<reb>だらしない</reb>
+<gloss>slovenly (appearance, work, etc.)</gloss>
+<gloss>sloppy</gloss>
+<gloss>untidy</gloss>
+<gloss>undisciplined</gloss>
+<gloss>careless</gloss>
+<gloss>loose</gloss>
+<gloss>slack</gloss>
+<gloss>weak</gloss>
+<gloss>feeble</gloss>
+<gloss>weak-willed</gloss>
+<gloss>cowardly</gloss>
+<gloss>gutless</gloss>
+</entry>
+<entry>
+<reb>だらだら</reb>
+<reb>ダラダラ</reb>
+<gloss>in drops</gloss>
+<gloss>dripping</gloss>
+<gloss>trickling</gloss>
+<gloss>streaming</gloss>
+<gloss>flowing</gloss>
+<gloss>gently (sloping)</gloss>
+<gloss>sluggishly</gloss>
+<gloss>endlessly</gloss>
+<gloss>lengthily</gloss>
+<gloss>leisurely</gloss>
+<gloss>idly</gloss>
+<gloss>slowly</gloss>
+<gloss>slovenly</gloss>
+</entry>
+<entry>
+<keb>怠い</keb>
+<keb>懈い</keb>
+<reb>だるい</reb>
+<reb>ダルい</reb>
+<reb>たるい</reb>
+<gloss>sluggish</gloss>
+<gloss>languid</gloss>
+<gloss>listless</gloss>
+<gloss>heavy (heart, legs, etc.)</gloss>
+<gloss>dull</gloss>
+<gloss>bothersome</gloss>
+<gloss>tiresome</gloss>
+<gloss>pain-in-the-ass</gloss>
+</entry>
+<entry>
+<keb>乳切り木</keb>
+<reb>ちぎりき</reb>
+<reb>ちぎりぎ</reb>
+<gloss>weight-chain-pole weapon</gloss>
+<gloss>flail</gloss>
+</entry>
+<entry>
+<reb>ちぐはぐ</reb>
+<gloss>mismatched</gloss>
+<gloss>odd</gloss>
+<gloss>irregular</gloss>
+<gloss>inconsistent</gloss>
+<gloss>incoherent</gloss>
+<gloss>confused</gloss>
+</entry>
+<entry>
+<keb>些と</keb>
+<keb>少と</keb>
+<reb>ちっと</reb>
+<reb>ちと</reb>
+<gloss>a little bit</gloss>
+<gloss>a little while</gloss>
+</entry>
+<entry>
+<keb>些とも</keb>
+<reb>ちっとも</reb>
+<gloss>(not) at all</gloss>
+<gloss>(not) a bit</gloss>
+<gloss>(not) in the least</gloss>
+<gloss>(not) in the slightest</gloss>
+</entry>
+<entry>
+<keb>小っぽけ</keb>
+<reb>ちっぽけ</reb>
+<gloss>very small</gloss>
+<gloss>tiny</gloss>
+<gloss>insignificant</gloss>
+</entry>
+<entry>
+<reb>ちびちび</reb>
+<reb>ちびりちびり</reb>
+<gloss>little by little</gloss>
+<gloss>bit by bit</gloss>
+<gloss>sparingly</gloss>
+</entry>
+<entry>
+<reb>ちゃきちゃき</reb>
+<reb>チャキチャキ</reb>
+<gloss>trueborn</gloss>
+<gloss>genuine</gloss>
+<gloss>pure</gloss>
+<gloss>full-blooded</gloss>
+<gloss>thoroughbred</gloss>
+<gloss>out-and-out</gloss>
+<gloss>capable</gloss>
+<gloss>first-class</gloss>
+<gloss>promising</gloss>
+<gloss>briskly</gloss>
+<gloss>smartly</gloss>
+</entry>
+<entry>
+<reb>ちゃっかり</reb>
+<reb>チャッカリ</reb>
+<gloss>shrewdly</gloss>
+<gloss>smartly</gloss>
+<gloss>calculatingly</gloss>
+<gloss>astutely</gloss>
+<gloss>cunningly</gloss>
+</entry>
+<entry>
+<reb>ちやほや</reb>
+<reb>チヤホヤ</reb>
+<gloss>to make a fuss over</gloss>
+<gloss>to pamper</gloss>
+<gloss>to spoil</gloss>
+<gloss>to indulge</gloss>
+<gloss>to flatter (with attention)</gloss>
+</entry>
+<entry>
+<reb>チャラ</reb>
+<reb>ちゃら</reb>
+<gloss>cancelling (a debt)</gloss>
+<gloss>forgiving (a debt)</gloss>
+<gloss>being even</gloss>
+<gloss>forgetting (what was said or done)</gloss>
+<gloss>pretending (something never happened)</gloss>
+</entry>
+<entry>
+<reb>チャリ</reb>
+<reb>ちゃり</reb>
+<gloss>bicycle</gloss>
+</entry>
+<entry>
+<reb>チャリンコ</reb>
+<reb>ちゃりんこ</reb>
+<gloss>bicycle</gloss>
+<gloss>child pickpocket</gloss>
+</entry>
+<entry>
+<reb>ちゃん</reb>
+<gloss>suffix for familiar person</gloss>
+</entry>
+<entry>
+<keb>ちゃんこ鍋</keb>
+<reb>ちゃんこなべ</reb>
+<gloss>chankonabe</gloss>
+</entry>
+<entry>
+<keb>ちゃんこ料理</keb>
+<reb>ちゃんこりょうり</reb>
+<gloss>fish, meat, and vegetable stew traditionally served to wrestlers</gloss>
+</entry>
+<entry>
+<reb>ちゃんちゃん</reb>
+<gloss>regularly</gloss>
+<gloss>promptly</gloss>
+<gloss>sound of clashing swords</gloss>
+<gloss>Manchu queue</gloss>
+<gloss>padded sleeveless kimono jacket</gloss>
+<gloss>Japanese vest (often for children)</gloss>
+</entry>
+<entry>
+<reb>ちゃんちゃんこ</reb>
+<gloss>padded sleeveless kimono jacket</gloss>
+<gloss>Japanese vest</gloss>
+</entry>
+<entry>
+<reb>ちゃんと</reb>
+<gloss>diligently</gloss>
+<gloss>seriously</gloss>
+<gloss>earnestly</gloss>
+<gloss>reliably</gloss>
+<gloss>steadily</gloss>
+<gloss>legitimately</gloss>
+<gloss>perfectly</gloss>
+<gloss>properly</gloss>
+<gloss>exactly</gloss>
+<gloss>orderly</gloss>
+<gloss>punctually</gloss>
+<gloss>regularly</gloss>
+<gloss>safely</gloss>
+<gloss>in good condition</gloss>
+<gloss>sufficiently</gloss>
+<gloss>satisfactorily</gloss>
+<gloss>quickly</gloss>
+</entry>
+<entry>
+<reb>チャンバラ</reb>
+<reb>ちゃんばら</reb>
+<gloss>sword fight</gloss>
+<gloss>sword play</gloss>
+</entry>
+<entry>
+<keb>チャンバラ映画</keb>
+<keb>ちゃんばら映画</keb>
+<reb>ちゃんばらえいが</reb>
+<gloss>samurai movie (with a lot of sword fights)</gloss>
+</entry>
+<entry>
+<reb>ちゅう</reb>
+<reb>チュー</reb>
+<reb>ちゅー</reb>
+<gloss>kiss</gloss>
+<gloss>squeak (of a mouse)</gloss>
+<gloss>with a slurp</gloss>
+</entry>
+<entry>
+<reb>ちょいちょい</reb>
+<gloss>often</gloss>
+<gloss>frequently</gloss>
+<gloss>now and then</gloss>
+<gloss>occasionally</gloss>
+<gloss>lightly (of a movement)</gloss>
+<gloss>easily</gloss>
+<gloss>simply</gloss>
+<gloss>effortlessly</gloss>
+</entry>
+<entry>
+<reb>ちょくちょく</reb>
+<gloss>often</gloss>
+<gloss>frequently</gloss>
+<gloss>now and then</gloss>
+<gloss>occasionally</gloss>
+</entry>
+<entry>
+<reb>ちょこちょこ</reb>
+<reb>チョコチョコ</reb>
+<gloss>toddling</gloss>
+<gloss>with small, quick steps</gloss>
+<gloss>restlessly</gloss>
+<gloss>in continuous motion</gloss>
+<gloss>quickly and easily</gloss>
+<gloss>often</gloss>
+<gloss>frequently</gloss>
+<gloss>now and then</gloss>
+<gloss>occasionally</gloss>
+</entry>
+<entry>
+<reb>ちょっかい</reb>
+<gloss>meddling</gloss>
+<gloss>interference</gloss>
+<gloss>making a pass at someone</gloss>
+<gloss>extending a paw to drag something closer</gloss>
+<gloss>hand</gloss>
+<gloss>arm</gloss>
+<gloss>wrist</gloss>
+<gloss>disfigured arm</gloss>
+<gloss>disfigured hand</gloss>
+</entry>
+<entry>
+<reb>ちょっくら</reb>
+<gloss>a little</gloss>
+<gloss>for a moment</gloss>
+<gloss>a short while</gloss>
+<gloss>just a minute</gloss>
+</entry>
+<entry>
+<keb>ちょっと一杯</keb>
+<reb>ちょっといっぱい</reb>
+<gloss>let's have a quick drink</gloss>
+</entry>
+<entry>
+<reb>ちょっぴり</reb>
+<reb>ちょぴり</reb>
+<gloss>a tiny bit</gloss>
+<gloss>just a smidgin</gloss>
+<gloss>a wee bit</gloss>
+<gloss>very slightly</gloss>
+</entry>
+<entry>
+<keb>ちょび髭</keb>
+<keb>チョビ髭</keb>
+<reb>ちょびひげ</reb>
+<gloss>small mustache</gloss>
+<gloss>short mustache</gloss>
+</entry>
+<entry>
+<keb>点</keb>
+<reb>ちょぼ</reb>
+<reb>チョボ</reb>
+<gloss>dot</gloss>
+<gloss>point</gloss>
+<gloss>mark</gloss>
+<gloss>gidayū musicians</gloss>
+</entry>
+<entry>
+<keb>点々</keb>
+<keb>点点</keb>
+<reb>ちょぼちょぼ</reb>
+<reb>チョボチョボ</reb>
+<gloss>sparsely</gloss>
+<gloss>drop-by-drop</gloss>
+<gloss>on par with</gloss>
+<gloss>as good as</gloss>
+<gloss>(vertical) iteration mark used to represent repetition of the previous kanji (to be read using its kun'yomi)</gloss>
+</entry>
+<entry>
+<reb>ちょろい</reb>
+<reb>チョロい</reb>
+<reb>チョロイ</reb>
+<gloss>easy</gloss>
+<gloss>simple</gloss>
+<gloss>simple (way of thinking, etc.)</gloss>
+<gloss>simple-minded</gloss>
+<gloss>obvious (trick)</gloss>
+<gloss>soft</gloss>
+<gloss>lax</gloss>
+<gloss>slack</gloss>
+</entry>
+<entry>
+<reb>ちょろちょろ</reb>
+<reb>チョロチョロ</reb>
+<gloss>trickling (of water)</gloss>
+<gloss>flickering (of fire)</gloss>
+<gloss>darting about (e.g. a small animal)</gloss>
+<gloss>scampering about</gloss>
+<gloss>moving rapidly</gloss>
+</entry>
+<entry>
+<keb>丁髷</keb>
+<reb>ちょんまげ</reb>
+<gloss>chonmage</gloss>
+<gloss>please do (for me)</gloss>
+</entry>
+<entry>
+<reb>ちらちら</reb>
+<reb>チラチラ</reb>
+<reb>チラッチラッ</reb>
+<gloss>falling lightly (e.g. snow, petals, confetti)</gloss>
+<gloss>fluttering</gloss>
+<gloss>flickering</gloss>
+<gloss>twinkling</gloss>
+<gloss>glimmering</gloss>
+<gloss>sparkling</gloss>
+<gloss>dazzling</gloss>
+<gloss>appearing and disappearing</gloss>
+<gloss>catching glimpses</gloss>
+<gloss>glancing (repeatedly)</gloss>
+<gloss>(hear, see) from time to time</gloss>
+<gloss>intermittently</gloss>
+</entry>
+<entry>
+<reb>ちらっと</reb>
+<reb>チラッと</reb>
+<reb>チラっと</reb>
+<reb>ちらと</reb>
+<reb>チラと</reb>
+<gloss>at a glance</gloss>
+<gloss>by accident</gloss>
+</entry>
+<entry>
+<reb>ちんこ</reb>
+<reb>チンコ</reb>
+<gloss>penis</gloss>
+<gloss>practice</gloss>
+</entry>
+<entry>
+<reb>ちんちん</reb>
+<reb>チンチン</reb>
+<gloss>penis</gloss>
+<gloss>with a tinkle</gloss>
+<gloss>with a jingle</gloss>
+<gloss>with a whistle (of a kettle)</gloss>
+<gloss>sitting up and begging (of a dog)</gloss>
+<gloss>juvenile black porgy</gloss>
+<gloss>children's game in which one hops on one foot</gloss>
+<gloss>very hot (e.g. of tea)</gloss>
+<gloss>flirting</gloss>
+<gloss>fondling</gloss>
+<gloss>jealousy</gloss>
+</entry>
+<entry>
+<keb>ちんちん鳴る</keb>
+<reb>ちんちんなる</reb>
+<gloss>to jingle</gloss>
+<gloss>to tinkle</gloss>
+<gloss>to whistle (kettle)</gloss>
+</entry>
+<entry>
+<keb>チンドン屋</keb>
+<keb>ちんどん屋</keb>
+<reb>ちんどんや</reb>
+<gloss>eccentrically dressed band of sandwich board advertisers</gloss>
+</entry>
+<entry>
+<reb>チンピラ</reb>
+<reb>ちんぴら</reb>
+<gloss>(young) hoodlum</gloss>
+<gloss>delinquent boy</gloss>
+<gloss>delinquent girl</gloss>
+<gloss>hooligan</gloss>
+<gloss>punk</gloss>
+<gloss>small-time yakuza</gloss>
+<gloss>brat</gloss>
+<gloss>little shit</gloss>
+</entry>
+<entry>
+<reb>チンポ</reb>
+<reb>チンボ</reb>
+<reb>ちんぽ</reb>
+<reb>ちんぼ</reb>
+<gloss>penis</gloss>
+</entry>
+<entry>
+<reb>ちんぽこ</reb>
+<reb>チンポコ</reb>
+<reb>ちんぼこ</reb>
+<reb>チンボコ</reb>
+<gloss>penis</gloss>
+</entry>
+<entry>
+<keb>っ放し</keb>
+<reb>っぱなし</reb>
+<gloss>leaving (on, open, unfinished, etc.)</gloss>
+<gloss>(doing) continuously</gloss>
+<gloss>constantly</gloss>
+<gloss>keep ...-ing</gloss>
+</entry>
+<entry>
+<reb>つい</reb>
+<gloss>just (now)</gloss>
+<gloss>quite (near)</gloss>
+<gloss>unintentionally</gloss>
+<gloss>subconsciously</gloss>
+<gloss>by mistake</gloss>
+<gloss>against one's better judgement (judgment)</gloss>
+</entry>
+<entry>
+<keb>序でに</keb>
+<keb>序に</keb>
+<reb>ついでに</reb>
+<gloss>while (one is at it)</gloss>
+<gloss>when</gloss>
+<gloss>on the occasion of</gloss>
+<gloss>at the same time (as)</gloss>
+<gloss>on one's way (to)</gloss>
+<gloss>by the way</gloss>
+<gloss>incidentally</gloss>
+<gloss>in passing</gloss>
+</entry>
+<entry>
+<reb>つかつか</reb>
+<gloss>walking briskly</gloss>
+<gloss>determinedly</gloss>
+</entry>
+<entry>
+<keb>掴み取る</keb>
+<keb>つかみ取る</keb>
+<keb>摑み取る</keb>
+<reb>つかみとる</reb>
+<gloss>to grasp</gloss>
+<gloss>to get</gloss>
+</entry>
+<entry>
+<keb>つくつく法師</keb>
+<reb>つくつくぼうし</reb>
+<reb>ツクツクボウシ</reb>
+<gloss>Meimuna opalifera (species of cicada)</gloss>
+</entry>
+<entry>
+<keb>熟</keb>
+<keb>熟熟</keb>
+<keb>熟々</keb>
+<reb>つくづく</reb>
+<reb>つくつく</reb>
+<reb>つくずく</reb>
+<gloss>deeply</gloss>
+<gloss>keenly</gloss>
+<gloss>severely</gloss>
+<gloss>completely</gloss>
+<gloss>utterly</gloss>
+<gloss>intently</gloss>
+<gloss>carefully</gloss>
+<gloss>closely</gloss>
+<gloss>attentively</gloss>
+</entry>
+<entry>
+<reb>つつ</reb>
+<gloss>while</gloss>
+<gloss>even though</gloss>
+<gloss>despite</gloss>
+</entry>
+<entry>
+<keb>躑躅</keb>
+<reb>つつじ</reb>
+<reb>ツツジ</reb>
+<gloss>azalea</gloss>
+<gloss>rhododendron</gloss>
+</entry>
+<entry>
+<keb>つなぎ合わせる</keb>
+<keb>繋ぎ合わせる</keb>
+<keb>繋ぎあわせる</keb>
+<reb>つなぎあわせる</reb>
+<gloss>to connect</gloss>
+<gloss>to join</gloss>
+<gloss>to join or tie or knot together</gloss>
+</entry>
+<entry>
+<keb>つなぎ目</keb>
+<keb>繋ぎ目</keb>
+<reb>つなぎめ</reb>
+<gloss>joint</gloss>
+<gloss>link</gloss>
+<gloss>knot</gloss>
+<gloss>tie-together point</gloss>
+</entry>
+<entry>
+<reb>つばさ</reb>
+<gloss>extra-high-speed Tōhoku-line Shinkansen</gloss>
+</entry>
+<entry>
+<reb>つべこべ</reb>
+<gloss>complaining</gloss>
+<gloss>nitpicking</gloss>
+</entry>
+<entry>
+<keb>詰らない</keb>
+<keb>詰まらない</keb>
+<reb>つまらない</reb>
+<reb>つまらねー</reb>
+<gloss>dull</gloss>
+<gloss>uninteresting</gloss>
+<gloss>boring</gloss>
+<gloss>tedious</gloss>
+<gloss>insignificant</gloss>
+<gloss>unimportant</gloss>
+<gloss>trifling</gloss>
+<gloss>trivial</gloss>
+<gloss>worthless</gloss>
+<gloss>absurd</gloss>
+<gloss>foolish</gloss>
+<gloss>silly</gloss>
+<gloss>stupid</gloss>
+<gloss>useless</gloss>
+<gloss>pointless</gloss>
+<gloss>disappointing</gloss>
+</entry>
+<entry>
+<reb>つるつる</reb>
+<reb>ツルツル</reb>
+<gloss>smooth</gloss>
+<gloss>shiny</gloss>
+<gloss>slick</gloss>
+<gloss>slippery</gloss>
+<gloss>greasy</gloss>
+<gloss>slurping (noodles)</gloss>
+</entry>
+<entry>
+<reb>ツンツン</reb>
+<reb>つんつん</reb>
+<gloss>aloof</gloss>
+<gloss>morose</gloss>
+<gloss>stuck-up</gloss>
+<gloss>standoffish</gloss>
+<gloss>cold</gloss>
+<gloss>unfriendly</gloss>
+<gloss>(smelling) strongly</gloss>
+<gloss>pungently</gloss>
+<gloss>spiky (esp. of a hairstyle)</gloss>
+<gloss>sticking up straight (e.g. of plant stems)</gloss>
+<gloss>poking (at)</gloss>
+<gloss>pecking</gloss>
+</entry>
+<entry>
+<keb>突んのめる</keb>
+<reb>つんのめる</reb>
+<gloss>to pitch forward</gloss>
+<gloss>to fall forward</gloss>
+</entry>
+<entry>
+<reb>テカテカ</reb>
+<reb>てかてか</reb>
+<reb>テッカテカ</reb>
+<reb>てっかてか</reb>
+<gloss>gleaming</gloss>
+<gloss>shining</gloss>
+<gloss>glistening</gloss>
+</entry>
+<entry>
+<reb>てくてく</reb>
+<gloss>(walking a long distance) at a steady pace</gloss>
+<gloss>intently</gloss>
+<gloss>earnestly</gloss>
+<gloss>single-mindedly</gloss>
+<gloss>trudgingly</gloss>
+<gloss>ploddingly</gloss>
+</entry>
+<entry>
+<keb>手こずる</keb>
+<keb>梃子摺る</keb>
+<keb>手古摺る</keb>
+<keb>手子摺る</keb>
+<keb>梃摺る</keb>
+<reb>てこずる</reb>
+<gloss>to have much trouble</gloss>
+<gloss>to have a hard time</gloss>
+<gloss>to not know how to handle</gloss>
+</entry>
+<entry>
+<reb>てこてこ</reb>
+<gloss>sound of walking</gloss>
+</entry>
+<entry>
+<reb>てっきり</reb>
+<gloss>surely</gloss>
+<gloss>certainly</gloss>
+<gloss>without doubt</gloss>
+</entry>
+<entry>
+<reb>てれながら</reb>
+<gloss>feeling awkward</gloss>
+</entry>
+<entry>
+<reb>てんで</reb>
+<gloss>(not) at all</gloss>
+<gloss>completely</gloss>
+<gloss>utterly</gloss>
+<gloss>entirely</gloss>
+<gloss>altogether</gloss>
+<gloss>very</gloss>
+<gloss>extremely</gloss>
+</entry>
+<entry>
+<keb>跆拳道</keb>
+<reb>テコンドー</reb>
+<reb>テコンド</reb>
+<reb>テコンドウ</reb>
+<gloss>taekwondo</gloss>
+<gloss>tae kwon do</gloss>
+</entry>
+<entry>
+<reb>である</reb>
+<gloss>be</gloss>
+<gloss>is</gloss>
+</entry>
+<entry>
+<reb>であろう</reb>
+<gloss>will</gloss>
+<gloss>probably</gloss>
+<gloss>may</gloss>
+<gloss>I think</gloss>
+<gloss>surely</gloss>
+<gloss>I hope</gloss>
+<gloss>I fear</gloss>
+<gloss>it seems</gloss>
+</entry>
+<entry>
+<reb>でか</reb>
+<reb>デカ</reb>
+<gloss>detective</gloss>
+</entry>
+<entry>
+<reb>でかい</reb>
+<reb>でっかい</reb>
+<reb>デカイ</reb>
+<reb>デカい</reb>
+<reb>デッカい</reb>
+<reb>でけえ</reb>
+<reb>でっけえ</reb>
+<reb>でけー</reb>
+<reb>でっけー</reb>
+<reb>でけぇ</reb>
+<reb>でっけぇ</reb>
+<gloss>huge</gloss>
+<gloss>big</gloss>
+<gloss>gargantuan</gloss>
+</entry>
+<entry>
+<reb>でかでか</reb>
+<gloss>in a big way</gloss>
+</entry>
+<entry>
+<reb>デカパイ</reb>
+<reb>でかパイ</reb>
+<reb>でかぱい</reb>
+<gloss>huge breasts</gloss>
+<gloss>huge boobs</gloss>
+</entry>
+<entry>
+<keb>出来るようになる</keb>
+<reb>できるようになる</reb>
+<gloss>to become possible</gloss>
+<gloss>to become able to (do)</gloss>
+</entry>
+<entry>
+<reb>でしょう</reb>
+<reb>でしょ</reb>
+<gloss>it seems</gloss>
+<gloss>I think</gloss>
+<gloss>I guess</gloss>
+<gloss>I wonder</gloss>
+<gloss>right?</gloss>
+<gloss>don't you agree?</gloss>
+</entry>
+<entry>
+<reb>ですから</reb>
+<gloss>so</gloss>
+<gloss>therefore</gloss>
+<gloss>accordingly</gloss>
+<gloss>consequently</gloss>
+<gloss>on those grounds</gloss>
+<gloss>that is why</gloss>
+<gloss>for that reason</gloss>
+</entry>
+<entry>
+<reb>では</reb>
+<gloss>then</gloss>
+<gloss>well</gloss>
+<gloss>so</gloss>
+<gloss>well then</gloss>
+<gloss>bye then</gloss>
+<gloss>at</gloss>
+<gloss>in</gloss>
+<gloss>by</gloss>
+<gloss>with</gloss>
+<gloss>using</gloss>
+<gloss>if not ...</gloss>
+<gloss>unless ...</gloss>
+</entry>
+<entry>
+<reb>でも</reb>
+<gloss>but</gloss>
+<gloss>however</gloss>
+<gloss>though</gloss>
+<gloss>nevertheless</gloss>
+<gloss>still</gloss>
+<gloss>yet</gloss>
+<gloss>even so</gloss>
+<gloss>also</gloss>
+<gloss>as well</gloss>
+<gloss>even</gloss>
+<gloss>however</gloss>
+<gloss>no matter how</gloss>
+<gloss>even if</gloss>
+<gloss>even though</gloss>
+<gloss>... or something</gloss>
+<gloss>either ... or ...</gloss>
+<gloss>neither ... nor ...</gloss>
+<gloss>pseudo-</gloss>
+<gloss>quack</gloss>
+<gloss>in-name-only</gloss>
+<gloss>for lack of anything better to do</gloss>
+</entry>
+<entry>
+<reb>でれっと</reb>
+<gloss>slack</gloss>
+<gloss>slovenly</gloss>
+<gloss>lackadaisical</gloss>
+<gloss>moonstruck</gloss>
+<gloss>love-struck</gloss>
+<gloss>spoony</gloss>
+</entry>
+<entry>
+<reb>デレデレ</reb>
+<reb>でれでれ</reb>
+<gloss>idling</gloss>
+<gloss>lazing</gloss>
+<gloss>slovenly</gloss>
+<gloss>flirting</gloss>
+<gloss>philandering</gloss>
+<gloss>womanizing</gloss>
+<gloss>being lovestruck</gloss>
+<gloss>fawning</gloss>
+<gloss>mooning</gloss>
+</entry>
+<entry>
+<reb>と</reb>
+<gloss>if</gloss>
+<gloss>when</gloss>
+<gloss>and</gloss>
+<gloss>with</gloss>
+<gloss>used for quoting (thoughts, speech, etc.)</gloss>
+<gloss>promoted pawn</gloss>
+<gloss>indicates a question</gloss>
+</entry>
+<entry>
+<keb>と言うのは</keb>
+<reb>というのは</reb>
+<gloss>because ...</gloss>
+<gloss>for ...</gloss>
+<gloss>the reason being ...</gloss>
+<gloss>as for ...</gloss>
+<gloss>when it comes to ...</gloss>
+<gloss>regarding ...</gloss>
+<gloss>how about ...</gloss>
+</entry>
+<entry>
+<keb>と言うもの</keb>
+<keb>という物</keb>
+<keb>と言う物</keb>
+<reb>というもの</reb>
+<gloss>something like ...</gloss>
+<gloss>something called ...</gloss>
+</entry>
+<entry>
+<reb>とか</reb>
+<gloss>and the like</gloss>
+<gloss>such as</gloss>
+<gloss>among other things</gloss>
+<gloss>and so on</gloss>
+<gloss>or something</gloss>
+<gloss>something like</gloss>
+<gloss>a (certain)</gloss>
+<gloss>I hear that ...</gloss>
+<gloss>people say that...</gloss>
+<gloss>rumour has it that ...</gloss>
+<gloss>or something</gloss>
+<gloss>something like</gloss>
+<gloss>or whatever</gloss>
+</entry>
+<entry>
+<reb>ときめき</reb>
+<gloss>beating (of the heart, with joy, excitement, etc.)</gloss>
+<gloss>palpitation</gloss>
+<gloss>throbbing</gloss>
+<gloss>pounding</gloss>
+<gloss>fluttering</gloss>
+</entry>
+<entry>
+<reb>ときめく</reb>
+<gloss>to beat fast (of one's heart)</gloss>
+<gloss>to flutter (with joy, anticipation, etc.)</gloss>
+<gloss>to throb</gloss>
+<gloss>to pound</gloss>
+<gloss>to palpitate</gloss>
+</entry>
+<entry>
+<keb>所が</keb>
+<reb>ところが</reb>
+<gloss>even so</gloss>
+<gloss>however</gloss>
+<gloss>still</gloss>
+<gloss>whereupon</gloss>
+<gloss>even though</gloss>
+<gloss>nevertheless</gloss>
+<gloss>on the contrary</gloss>
+<gloss>as a matter of fact</gloss>
+<gloss>despite</gloss>
+</entry>
+<entry>
+<reb>ところがどっこい</reb>
+<gloss>even so</gloss>
+<gloss>however</gloss>
+<gloss>still</gloss>
+<gloss>whereupon</gloss>
+<gloss>even though</gloss>
+<gloss>nevertheless</gloss>
+<gloss>on the contrary</gloss>
+<gloss>as a matter of fact</gloss>
+<gloss>despite</gloss>
+</entry>
+<entry>
+<reb>として</reb>
+<gloss>as (i.e. in the role of)</gloss>
+<gloss>for (i.e. from the viewpoint of)</gloss>
+<gloss>apart from... (used to change the topic)</gloss>
+<gloss>even (e.g. "not even a single person")</gloss>
+<gloss>thinking that...</gloss>
+<gloss>trying to...</gloss>
+</entry>
+<entry>
+<reb>としても</reb>
+<gloss>even if ...</gloss>
+<gloss>even supposing that ...</gloss>
+<gloss>also as ...</gloss>
+<gloss>also for ...</gloss>
+<gloss>also from the position of ...</gloss>
+</entry>
+<entry>
+<reb>とすると</reb>
+<gloss>then</gloss>
+<gloss>if so</gloss>
+<gloss>if</gloss>
+</entry>
+<entry>
+<keb>途轍もない</keb>
+<keb>途轍も無い</keb>
+<reb>とてつもない</reb>
+<gloss>extravagant</gloss>
+<gloss>absurd</gloss>
+<gloss>unbelievable</gloss>
+<gloss>preposterous</gloss>
+<gloss>unreasonable</gloss>
+<gloss>enormous</gloss>
+<gloss>tremendous</gloss>
+<gloss>extraordinary</gloss>
+<gloss>monumental</gloss>
+</entry>
+<entry>
+<keb>迚も</keb>
+<reb>とても</reb>
+<reb>とっても</reb>
+<gloss>very</gloss>
+<gloss>awfully</gloss>
+<gloss>exceedingly</gloss>
+<gloss>(not) at all</gloss>
+<gloss>by no means</gloss>
+<gloss>simply (cannot)</gloss>
+</entry>
+<entry>
+<reb>とと</reb>
+<reb>とっと</reb>
+<gloss>fishie</gloss>
+<gloss>birdie</gloss>
+<gloss>chickie</gloss>
+</entry>
+<entry>
+<keb>隣の芝生は青い</keb>
+<keb>となりの芝生は青い</keb>
+<reb>となりのしばふはあおい</reb>
+<gloss>the grass is always greener on the other side of the fence</gloss>
+</entry>
+<entry>
+<keb>鳶</keb>
+<keb>鴟</keb>
+<keb>鵄</keb>
+<reb>とび</reb>
+<reb>とんび</reb>
+<reb>トビ</reb>
+<reb>トンビ</reb>
+<gloss>black kite (Milvus migrans)</gloss>
+<gloss>construction worker</gloss>
+<gloss>scaffold erector</gloss>
+<gloss>firefighter</gloss>
+<gloss>fire hook</gloss>
+<gloss>reddish brown</gloss>
+<gloss>Inverness cape</gloss>
+<gloss>filcher</gloss>
+<gloss>sneak thief</gloss>
+<gloss>pilferer</gloss>
+</entry>
+<entry>
+<reb>とべ</reb>
+<gloss>last (in a contest)</gloss>
+</entry>
+<entry>
+<reb>とぼとぼ</reb>
+<reb>トボトボ</reb>
+<gloss>trudging (along)</gloss>
+<gloss>plodding</gloss>
+</entry>
+<entry>
+<keb>とも言う</keb>
+<reb>ともいう</reb>
+<gloss>also called</gloss>
+</entry>
+<entry>
+<keb>とやかく言う</keb>
+<keb>兎や角言う</keb>
+<reb>とやかくいう</reb>
+<gloss>to say this and that (about)</gloss>
+<gloss>to say (critical) things</gloss>
+<gloss>to criticize</gloss>
+<gloss>to be critical (about)</gloss>
+<gloss>to find fault (with)</gloss>
+<gloss>to complain</gloss>
+<gloss>to raise objections (to)</gloss>
+<gloss>to meddle (in)</gloss>
+<gloss>to interfere (in)</gloss>
+</entry>
+<entry>
+<reb>とろ</reb>
+<reb>トロ</reb>
+<gloss>fatty cut (esp. of tuna belly)</gloss>
+</entry>
+<entry>
+<keb>とろろ芋</keb>
+<keb>薯蕷芋</keb>
+<keb>薯蕷藷</keb>
+<reb>とろろいも</reb>
+<gloss>yam</gloss>
+</entry>
+<entry>
+<reb>トンズラ</reb>
+<reb>とんずら</reb>
+<gloss>fleeing</gloss>
+<gloss>escape</gloss>
+</entry>
+<entry>
+<keb>飛んだ</keb>
+<reb>とんだ</reb>
+<gloss>unexpected</gloss>
+<gloss>unlikely</gloss>
+<gloss>strange</gloss>
+<gloss>terrible</gloss>
+<gloss>awful</gloss>
+<gloss>horrible</gloss>
+<gloss>serious</gloss>
+<gloss>outrageous</gloss>
+<gloss>very</gloss>
+<gloss>extremely</gloss>
+</entry>
+<entry>
+<keb>とんでも無い</keb>
+<keb>飛んでもない</keb>
+<reb>とんでもない</reb>
+<gloss>unthinkable</gloss>
+<gloss>unexpected</gloss>
+<gloss>absurd</gloss>
+<gloss>outrageous</gloss>
+<gloss>preposterous</gloss>
+<gloss>terrible</gloss>
+<gloss>absolutely not!</gloss>
+<gloss>far from it!</gloss>
+<gloss>impossible!</gloss>
+<gloss>preposterous!</gloss>
+<gloss>what a thing to say!</gloss>
+<gloss>no way!</gloss>
+<gloss>(it was) no bother at all</gloss>
+<gloss>not at all</gloss>
+<gloss>don't mention it</gloss>
+</entry>
+<entry>
+<reb>とんとん</reb>
+<reb>トントン</reb>
+<gloss>with a tap</gloss>
+<gloss>with a knock</gloss>
+<gloss>with a knocking sound</gloss>
+<gloss>with a rap-tap</gloss>
+<gloss>smoothly (proceed)</gloss>
+<gloss>without a hitch</gloss>
+<gloss>without delay</gloss>
+<gloss>even</gloss>
+<gloss>equal</gloss>
+<gloss>break-even</gloss>
+</entry>
+<entry>
+<keb>と仮定して</keb>
+<reb>とかていして</reb>
+<gloss>assuming that ...</gloss>
+<gloss>supposing that ...</gloss>
+</entry>
+<entry>
+<keb>と仮定しても</keb>
+<reb>とかていしても</reb>
+<gloss>even assuming that ...</gloss>
+<gloss>even granted that ...</gloss>
+</entry>
+<entry>
+<keb>と共に</keb>
+<reb>とともに</reb>
+<gloss>together with</gloss>
+<gloss>as X, then Y (e.g. as we age we gain wisdom, as wine matures it becomes more valuable, etc.)</gloss>
+</entry>
+<entry>
+<keb>という訳だ</keb>
+<keb>と言う訳だ</keb>
+<reb>というわけだ</reb>
+<gloss>this is why</gloss>
+<gloss>this means</gloss>
+<gloss>it is the case that</gloss>
+</entry>
+<entry>
+<keb>と言えば</keb>
+<reb>といえば</reb>
+<gloss>speaking of ...</gloss>
+<gloss>when it comes to ...</gloss>
+<gloss>as for ...</gloss>
+<gloss>if one were to say ...</gloss>
+</entry>
+<entry>
+<keb>言える</keb>
+<keb>云える</keb>
+<reb>いえる</reb>
+<gloss>to be possible to say</gloss>
+<gloss>to be able to say</gloss>
+<gloss>said</gloss>
+<gloss>have said</gloss>
+</entry>
+<entry>
+<keb>と言われる</keb>
+<reb>といわれる</reb>
+<gloss>to be called ...</gloss>
+<gloss>to be referred to as ...</gloss>
+</entry>
+<entry>
+<keb>と考えられる</keb>
+<reb>とかんがえられる</reb>
+<gloss>to be conceivable that</gloss>
+<gloss>to be thinkable that</gloss>
+</entry>
+<entry>
+<keb>と同じように</keb>
+<keb>と同じ様に</keb>
+<reb>とおなじように</reb>
+<gloss>in the same way as</gloss>
+<gloss>just like</gloss>
+</entry>
+<entry>
+<keb>と比べて</keb>
+<reb>とくらべて</reb>
+<gloss>compared with</gloss>
+</entry>
+<entry>
+<keb>如何</keb>
+<keb>何う</keb>
+<reb>どう</reb>
+<gloss>how</gloss>
+<gloss>in what way</gloss>
+<gloss>how about</gloss>
+</entry>
+<entry>
+<keb>どう言う</keb>
+<keb>如何いう</keb>
+<keb>如何言う</keb>
+<reb>どういう</reb>
+<gloss>what kind of</gloss>
+<gloss>what sort of</gloss>
+<gloss>what</gloss>
+</entry>
+<entry>
+<reb>どうしたの</reb>
+<gloss>what's the matter?</gloss>
+<gloss>what's wrong?</gloss>
+<gloss>what happened (to) ...?</gloss>
+<gloss>what have you done (with) ...?</gloss>
+<gloss>where is ...?</gloss>
+</entry>
+<entry>
+<keb>どうしたら良い</keb>
+<reb>どうしたらいい</reb>
+<reb>どうしたらよい</reb>
+<gloss>what's the best thing to do?</gloss>
+<gloss>what to do?</gloss>
+</entry>
+<entry>
+<reb>どうせ</reb>
+<gloss>anyhow</gloss>
+<gloss>in any case</gloss>
+<gloss>at any rate</gloss>
+<gloss>after all</gloss>
+<gloss>at all</gloss>
+<gloss>no matter what</gloss>
+<gloss>at best</gloss>
+<gloss>at most</gloss>
+</entry>
+<entry>
+<keb>どうぞ宜しく</keb>
+<reb>どうぞよろしく</reb>
+<gloss>pleased to meet you</gloss>
+<gloss>how do you do</gloss>
+<gloss>my regards (to someone)</gloss>
+<gloss>my greetings</gloss>
+<gloss>best wishes</gloss>
+<gloss>remember me to</gloss>
+</entry>
+<entry>
+<keb>どうって事はない</keb>
+<keb>どうってことは無い</keb>
+<keb>どうって事は無い</keb>
+<reb>どうってことはない</reb>
+<gloss>nothing special</gloss>
+<gloss>no big deal</gloss>
+<gloss>doesn't matter</gloss>
+<gloss>nothing to worry about</gloss>
+</entry>
+<entry>
+<keb>どうという事もない</keb>
+<reb>どうということもない</reb>
+<gloss>nothing special</gloss>
+<gloss>no big deal</gloss>
+<gloss>doesn't matter</gloss>
+</entry>
+<entry>
+<reb>どうにか</reb>
+<gloss>in some way or other</gloss>
+<gloss>one way or another</gloss>
+<gloss>somehow</gloss>
+<gloss>only just</gloss>
+<gloss>barely</gloss>
+</entry>
+<entry>
+<reb>どうも</reb>
+<gloss>thank you</gloss>
+<gloss>thanks</gloss>
+<gloss>much (thanks)</gloss>
+<gloss>very (sorry)</gloss>
+<gloss>quite (regret)</gloss>
+<gloss>quite</gloss>
+<gloss>really</gloss>
+<gloss>mostly</gloss>
+<gloss>somehow</gloss>
+<gloss>in spite of oneself</gloss>
+<gloss>try as one might</gloss>
+<gloss>no matter how hard one may try (to, not to)</gloss>
+<gloss>greetings</gloss>
+<gloss>hello</gloss>
+<gloss>goodbye</gloss>
+</entry>
+<entry>
+<reb>どうやって</reb>
+<gloss>how</gloss>
+<gloss>in what way</gloss>
+<gloss>by what means</gloss>
+</entry>
+<entry>
+<reb>どうやら</reb>
+<gloss>possibly</gloss>
+<gloss>apparently</gloss>
+<gloss>(seem) likely</gloss>
+<gloss>seemingly</gloss>
+<gloss>somehow or other</gloss>
+<gloss>with difficulty</gloss>
+<gloss>barely</gloss>
+<gloss>after a fashion</gloss>
+</entry>
+<entry>
+<keb>どう致しまして</keb>
+<keb>如何致しまして</keb>
+<reb>どういたしまして</reb>
+<gloss>you're welcome</gloss>
+<gloss>don't mention it</gloss>
+<gloss>not at all</gloss>
+<gloss>my pleasure</gloss>
+</entry>
+<entry>
+<reb>ドキッと</reb>
+<reb>ドキっと</reb>
+<reb>どきっと</reb>
+<gloss>being startled</gloss>
+<gloss>getting a shock</gloss>
+</entry>
+<entry>
+<reb>ドキドキ</reb>
+<reb>どきどき</reb>
+<reb>どきんどきん</reb>
+<reb>ドキンドキン</reb>
+<gloss>thump-thump</gloss>
+<gloss>bang-bang</gloss>
+<gloss>pit-a-pat</gloss>
+<gloss>pitapat</gloss>
+<gloss>pitter-patter</gloss>
+<gloss>to beat fast (of one's heart)</gloss>
+<gloss>to throb</gloss>
+<gloss>to pound</gloss>
+<gloss>to palpitate</gloss>
+</entry>
+<entry>
+<reb>ドッキリ</reb>
+<reb>どっきり</reb>
+<gloss>feeling startled</gloss>
+<gloss>getting a shock</gloss>
+<gloss>prank</gloss>
+<gloss>practical joke</gloss>
+</entry>
+<entry>
+<keb>何処其処</keb>
+<reb>どこそこ</reb>
+<gloss>such-and-such a place</gloss>
+</entry>
+<entry>
+<keb>何処でも</keb>
+<reb>どこでも</reb>
+<gloss>anywhere</gloss>
+</entry>
+<entry>
+<reb>どしどし</reb>
+<gloss>rapidly</gloss>
+<gloss>one after the other</gloss>
+<gloss>without hesitation</gloss>
+<gloss>unreservedly</gloss>
+<gloss>freely</gloss>
+<gloss>sound of tramping</gloss>
+<gloss>stomping</gloss>
+</entry>
+<entry>
+<reb>ドジ</reb>
+<reb>どじ</reb>
+<gloss>blunder</gloss>
+<gloss>bungle</gloss>
+<gloss>clumsiness</gloss>
+</entry>
+<entry>
+<reb>どすこい</reb>
+<gloss>dosukoi! (sumo chant)</gloss>
+</entry>
+<entry>
+<reb>ドタバタ</reb>
+<reb>どたばた</reb>
+<gloss>noisily (running around)</gloss>
+<gloss>with heavy feet</gloss>
+<gloss>in a fluster</gloss>
+<gloss>in a flurry</gloss>
+<gloss>in a panic</gloss>
+<gloss>slapstick</gloss>
+</entry>
+<entry>
+<keb>何方へ</keb>
+<reb>どちらへ</reb>
+<gloss>where to?</gloss>
+<gloss>whither?</gloss>
+</entry>
+<entry>
+<keb>何方も</keb>
+<reb>どちらも</reb>
+<reb>どっちも</reb>
+<gloss>both</gloss>
+<gloss>(not) either</gloss>
+</entry>
+<entry>
+<keb>どちら様</keb>
+<keb>何方様</keb>
+<reb>どちらさま</reb>
+<gloss>who</gloss>
+</entry>
+<entry>
+<reb>どっこい</reb>
+<gloss>heigh-ho</gloss>
+<gloss>heave-ho</gloss>
+<gloss>hold on!</gloss>
+<gloss>just a minute</gloss>
+<gloss>la-la</gloss>
+</entry>
+<entry>
+<keb>何方付かず</keb>
+<reb>どっちつかず</reb>
+<gloss>noncommittal</gloss>
+<gloss>equivocal</gloss>
+<gloss>indecisive</gloss>
+<gloss>evasive</gloss>
+<gloss>ambiguous</gloss>
+<gloss>vague</gloss>
+<gloss>on neither side</gloss>
+</entry>
+<entry>
+<reb>どっと</reb>
+<reb>ドッと</reb>
+<reb>ドっと</reb>
+<gloss>bursting out (laughter)</gloss>
+<gloss>breaking out (applause)</gloss>
+<gloss>roaring</gloss>
+<gloss>whooping</gloss>
+<gloss>in a rush</gloss>
+<gloss>in a surge</gloss>
+<gloss>flooding in</gloss>
+<gloss>pouring in</gloss>
+<gloss>suddenly</gloss>
+<gloss>all of a sudden</gloss>
+</entry>
+<entry>
+<keb>何方でも</keb>
+<reb>どなたでも</reb>
+<gloss>anyone</gloss>
+</entry>
+<entry>
+<keb>どの様</keb>
+<keb>何の様</keb>
+<reb>どのよう</reb>
+<gloss>what sort</gloss>
+<gloss>what kind</gloss>
+</entry>
+<entry>
+<keb>どの位</keb>
+<keb>何の位</keb>
+<keb>何のくらい</keb>
+<reb>どのくらい</reb>
+<reb>どのぐらい</reb>
+<gloss>how long</gloss>
+<gloss>how far</gloss>
+<gloss>how much</gloss>
+</entry>
+<entry>
+<keb>どの場合にも</keb>
+<reb>どのばあいにも</reb>
+<gloss>in any case</gloss>
+<gloss>in either case</gloss>
+<gloss>whichever the case may be</gloss>
+</entry>
+<entry>
+<reb>どやどや</reb>
+<gloss>sound of many footsteps</gloss>
+</entry>
+<entry>
+<keb>響めき</keb>
+<keb>響き</keb>
+<keb>響動めき</keb>
+<reb>どよめき</reb>
+<gloss>commotion</gloss>
+<gloss>stir</gloss>
+</entry>
+<entry>
+<keb>何れ</keb>
+<reb>どれ</reb>
+<gloss>which (of three or more)</gloss>
+<gloss>well</gloss>
+<gloss>now</gloss>
+<gloss>c'mon</gloss>
+</entry>
+<entry>
+<keb>何れでも</keb>
+<reb>どれでも</reb>
+<gloss>any one</gloss>
+<gloss>any</gloss>
+<gloss>whichever</gloss>
+</entry>
+<entry>
+<keb>泥々</keb>
+<keb>泥泥</keb>
+<reb>どろどろ</reb>
+<reb>ドロドロ</reb>
+<gloss>viscous</gloss>
+<gloss>mushy</gloss>
+<gloss>pulpy</gloss>
+<gloss>thick</gloss>
+<gloss>slushy</gloss>
+<gloss>syrupy</gloss>
+<gloss>sticky</gloss>
+<gloss>muddy</gloss>
+<gloss>dirty (with oil, grease, etc.)</gloss>
+<gloss>to be in an ugly state (of emotions, relations, etc.)</gloss>
+<gloss>to be murky</gloss>
+<gloss>to be sordid</gloss>
+</entry>
+<entry>
+<reb>どんどん</reb>
+<reb>ドンドン</reb>
+<gloss>drumming (noise)</gloss>
+<gloss>beating</gloss>
+<gloss>pounding</gloss>
+<gloss>banging</gloss>
+<gloss>booming</gloss>
+<gloss>stamping</gloss>
+<gloss>rapidly</gloss>
+<gloss>quickly</gloss>
+<gloss>steadily</gloss>
+<gloss>continuously</gloss>
+<gloss>one after the other</gloss>
+<gloss>in succession</gloss>
+</entry>
+<entry>
+<reb>どんな</reb>
+<gloss>what kind of</gloss>
+<gloss>what sort of</gloss>
+<gloss>what</gloss>
+<gloss>no matter what (kind of)</gloss>
+<gloss>whatever</gloss>
+<gloss>any</gloss>
+<gloss>all</gloss>
+</entry>
+<entry>
+<reb>どんなに</reb>
+<gloss>how</gloss>
+<gloss>how much</gloss>
+<gloss>to what extent</gloss>
+<gloss>no matter how (much)</gloss>
+<gloss>however</gloss>
+</entry>
+<entry>
+<keb>どん底</keb>
+<reb>どんぞこ</reb>
+<gloss>very bottom</gloss>
+<gloss>rock bottom</gloss>
+</entry>
+<entry>
+<reb>なあなあ</reb>
+<gloss>compromise</gloss>
+<gloss>collusion</gloss>
+<gloss>give and take</gloss>
+<gloss>not making a fuss</gloss>
+<gloss>closing one's eyes (to)</gloss>
+</entry>
+<entry>
+<keb>ない交ぜにする</keb>
+<keb>綯い交ぜにする</keb>
+<reb>ないまぜにする</reb>
+<gloss>to blend (e.g. fact and fiction)</gloss>
+<gloss>to mix</gloss>
+<gloss>to weave (together)</gloss>
+</entry>
+<entry>
+<reb>なおこ</reb>
+<gloss>long thin brown "naoko" mushroom</gloss>
+</entry>
+<entry>
+<keb>等閑</keb>
+<reb>なおざり</reb>
+<gloss>neglect</gloss>
+<gloss>negligence</gloss>
+<gloss>disregard</gloss>
+<gloss>making light of</gloss>
+</entry>
+<entry>
+<keb>無けなし</keb>
+<keb>無け無し</keb>
+<reb>なけなし</reb>
+<gloss>what little ... one has</gloss>
+<gloss>tiny amount of</gloss>
+<gloss>paltry</gloss>
+</entry>
+<entry>
+<keb>何故なら</keb>
+<reb>なぜなら</reb>
+<gloss>because</gloss>
+<gloss>the reason is</gloss>
+<gloss>if you want to know why</gloss>
+</entry>
+<entry>
+<keb>何故ならば</keb>
+<reb>なぜならば</reb>
+<gloss>because</gloss>
+<gloss>for</gloss>
+<gloss>the reason why is ...</gloss>
+</entry>
+<entry>
+<keb>憖</keb>
+<reb>なまじ</reb>
+<gloss>thoughtlessly</gloss>
+<gloss>rashly</gloss>
+<gloss>unwisely</gloss>
+<gloss>half-heartedly</gloss>
+<gloss>halfway</gloss>
+<gloss>half-done</gloss>
+<gloss>incomplete</gloss>
+</entry>
+<entry>
+<keb>憖い</keb>
+<reb>なまじい</reb>
+<gloss>thoughtlessly</gloss>
+<gloss>rashly</gloss>
+<gloss>unwisely</gloss>
+<gloss>half-heartedly</gloss>
+<gloss>halfway</gloss>
+<gloss>half-done</gloss>
+<gloss>incomplete</gloss>
+</entry>
+<entry>
+<keb>憖っか</keb>
+<keb>憗っか</keb>
+<reb>なまじっか</reb>
+<gloss>thoughtlessly</gloss>
+<gloss>rashly</gloss>
+<gloss>unwisely</gloss>
+<gloss>half-heartedly</gloss>
+<gloss>halfway</gloss>
+<gloss>half-done</gloss>
+<gloss>incomplete</gloss>
+</entry>
+<entry>
+<reb>なよなよ</reb>
+<reb>ナヨナヨ</reb>
+<gloss>delicately</gloss>
+<gloss>weakly</gloss>
+<gloss>gently</gloss>
+<gloss>supplely</gloss>
+</entry>
+<entry>
+<reb>なら</reb>
+<reb>ならば</reb>
+<gloss>if</gloss>
+<gloss>in case</gloss>
+<gloss>if it is the case that</gloss>
+<gloss>if it is true that</gloss>
+<gloss>as for</gloss>
+<gloss>on the topic of</gloss>
+<gloss>if that's the case</gloss>
+<gloss>if so</gloss>
+<gloss>that being the case</gloss>
+<gloss>if possible</gloss>
+<gloss>if circumstances allow</gloss>
+</entry>
+<entry>
+<reb>ならでは</reb>
+<gloss>distinctive of</gloss>
+<gloss>characteristic of</gloss>
+<gloss>uniquely applying to</gloss>
+<gloss>special to</gloss>
+<gloss>but</gloss>
+<gloss>except</gloss>
+<gloss>without</gloss>
+<gloss>but for</gloss>
+</entry>
+<entry>
+<reb>なんか</reb>
+<gloss>something like ...</gloss>
+<gloss>things like ...</gloss>
+<gloss>someone like ...</gloss>
+<gloss>the likes of ...</gloss>
+</entry>
+<entry>
+<keb>何じゃそりゃ</keb>
+<keb>何じゃそら</keb>
+<reb>なんじゃそりゃ</reb>
+<reb>なんじゃそら</reb>
+<gloss>what's that?</gloss>
+<gloss>what the...</gloss>
+</entry>
+<entry>
+<keb>何にしても</keb>
+<reb>なんにしても</reb>
+<reb>なににしても</reb>
+<gloss>even so</gloss>
+<gloss>anyhow</gloss>
+<gloss>at any rate</gloss>
+</entry>
+<entry>
+<keb>にいにい蝉</keb>
+<reb>にいにいぜみ</reb>
+<gloss>Kaempfer cicada (Platypleura kaempferi)</gloss>
+</entry>
+<entry>
+<keb>に於いて</keb>
+<keb>に於て</keb>
+<reb>において</reb>
+<gloss>at (a time or place)</gloss>
+<gloss>in</gloss>
+<gloss>on</gloss>
+<gloss>in (a situation, matter, etc.)</gloss>
+<gloss>on (a point)</gloss>
+<gloss>when it comes to</gloss>
+<gloss>regarding</gloss>
+<gloss>with respect to</gloss>
+<gloss>in (terms of)</gloss>
+<gloss>as to</gloss>
+<gloss>as for</gloss>
+<gloss>on the part of</gloss>
+<gloss>under the authority of</gloss>
+<gloss>in the name of</gloss>
+</entry>
+<entry>
+<keb>に於ける</keb>
+<reb>における</reb>
+<gloss>in</gloss>
+<gloss>at</gloss>
+<gloss>on</gloss>
+<gloss>as for</gloss>
+<gloss>regarding</gloss>
+<gloss>with regards to</gloss>
+</entry>
+<entry>
+<keb>和やか</keb>
+<keb>柔やか</keb>
+<reb>にこやか</reb>
+<gloss>smiling</gloss>
+<gloss>beaming</gloss>
+<gloss>radiant</gloss>
+<gloss>bright</gloss>
+<gloss>cheerful</gloss>
+</entry>
+<entry>
+<reb>にちゃにちゃ</reb>
+<gloss>slimy</gloss>
+</entry>
+<entry>
+<keb>に取って</keb>
+<reb>にとって</reb>
+<gloss>to</gloss>
+<gloss>for</gloss>
+<gloss>from the standpoint of</gloss>
+<gloss>as far as ... is concerned</gloss>
+</entry>
+<entry>
+<reb>にも</reb>
+<gloss>also</gloss>
+<gloss>too</gloss>
+<gloss>not ... either</gloss>
+<gloss>as well</gloss>
+<gloss>even</gloss>
+<gloss>(it's not possible) no matter what</gloss>
+<gloss>although one might wish otherwise</gloss>
+</entry>
+<entry>
+<reb>ニヤニヤ</reb>
+<reb>にやにや</reb>
+<gloss>grinning</gloss>
+<gloss>smirking</gloss>
+</entry>
+<entry>
+<reb>にょろにょろ</reb>
+<reb>ニョロニョロ</reb>
+<gloss>slitheringly</gloss>
+<gloss>wriggling, slipping and sliding</gloss>
+</entry>
+<entry>
+<keb>に因って</keb>
+<keb>に依って</keb>
+<reb>によって</reb>
+<gloss>according to</gloss>
+<gloss>by (means of)</gloss>
+<gloss>due to</gloss>
+<gloss>because of</gloss>
+</entry>
+<entry>
+<keb>によって異なる</keb>
+<reb>によってことなる</reb>
+<gloss>to differ depending on ...</gloss>
+</entry>
+<entry>
+<keb>に依る</keb>
+<keb>に因る</keb>
+<keb>に拠る</keb>
+<reb>による</reb>
+<gloss>by means of</gloss>
+<gloss>due to</gloss>
+<gloss>because of</gloss>
+<gloss>according to</gloss>
+</entry>
+<entry>
+<keb>に依ると</keb>
+<reb>によると</reb>
+<gloss>according to (someone)</gloss>
+</entry>
+<entry>
+<keb>に拠れば</keb>
+<keb>に依れば</keb>
+<keb>に因れば</keb>
+<reb>によれば</reb>
+<gloss>according to (someone)</gloss>
+</entry>
+<entry>
+<keb>に応じて</keb>
+<reb>におうじて</reb>
+<gloss>depending on</gloss>
+<gloss>dependent on</gloss>
+</entry>
+<entry>
+<keb>に加え</keb>
+<reb>にくわえ</reb>
+<gloss>in addition</gloss>
+</entry>
+<entry>
+<keb>に加えて</keb>
+<reb>にくわえて</reb>
+<gloss>in addition</gloss>
+</entry>
+<entry>
+<keb>に過ぎない</keb>
+<reb>にすぎない</reb>
+<gloss>no more than</gloss>
+<gloss>just</gloss>
+<gloss>only</gloss>
+<gloss>mere</gloss>
+<gloss>goes no further than</gloss>
+</entry>
+<entry>
+<keb>に関して</keb>
+<keb>に関しちゃ</keb>
+<reb>にかんして</reb>
+<gloss>regarding ...</gloss>
+<gloss>concerning ...</gloss>
+<gloss>about ...</gloss>
+<gloss>on ...</gloss>
+<gloss>with respect to ...</gloss>
+<gloss>in regard to ...</gloss>
+</entry>
+<entry>
+<keb>に基づいて</keb>
+<reb>にもとづいて</reb>
+<gloss>based on</gloss>
+<gloss>on the basis of</gloss>
+</entry>
+<entry>
+<keb>に似て</keb>
+<reb>ににて</reb>
+<gloss>similar to</gloss>
+<gloss>like</gloss>
+</entry>
+<entry>
+<keb>に就いて</keb>
+<keb>に就て</keb>
+<reb>について</reb>
+<gloss>about</gloss>
+<gloss>on</gloss>
+<gloss>regarding</gloss>
+<gloss>concerning</gloss>
+<gloss>per</gloss>
+<gloss>for every</gloss>
+</entry>
+<entry>
+<keb>に照らして</keb>
+<reb>にてらして</reb>
+<gloss>in comparison with</gloss>
+<gloss>when compared with</gloss>
+<gloss>according to</gloss>
+<gloss>in light of</gloss>
+<gloss>in view of</gloss>
+</entry>
+<entry>
+<keb>に対して</keb>
+<keb>に對して</keb>
+<reb>にたいして</reb>
+<gloss>towards</gloss>
+<gloss>against</gloss>
+<gloss>regarding</gloss>
+<gloss>in contrast with</gloss>
+</entry>
+<entry>
+<keb>に対する</keb>
+<keb>に對する</keb>
+<reb>にたいする</reb>
+<gloss>regarding</gloss>
+<gloss>in</gloss>
+<gloss>to</gloss>
+<gloss>towards</gloss>
+<gloss>with regards to</gloss>
+</entry>
+<entry>
+<keb>に当たって</keb>
+<reb>にあたって</reb>
+<gloss>on the occasion of</gloss>
+<gloss>at the time of</gloss>
+</entry>
+<entry>
+<keb>に反して</keb>
+<reb>にはんして</reb>
+<gloss>against</gloss>
+<gloss>contrary to</gloss>
+</entry>
+<entry>
+<keb>に比べ</keb>
+<reb>にくらべ</reb>
+<gloss>compared to</gloss>
+</entry>
+<entry>
+<keb>に付き</keb>
+<keb>に就き</keb>
+<reb>につき</reb>
+<gloss>because of</gloss>
+<gloss>on account of</gloss>
+<gloss>due to</gloss>
+<gloss>about</gloss>
+<gloss>on</gloss>
+<gloss>regarding</gloss>
+<gloss>concerning</gloss>
+<gloss>per</gloss>
+<gloss>for every</gloss>
+</entry>
+<entry>
+<reb>ぬらぬら</reb>
+<reb>ヌラヌラ</reb>
+<gloss>slimy</gloss>
+<gloss>slippery</gloss>
+<gloss>(moving) slowly</gloss>
+</entry>
+<entry>
+<reb>ヌルヌル</reb>
+<reb>ぬるぬる</reb>
+<gloss>slimy</gloss>
+<gloss>slippery</gloss>
+<gloss>greasy</gloss>
+<gloss>clammy</gloss>
+<gloss>smoothly (of CGI movements, video streaming, etc.)</gloss>
+</entry>
+<entry>
+<keb>ねじ回し</keb>
+<keb>ネジ回し</keb>
+<keb>螺子回し</keb>
+<reb>ねじまわし</reb>
+<gloss>screwdriver</gloss>
+</entry>
+<entry>
+<reb>ねた</reb>
+<reb>ネタ</reb>
+<gloss>material (for a story, article, etc.)</gloss>
+<gloss>information</gloss>
+<gloss>news item</gloss>
+<gloss>joke</gloss>
+<gloss>jest</gloss>
+<gloss>(comedy) routine</gloss>
+<gloss>made-up story</gloss>
+<gloss>material</gloss>
+<gloss>proof</gloss>
+<gloss>evidence</gloss>
+<gloss>(magician's) trick</gloss>
+<gloss>secret</gloss>
+<gloss>ingredients (esp. for sushi)</gloss>
+<gloss>(Internet) meme</gloss>
+</entry>
+<entry>
+<reb>ネチネチ</reb>
+<reb>ねちねち</reb>
+<gloss>stickily</gloss>
+<gloss>glutinously</gloss>
+<gloss>persistently</gloss>
+<gloss>insistently</gloss>
+<gloss>tenaciously</gloss>
+<gloss>doggedly</gloss>
+</entry>
+<entry>
+<reb>のこのこ</reb>
+<reb>ノコノコ</reb>
+<gloss>unconcernedly</gloss>
+<gloss>nonchalantly</gloss>
+<gloss>shamelessly</gloss>
+<gloss>brazenly</gloss>
+</entry>
+<entry>
+<reb>のそのそ</reb>
+<gloss>(move) slowly (e.g. walk)</gloss>
+<gloss>sluggishly</gloss>
+<gloss>stolidly</gloss>
+<gloss>ploddingly</gloss>
+<gloss>heavily</gloss>
+</entry>
+<entry>
+<reb>のぞみ</reb>
+<gloss>Nozomi</gloss>
+</entry>
+<entry>
+<keb>の度に</keb>
+<reb>のたびに</reb>
+<reb>のたんびに</reb>
+<gloss>on the occasion of</gloss>
+</entry>
+<entry>
+<reb>ので</reb>
+<reb>んで</reb>
+<gloss>that being the case</gloss>
+<gloss>because of ...</gloss>
+<gloss>the reason is ...</gloss>
+<gloss>given that ...</gloss>
+</entry>
+<entry>
+<reb>のに</reb>
+<gloss>although</gloss>
+<gloss>despite</gloss>
+<gloss>even though</gloss>
+<gloss>and yet</gloss>
+<gloss>whereas</gloss>
+<gloss>while</gloss>
+<gloss>if only</gloss>
+<gloss>I wish</gloss>
+<gloss>in order to</gloss>
+</entry>
+<entry>
+<reb>のみ</reb>
+<gloss>only</gloss>
+<gloss>nothing but</gloss>
+</entry>
+<entry>
+<reb>のみならず</reb>
+<gloss>not only ... (but also)</gloss>
+<gloss>not merely</gloss>
+<gloss>as well as</gloss>
+<gloss>furthermore</gloss>
+<gloss>besides</gloss>
+<gloss>moreover</gloss>
+<gloss>what's more</gloss>
+</entry>
+<entry>
+<keb>のめり込む</keb>
+<reb>のめりこむ</reb>
+<gloss>to be completely absorbed in</gloss>
+<gloss>to fall for (something)</gloss>
+</entry>
+<entry>
+<reb>のめる</reb>
+<gloss>to fall forward (of a person)</gloss>
+<gloss>to tumble forward</gloss>
+</entry>
+<entry>
+<keb>の様に</keb>
+<reb>のように</reb>
+<gloss>like</gloss>
+<gloss>similar to</gloss>
+<gloss>as with</gloss>
+<gloss>in the same way</gloss>
+</entry>
+<entry>
+<reb>のろのろ</reb>
+<gloss>slowly</gloss>
+<gloss>sluggishly</gloss>
+</entry>
+<entry>
+<reb>のんびり</reb>
+<reb>ノンビリ</reb>
+<gloss>at leisure</gloss>
+<gloss>in a relaxed manner</gloss>
+<gloss>in a carefree manner</gloss>
+<gloss>quietly</gloss>
+<gloss>peacefully</gloss>
+</entry>
+<entry>
+<reb>はい</reb>
+<reb>はーい</reb>
+<reb>はーーい</reb>
+<gloss>yes</gloss>
+<gloss>that is correct</gloss>
+<gloss>understood</gloss>
+<gloss>I see</gloss>
+<gloss>OK</gloss>
+<gloss>okay</gloss>
+<gloss>present</gloss>
+<gloss>here</gloss>
+<gloss>pardon?</gloss>
+<gloss>what's that?</gloss>
+<gloss>come again?</gloss>
+<gloss>now</gloss>
+<gloss>here</gloss>
+<gloss>here you go</gloss>
+<gloss>giddy-up</gloss>
+<gloss>giddap</gloss>
+</entry>
+<entry>
+<reb>はきはき</reb>
+<gloss>briskly</gloss>
+<gloss>smartly</gloss>
+<gloss>promptly</gloss>
+<gloss>clearly</gloss>
+<gloss>lucidly</gloss>
+</entry>
+<entry>
+<reb>ハクション</reb>
+<reb>はくしょん</reb>
+<reb>ハックション</reb>
+<reb>はっくしょん</reb>
+<gloss>achoo</gloss>
+<gloss>atishoo</gloss>
+</entry>
+<entry>
+<reb>はぐる</reb>
+<gloss>to roll up (e.g. sleeves)</gloss>
+<gloss>to turn over</gloss>
+</entry>
+<entry>
+<keb>逸る</keb>
+<reb>はぐる</reb>
+<gloss>to stray from</gloss>
+<gloss>to get lost</gloss>
+</entry>
+<entry>
+<keb>将又</keb>
+<reb>はたまた</reb>
+<gloss>or</gloss>
+</entry>
+<entry>
+<keb>はた迷惑</keb>
+<keb>傍迷惑</keb>
+<reb>はためいわく</reb>
+<gloss>nuisance to other people</gloss>
+<gloss>inconvenience to others</gloss>
+</entry>
+<entry>
+<reb>はちきん</reb>
+<gloss>strong independent Japanese woman from the Kochi area</gloss>
+</entry>
+<entry>
+<reb>はっきり</reb>
+<reb>ハッキリ</reb>
+<gloss>clearly</gloss>
+<gloss>plainly</gloss>
+<gloss>distinctly</gloss>
+<gloss>to be clear</gloss>
+<gloss>to be definite</gloss>
+<gloss>to be certain</gloss>
+<gloss>to be exact</gloss>
+<gloss>to become clear</gloss>
+<gloss>to clear up</gloss>
+</entry>
+<entry>
+<reb>ハッタリ</reb>
+<reb>はったり</reb>
+<gloss>bluff</gloss>
+</entry>
+<entry>
+<reb>はっと</reb>
+<reb>ハッと</reb>
+<gloss>with a start</gloss>
+<gloss>in surprise</gloss>
+<gloss>suddenly (realize, remember, etc.)</gloss>
+<gloss>all of a sudden</gloss>
+<gloss>puffing (air)</gloss>
+<gloss>with a puff</gloss>
+<gloss>suddenly (of a movement or change)</gloss>
+<gloss>standing out</gloss>
+<gloss>being showy</gloss>
+<gloss>being gaudy</gloss>
+</entry>
+<entry>
+<keb>はにかみ屋</keb>
+<keb>ハニカミ屋</keb>
+<reb>はにかみや</reb>
+<gloss>bashful person</gloss>
+<gloss>very shy person</gloss>
+</entry>
+<entry>
+<keb>含羞む</keb>
+<keb>羞恥む</keb>
+<keb>羞む</keb>
+<reb>はにかむ</reb>
+<gloss>to be shy</gloss>
+<gloss>to be bashful</gloss>
+<gloss>to look shy</gloss>
+</entry>
+<entry>
+<keb>蔓延る</keb>
+<keb>蔓る</keb>
+<reb>はびこる</reb>
+<gloss>to become overgrown</gloss>
+<gloss>to grow thick</gloss>
+<gloss>to spread</gloss>
+<gloss>to run rampant</gloss>
+<gloss>to thrive</gloss>
+<gloss>to prevail</gloss>
+<gloss>to become powerful</gloss>
+</entry>
+<entry>
+<keb>はめ倒す</keb>
+<reb>はめたおす</reb>
+<gloss>to make love</gloss>
+</entry>
+<entry>
+<keb>半片</keb>
+<keb>半平</keb>
+<reb>はんぺん</reb>
+<reb>はんぺい</reb>
+<gloss>pounded fish cake</gloss>
+<gloss>half a slice</gloss>
+<gloss>half a ticket</gloss>
+<gloss>ticket stub</gloss>
+</entry>
+<entry>
+<keb>許り</keb>
+<keb>許</keb>
+<reb>ばかり</reb>
+<reb>ばっかり</reb>
+<gloss>only</gloss>
+<gloss>merely</gloss>
+<gloss>nothing but</gloss>
+<gloss>no more than</gloss>
+<gloss>approximately</gloss>
+<gloss>about</gloss>
+<gloss>just (finished, etc.)</gloss>
+<gloss>as if to</gloss>
+<gloss>(as though) about to</gloss>
+<gloss>going to</gloss>
+<gloss>on the point of</gloss>
+<gloss>at any minute</gloss>
+<gloss>indicates emphasis</gloss>
+<gloss>always</gloss>
+<gloss>constantly</gloss>
+</entry>
+<entry>
+<keb>許りに</keb>
+<reb>ばかりに</reb>
+<gloss>(simply) because</gloss>
+<gloss>on account of</gloss>
+<gloss>as if to</gloss>
+<gloss>(as though) about to</gloss>
+</entry>
+<entry>
+<reb>ばさばさ</reb>
+<reb>バサバサ</reb>
+<gloss>rustling</gloss>
+<gloss>flapping</gloss>
+<gloss>fluttering</gloss>
+<gloss>unkempt (hair, etc.)</gloss>
+<gloss>loose</gloss>
+<gloss>dishevelled</gloss>
+<gloss>dry</gloss>
+<gloss>decisively</gloss>
+<gloss>with a whack</gloss>
+</entry>
+<entry>
+<reb>バッチリ</reb>
+<reb>ばっちり</reb>
+<gloss>perfectly</gloss>
+<gloss>right on the mark</gloss>
+<gloss>spot on</gloss>
+<gloss>bang on</gloss>
+<gloss>enough</gloss>
+<gloss>sufficiently</gloss>
+<gloss>thoroughly</gloss>
+<gloss>completely</gloss>
+</entry>
+<entry>
+<keb>バツ１</keb>
+<keb>罰一</keb>
+<keb>ばつ一</keb>
+<reb>ばついち</reb>
+<reb>バツイチ</reb>
+<gloss>being once divorced</gloss>
+<gloss>one-time divorcee</gloss>
+</entry>
+<entry>
+<reb>バテる</reb>
+<reb>ばてる</reb>
+<gloss>to be exhausted</gloss>
+<gloss>to be worn out</gloss>
+</entry>
+<entry>
+<keb>糞</keb>
+<keb>屎</keb>
+<reb>ばば</reb>
+<gloss>shit</gloss>
+<gloss>crap</gloss>
+<gloss>pooh-pooh</gloss>
+<gloss>poop</gloss>
+<gloss>something dirty</gloss>
+</entry>
+<entry>
+<keb>薔薇薔薇</keb>
+<reb>バラバラ</reb>
+<reb>ばらばら</reb>
+<gloss>scattered</gloss>
+<gloss>disperse</gloss>
+<gloss>loose</gloss>
+<gloss>disconnected</gloss>
+<gloss>in pieces</gloss>
+<gloss>in drops</gloss>
+<gloss>rustling</gloss>
+</entry>
+<entry>
+<keb>ばら荷</keb>
+<keb>散荷</keb>
+<reb>ばらに</reb>
+<gloss>bulk goods</gloss>
+<gloss>bulk cargo</gloss>
+</entry>
+<entry>
+<reb>バリバリ</reb>
+<reb>ばりばり</reb>
+<gloss>vigorously (ripping, tearing, scratching, etc.)</gloss>
+<gloss>roughly</gloss>
+<gloss>with a rip</gloss>
+<gloss>(eating) with a crunch</gloss>
+<gloss>stiff</gloss>
+<gloss>starchy</gloss>
+<gloss>crisp</gloss>
+<gloss>(working) hard</gloss>
+<gloss>energetically</gloss>
+<gloss>vigorously</gloss>
+<gloss>furiously</gloss>
+<gloss>with a series of loud, repeated sounds (e.g. firing a machine gun, revving an engine)</gloss>
+<gloss>with a lot of (continuous) noise</gloss>
+</entry>
+<entry>
+<reb>ばれる</reb>
+<reb>バレる</reb>
+<gloss>to leak out (of a secret)</gloss>
+<gloss>to come out</gloss>
+<gloss>to be exposed (of a lie, improper behaviour, etc.)</gloss>
+<gloss>to be found out</gloss>
+<gloss>to be discovered</gloss>
+<gloss>to get away (of a fish)</gloss>
+</entry>
+<entry>
+<reb>パイオツ</reb>
+<reb>ぱいおつ</reb>
+<gloss>boobs</gloss>
+<gloss>tits</gloss>
+</entry>
+<entry>
+<keb>パイ擦り</keb>
+<keb>パイ刷り</keb>
+<reb>パイズリ</reb>
+<reb>ぱいずり</reb>
+<gloss>titfuck</gloss>
+<gloss>titty fuck</gloss>
+<gloss>titjob</gloss>
+<gloss>boobjob</gloss>
+<gloss>paizuri</gloss>
+</entry>
+<entry>
+<reb>ぱくぱく</reb>
+<reb>パクパク</reb>
+<gloss>repeatedly opening and closing (one's mouth)</gloss>
+<gloss>gasping</gloss>
+<gloss>flapping (e.g. shoe sole)</gloss>
+<gloss>gaping open and shut</gloss>
+<gloss>heartily (eating)</gloss>
+<gloss>devouring</gloss>
+<gloss>munching</gloss>
+<gloss>gobbling</gloss>
+</entry>
+<entry>
+<reb>ぱちくり</reb>
+<reb>パチクリ</reb>
+<gloss>blinking (in surprise)</gloss>
+</entry>
+<entry>
+<reb>ぱちっ</reb>
+<gloss>snapping (e.g. fingers) sound</gloss>
+<gloss>with a pop</gloss>
+</entry>
+<entry>
+<reb>パクリ</reb>
+<reb>ぱくり</reb>
+<reb>ぱっくり</reb>
+<reb>パックリ</reb>
+<reb>ばっくり</reb>
+<reb>パクり</reb>
+<gloss>gaping (e.g. mouth, wound)</gloss>
+<gloss>(opening) wide</gloss>
+<gloss>snapping up (e.g. bait)</gloss>
+<gloss>biting into (food)</gloss>
+<gloss>gobbling up</gloss>
+<gloss>plagiarism</gloss>
+<gloss>rip-off</gloss>
+<gloss>lifting</gloss>
+<gloss>cribbing</gloss>
+</entry>
+<entry>
+<reb>ぱっちり</reb>
+<gloss>wide open (of eyes)</gloss>
+<gloss>large and bright (eyes)</gloss>
+</entry>
+<entry>
+<reb>パッと</reb>
+<reb>ぱっと</reb>
+<reb>パっと</reb>
+<gloss>suddenly</gloss>
+<gloss>in a flash</gloss>
+<gloss>quickly</gloss>
+<gloss>rapidly</gloss>
+<gloss>swiftly</gloss>
+<gloss>nimbly</gloss>
+<gloss>conspicuously</gloss>
+<gloss>prominently</gloss>
+<gloss>showily</gloss>
+<gloss>attractively</gloss>
+<gloss>impressively</gloss>
+</entry>
+<entry>
+<reb>パリパリ</reb>
+<reb>ぱりぱり</reb>
+<gloss>crispy</gloss>
+<gloss>crunchy</gloss>
+<gloss>tearing</gloss>
+<gloss>ripping</gloss>
+<gloss>cracking</gloss>
+<gloss>spirited</gloss>
+<gloss>energetic</gloss>
+<gloss>vigorous</gloss>
+<gloss>brand-new and high quality (clothing)</gloss>
+<gloss>well-starched</gloss>
+<gloss>crisp (bill)</gloss>
+</entry>
+<entry>
+<reb>パンパン</reb>
+<reb>ぱんぱん</reb>
+<gloss>kapow</gloss>
+<gloss>bang</gloss>
+<gloss>slap</gloss>
+<gloss>clap</gloss>
+<gloss>bulging</gloss>
+<gloss>filled to bursting</gloss>
+<gloss>prostitute (catering to Occupation soldiers in Japan after WWII)</gloss>
+</entry>
+<entry>
+<keb>延いては</keb>
+<reb>ひいては</reb>
+<gloss>by extension</gloss>
+<gloss>in turn</gloss>
+<gloss>by the same token</gloss>
+<gloss>in addition</gloss>
+<gloss>as well</gloss>
+<gloss>consequently</gloss>
+</entry>
+<entry>
+<reb>ひかり</reb>
+<gloss>Hikari</gloss>
+</entry>
+<entry>
+<reb>ひくひく</reb>
+<gloss>twitching</gloss>
+</entry>
+<entry>
+<keb>犇々</keb>
+<keb>犇犇</keb>
+<keb>緊緊</keb>
+<keb>緊々</keb>
+<reb>ひしひし</reb>
+<reb>ヒシヒシ</reb>
+<gloss>acutely (feel)</gloss>
+<gloss>keenly</gloss>
+<gloss>severely</gloss>
+<gloss>tightly</gloss>
+<gloss>hard</gloss>
+</entry>
+<entry>
+<keb>犇めき</keb>
+<reb>ひしめき</reb>
+<gloss>clamour</gloss>
+<gloss>crowd</gloss>
+<gloss>jostle</gloss>
+</entry>
+<entry>
+<reb>ヒソヒソ</reb>
+<reb>ひそひそ</reb>
+<gloss>in a whisper</gloss>
+<gloss>in a low voice</gloss>
+<gloss>in undertones</gloss>
+</entry>
+<entry>
+<keb>只管</keb>
+<keb>一向</keb>
+<keb>頓</keb>
+<reb>ひたすら</reb>
+<gloss>intently</gloss>
+<gloss>single-mindedly</gloss>
+<gloss>devotedly</gloss>
+<gloss>solely</gloss>
+<gloss>earnestly</gloss>
+<gloss>with all one's heart</gloss>
+</entry>
+<entry>
+<keb>直向き</keb>
+<keb>直向</keb>
+<reb>ひたむき</reb>
+<gloss>earnest</gloss>
+<gloss>single-minded</gloss>
+</entry>
+<entry>
+<reb>ひっそり</reb>
+<gloss>quiet (place)</gloss>
+<gloss>still</gloss>
+<gloss>silent</gloss>
+<gloss>deserted</gloss>
+<gloss>inconspicuously</gloss>
+<gloss>modestly</gloss>
+<gloss>quietly</gloss>
+</entry>
+<entry>
+<keb>引ったくり</keb>
+<keb>引っ手繰り</keb>
+<reb>ひったくり</reb>
+<gloss>purse snatching</gloss>
+<gloss>handbag snatching</gloss>
+<gloss>purse snatcher</gloss>
+<gloss>handbag snatcher</gloss>
+</entry>
+<entry>
+<keb>罅</keb>
+<reb>ひび</reb>
+<reb>ヒビ</reb>
+<gloss>crack</gloss>
+<gloss>fissure</gloss>
+<gloss>rift (in a relationship)</gloss>
+<gloss>split</gloss>
+<gloss>crack</gloss>
+</entry>
+<entry>
+<reb>ひょいと</reb>
+<gloss>suddenly</gloss>
+<gloss>unexpectedly</gloss>
+<gloss>by chance</gloss>
+<gloss>accidentally</gloss>
+<gloss>casually</gloss>
+<gloss>lightly</gloss>
+<gloss>nimbly</gloss>
+<gloss>with agility</gloss>
+</entry>
+<entry>
+<reb>ひょこひょこ</reb>
+<gloss>unsteady steps</gloss>
+<gloss>bobbing</gloss>
+</entry>
+<entry>
+<reb>ひょっこり</reb>
+<reb>ひょっくり</reb>
+<gloss>all of a sudden</gloss>
+<gloss>suddenly</gloss>
+<gloss>by chance</gloss>
+<gloss>unexpectedly</gloss>
+</entry>
+<entry>
+<reb>ひょっと</reb>
+<gloss>possibly</gloss>
+<gloss>perhaps</gloss>
+<gloss>perchance</gloss>
+<gloss>unintentionally</gloss>
+<gloss>accidentally</gloss>
+</entry>
+<entry>
+<reb>ひょっとすると</reb>
+<gloss>perhaps</gloss>
+<gloss>maybe</gloss>
+<gloss>possibly</gloss>
+</entry>
+<entry>
+<reb>ひょろひょろ</reb>
+<gloss>totteringly</gloss>
+<gloss>staggeringly</gloss>
+<gloss>unsteadily</gloss>
+<gloss>lanky</gloss>
+<gloss>spindly</gloss>
+<gloss>slender</gloss>
+<gloss>frail</gloss>
+</entry>
+<entry>
+<reb>ひょろり</reb>
+<gloss>tall and thin</gloss>
+<gloss>long and thin</gloss>
+<gloss>lanky</gloss>
+<gloss>spindly</gloss>
+<gloss>gangly</gloss>
+</entry>
+<entry>
+<reb>ひらひら</reb>
+<reb>ヒラヒラ</reb>
+<gloss>fluttering</gloss>
+<gloss>flapping</gloss>
+<gloss>waving</gloss>
+<gloss>flickering (light, flame, etc.)</gloss>
+<gloss>frill</gloss>
+<gloss>piece of thin material</gloss>
+</entry>
+<entry>
+<reb>ヒリヒリ</reb>
+<reb>ひりひり</reb>
+<gloss>stinging (pain)</gloss>
+<gloss>smarting</gloss>
+<gloss>tingling</gloss>
+</entry>
+<entry>
+<keb>冷んやり</keb>
+<reb>ひんやり</reb>
+<gloss>cool</gloss>
+<gloss>chilly</gloss>
+<gloss>feeling nice and cold</gloss>
+</entry>
+<entry>
+<keb>ひ弱い</keb>
+<reb>ひよわい</reb>
+<gloss>weak</gloss>
+<gloss>sickly</gloss>
+</entry>
+<entry>
+<reb>びくともしない</reb>
+<reb>ビクともしない</reb>
+<gloss>unperturbed</gloss>
+<gloss>undaunted</gloss>
+<gloss>retaining composure</gloss>
+<gloss>unyielding</gloss>
+<gloss>not giving an inch</gloss>
+</entry>
+<entry>
+<reb>ビクビク</reb>
+<reb>びくびく</reb>
+<gloss>being afraid of</gloss>
+<gloss>being fearful</gloss>
+<gloss>being timid</gloss>
+<gloss>being nervous</gloss>
+<gloss>trembling</gloss>
+<gloss>shivering</gloss>
+</entry>
+<entry>
+<reb>びしびし</reb>
+<gloss>stickily</gloss>
+<gloss>relentlessly</gloss>
+</entry>
+<entry>
+<reb>びしょびしょ</reb>
+<reb>びちょびちょ</reb>
+<reb>ビショビショ</reb>
+<reb>ビチョビチョ</reb>
+<gloss>soaked</gloss>
+<gloss>drenched</gloss>
+<gloss>sopping</gloss>
+<gloss>soppy</gloss>
+<gloss>wet</gloss>
+<gloss>incessantly (raining)</gloss>
+<gloss>drizzling</gloss>
+</entry>
+<entry>
+<reb>びっしょり</reb>
+<gloss>wet through</gloss>
+<gloss>drenched</gloss>
+</entry>
+<entry>
+<reb>びっしり</reb>
+<reb>ビッシリ</reb>
+<gloss>closely (packed, lined up, etc.)</gloss>
+<gloss>tightly</gloss>
+<gloss>densely</gloss>
+<gloss>(work) sufficiently</gloss>
+</entry>
+<entry>
+<reb>びらびら</reb>
+<reb>ビラビラ</reb>
+<gloss>fluttering (esp. of thick or heavy material)</gloss>
+<gloss>piece of dangling cloth, paper, metal, etc.</gloss>
+<gloss>labia minora</gloss>
+<gloss>inner lips</gloss>
+</entry>
+<entry>
+<reb>ビリ</reb>
+<reb>びり</reb>
+<gloss>last (on the list)</gloss>
+<gloss>(at the) bottom</gloss>
+<gloss>(in) last position</gloss>
+<gloss>tailender</gloss>
+</entry>
+<entry>
+<reb>ビリビリ</reb>
+<reb>びりびり</reb>
+<gloss>(tear) to pieces</gloss>
+<gloss>(rip) apart</gloss>
+<gloss>(rip) up</gloss>
+<gloss>(rip) open</gloss>
+<gloss>with a rattle</gloss>
+<gloss>with a shudder</gloss>
+<gloss>trembling</gloss>
+<gloss>feeling an electric shock</gloss>
+</entry>
+<entry>
+<reb>ビンタ</reb>
+<reb>びんた</reb>
+<reb>ピンタ</reb>
+<reb>ぴんた</reb>
+<gloss>slap (in the face)</gloss>
+</entry>
+<entry>
+<reb>ピカピカ</reb>
+<reb>ぴかぴか</reb>
+<reb>ピッカピカ</reb>
+<reb>ぴっかぴか</reb>
+<reb>ビカビカ</reb>
+<reb>びかびか</reb>
+<gloss>with a glitter</gloss>
+<gloss>with a sparkle</gloss>
+<gloss>brand new</gloss>
+<gloss>shiny and new</gloss>
+<gloss>cleaned (of a plate, etc.)</gloss>
+<gloss>finished</gloss>
+</entry>
+<entry>
+<keb>ピカピカ光る</keb>
+<keb>ぴかぴか光る</keb>
+<reb>ピカピカひかる</reb>
+<reb>ぴかぴかひかる</reb>
+<gloss>to sparkle</gloss>
+<gloss>to glitter</gloss>
+<gloss>to twinkle</gloss>
+</entry>
+<entry>
+<keb>ピクピク動く</keb>
+<keb>ぴくぴく動く</keb>
+<reb>ピクピクうごく</reb>
+<reb>ぴくぴくうごく</reb>
+<gloss>to jerk</gloss>
+<gloss>to wiggle</gloss>
+<gloss>to twitch</gloss>
+</entry>
+<entry>
+<reb>ピクリ</reb>
+<reb>ぴくり</reb>
+<gloss>with a twitch (e.g. an eyebrow)</gloss>
+<gloss>with a dip</gloss>
+<gloss>with a bob</gloss>
+<gloss>with a flutter</gloss>
+</entry>
+<entry>
+<reb>ピシッと</reb>
+<reb>ぴしっと</reb>
+<gloss>with a crack</gloss>
+<gloss>with a snap</gloss>
+<gloss>with a slam</gloss>
+<gloss>firmly</gloss>
+<gloss>sharply</gloss>
+<gloss>sternly</gloss>
+<gloss>precisely</gloss>
+<gloss>properly</gloss>
+<gloss>neatly</gloss>
+<gloss>tidily</gloss>
+</entry>
+<entry>
+<reb>ぴしゃり</reb>
+<reb>ピシャリ</reb>
+<gloss>slapping</gloss>
+<gloss>splashing</gloss>
+<gloss>splatting</gloss>
+<gloss>banging shut</gloss>
+<gloss>flat (refusal, denial, etc.)</gloss>
+</entry>
+<entry>
+<reb>ぴちぴち</reb>
+<reb>ピチピチ</reb>
+<gloss>bursting with youth and energy (esp. young woman)</gloss>
+<gloss>vivaciously young</gloss>
+<gloss>spunky</gloss>
+<gloss>energetic</gloss>
+<gloss>(fish) jumping around energetically (e.g. when caught in a net)</gloss>
+<gloss>bursting (e.g. seams)</gloss>
+<gloss>tight</gloss>
+<gloss>splattering (e.g. cooking oil)</gloss>
+</entry>
+<entry>
+<reb>ぴったり</reb>
+<reb>ピッタリ</reb>
+<reb>ぴたり</reb>
+<reb>ピタリ</reb>
+<reb>ぴったし</reb>
+<reb>ピッタシ</reb>
+<gloss>tightly</gloss>
+<gloss>closely</gloss>
+<gloss>exactly</gloss>
+<gloss>precisely</gloss>
+<gloss>suddenly (stopping)</gloss>
+<gloss>perfectly (suited)</gloss>
+<gloss>ideally</gloss>
+</entry>
+<entry>
+<reb>ぴょんぴょん</reb>
+<reb>ピョンピョン</reb>
+<gloss>hopping</gloss>
+<gloss>skipping</gloss>
+<gloss>lightly and repeatedly jumping</gloss>
+</entry>
+<entry>
+<keb>ピヨピヨ鳴く</keb>
+<keb>ぴよぴよ鳴く</keb>
+<reb>ピヨピヨなく</reb>
+<reb>ぴよぴよなく</reb>
+<gloss>to peep</gloss>
+<gloss>to cheep</gloss>
+</entry>
+<entry>
+<reb>ぴりっとくる</reb>
+<gloss>pungent</gloss>
+<gloss>biting</gloss>
+<gloss>racy</gloss>
+<gloss>hot</gloss>
+</entry>
+<entry>
+<reb>ピリピリ</reb>
+<reb>ぴりぴり</reb>
+<gloss>with a sting</gloss>
+<gloss>with a tingle</gloss>
+<gloss>with a burn</gloss>
+<gloss>smartingly</gloss>
+<gloss>nervously</gloss>
+<gloss>tensely</gloss>
+<gloss>(while) on edge</gloss>
+<gloss>with a rip</gloss>
+<gloss>with a ripping sound</gloss>
+<gloss>with a tearing sound</gloss>
+<gloss>with a shrill sound (of a whistle)</gloss>
+<gloss>quiveringly</gloss>
+<gloss>tremblingly</gloss>
+</entry>
+<entry>
+<reb>ぴんぴん</reb>
+<reb>ピンピン</reb>
+<gloss>lively</gloss>
+<gloss>energetic</gloss>
+<gloss>full of life</gloss>
+<gloss>vigorously (jumping, flopping, etc.)</gloss>
+<gloss>piercing (e.g. sound)</gloss>
+<gloss>penetrating</gloss>
+<gloss>grating</gloss>
+</entry>
+<entry>
+<reb>フーフー</reb>
+<reb>ふうふう</reb>
+<reb>ふーふー</reb>
+<reb>フウフウ</reb>
+<reb>フゥフゥ</reb>
+<gloss>blowing repeatedly (e.g. to cool something down)</gloss>
+<gloss>huffing and puffing</gloss>
+<gloss>puffing and panting</gloss>
+<gloss>gasping</gloss>
+<gloss>struggling (with work, studies, etc.)</gloss>
+<gloss>having difficulty</gloss>
+</entry>
+<entry>
+<keb>吹かす</keb>
+<reb>ふかす</reb>
+<gloss>to smoke (a cigarette, pipe, etc.)</gloss>
+<gloss>to puff on</gloss>
+<gloss>to puff out (smoke)</gloss>
+<gloss>to rev (an engine)</gloss>
+<gloss>to race</gloss>
+<gloss>to put on (an air of)</gloss>
+<gloss>to act in a ... way</gloss>
+<gloss>to behave as</gloss>
+<gloss>to play (the role of)</gloss>
+<gloss>to shoot (a ball) too high</gloss>
+<gloss>to blast over the bar</gloss>
+</entry>
+<entry>
+<keb>袱紗</keb>
+<keb>帛紗</keb>
+<keb>服紗</keb>
+<reb>ふくさ</reb>
+<gloss>small silk wrapper</gloss>
+<gloss>small cloth for wiping tea utensils</gloss>
+<gloss>crepe wrapper</gloss>
+</entry>
+<entry>
+<keb>膨よか</keb>
+<keb>脹よか</keb>
+<reb>ふくよか</reb>
+<gloss>plump</gloss>
+<gloss>fleshy</gloss>
+<gloss>well-rounded</gloss>
+<gloss>full</gloss>
+<gloss>pleasant (fragrance)</gloss>
+<gloss>rich</gloss>
+</entry>
+<entry>
+<reb>ふしだら</reb>
+<gloss>loose</gloss>
+<gloss>immoral</gloss>
+<gloss>dissolute</gloss>
+<gloss>dissipated</gloss>
+<gloss>licentious</gloss>
+<gloss>fast</gloss>
+<gloss>slovenly</gloss>
+<gloss>untidy</gloss>
+<gloss>messy</gloss>
+</entry>
+<entry>
+<keb>吹っ切れる</keb>
+<keb>ふっ切れる</keb>
+<keb>吹っきれる</keb>
+<reb>ふっきれる</reb>
+<gloss>to be dispelled (of doubts, ill feeling, etc.)</gloss>
+<gloss>to disappear</gloss>
+<gloss>to be put behind one</gloss>
+<gloss>to burst (of a boil, abscess, etc.)</gloss>
+</entry>
+<entry>
+<keb>太々しい</keb>
+<keb>太太しい</keb>
+<reb>ふてぶてしい</reb>
+<gloss>impudent</gloss>
+<gloss>brazen</gloss>
+<gloss>shameless</gloss>
+<gloss>bold</gloss>
+</entry>
+<entry>
+<reb>ふにゃふにゃ</reb>
+<reb>フニャフニャ</reb>
+<gloss>limpness</gloss>
+<gloss>soft</gloss>
+<gloss>limp</gloss>
+<gloss>flabby</gloss>
+<gloss>mumbling</gloss>
+<gloss>talking with food in one's mouth</gloss>
+</entry>
+<entry>
+<reb>ふらっと</reb>
+<gloss>aimlessly</gloss>
+<gloss>by chance</gloss>
+<gloss>accidentally</gloss>
+<gloss>casually</gloss>
+<gloss>suddenly</gloss>
+<gloss>unexpectedly</gloss>
+</entry>
+<entry>
+<reb>ふらふら</reb>
+<reb>フラフラ</reb>
+<gloss>unsteadily (e.g. on one's feet)</gloss>
+<gloss>shakily</gloss>
+<gloss>staggering</gloss>
+<gloss>tottering</gloss>
+<gloss>reeling</gloss>
+<gloss>dizzily</gloss>
+<gloss>giddily</gloss>
+<gloss>wavering (in one's mind)</gloss>
+<gloss>unsteadily</gloss>
+<gloss>indecisively</gloss>
+<gloss>aimlessly</gloss>
+<gloss>unconsciously</gloss>
+<gloss>whimsically</gloss>
+<gloss>without thinking</gloss>
+</entry>
+<entry>
+<reb>ふらり</reb>
+<gloss>aimlessly</gloss>
+<gloss>unexpectedly (showing up)</gloss>
+<gloss>slowly swaying</gloss>
+<gloss>staggering</gloss>
+<gloss>moving feebly</gloss>
+</entry>
+<entry>
+<reb>ふわっと</reb>
+<reb>フワッと</reb>
+<reb>ふわーっと</reb>
+<reb>フワーっと</reb>
+<reb>フワーと</reb>
+<gloss>floatingly</gloss>
+<gloss>driftingly</gloss>
+<gloss>with a sense of weightlessness</gloss>
+<gloss>softly</gloss>
+<gloss>gently</gloss>
+<gloss>lightly</gloss>
+<gloss>restlessly</gloss>
+<gloss>uncertainly</gloss>
+<gloss>unconfidently</gloss>
+<gloss>nervously</gloss>
+</entry>
+<entry>
+<reb>ふわり</reb>
+<reb>ふうわり</reb>
+<reb>ふーわり</reb>
+<gloss>softly</gloss>
+<gloss>gently</gloss>
+<gloss>lightly</gloss>
+</entry>
+<entry>
+<reb>ふんだん</reb>
+<gloss>plentiful</gloss>
+<gloss>abundant</gloss>
+<gloss>ample</gloss>
+<gloss>lavish</gloss>
+</entry>
+<entry>
+<reb>ふんなんに</reb>
+<gloss>in plenty</gloss>
+<gloss>fully</gloss>
+</entry>
+<entry>
+<reb>ブーブー</reb>
+<reb>ぶーぶー</reb>
+<reb>ぶうぶう</reb>
+<reb>ブウブウ</reb>
+<gloss>bugling (sound)</gloss>
+<gloss>honking</gloss>
+<gloss>oinking</gloss>
+<gloss>vibrating (e.g. phone)</gloss>
+<gloss>grumbling</gloss>
+<gloss>complaining</gloss>
+<gloss>car</gloss>
+<gloss>automobile</gloss>
+</entry>
+<entry>
+<reb>ぶかぶか</reb>
+<reb>ブカブカ</reb>
+<gloss>too large (clothing)</gloss>
+<gloss>baggy</gloss>
+<gloss>loose-fitting</gloss>
+<gloss>bulging</gloss>
+<gloss>warping</gloss>
+<gloss>parp</gloss>
+<gloss>toot</gloss>
+<gloss>blast</gloss>
+</entry>
+<entry>
+<reb>ぶくぶく</reb>
+<reb>ブクブク</reb>
+<gloss>bulging</gloss>
+<gloss>swelling (e.g. with water)</gloss>
+<gloss>loose-fitting or baggy (clothing)</gloss>
+<gloss>bubbling</gloss>
+<gloss>foaming</gloss>
+</entry>
+<entry>
+<keb>ブチ撒ける</keb>
+<keb>打ち撒ける</keb>
+<keb>ぶち撒ける</keb>
+<keb>打ちまける</keb>
+<keb>打まける</keb>
+<reb>ぶちまける</reb>
+<reb>ブチまける</reb>
+<gloss>to dump (e.g. onto the floor)</gloss>
+<gloss>to empty by overturning</gloss>
+<gloss>to throw out (the contents)</gloss>
+<gloss>to tell everything</gloss>
+<gloss>to open one's heart</gloss>
+<gloss>to reveal (a secret, the truth, etc.)</gloss>
+<gloss>to vent (e.g. one's anger)</gloss>
+</entry>
+<entry>
+<keb>ぶっきら棒</keb>
+<reb>ぶっきらぼう</reb>
+<gloss>curt</gloss>
+<gloss>blunt</gloss>
+<gloss>brusque</gloss>
+</entry>
+<entry>
+<keb>ぶっ通し</keb>
+<keb>打っ通し</keb>
+<reb>ぶっとおし</reb>
+<gloss>continuous</gloss>
+<gloss>nonstop</gloss>
+<gloss>consecutive</gloss>
+<gloss>ceaseless</gloss>
+<gloss>removing partitions (to create an open space)</gloss>
+<gloss>joining separate rooms into one</gloss>
+</entry>
+<entry>
+<reb>ぶつかる</reb>
+<reb>ぶっつかる</reb>
+<gloss>to bump into</gloss>
+<gloss>to run into</gloss>
+<gloss>to collide with</gloss>
+<gloss>to hit</gloss>
+<gloss>to strike</gloss>
+<gloss>to encounter</gloss>
+<gloss>to meet with</gloss>
+<gloss>to come upon</gloss>
+<gloss>to face</gloss>
+<gloss>to run up against</gloss>
+<gloss>to be confronted with</gloss>
+<gloss>to clash (of opinions, people, etc.)</gloss>
+<gloss>to conflict</gloss>
+<gloss>to be at odds (with)</gloss>
+<gloss>to clash (of events)</gloss>
+<gloss>to fall (on)</gloss>
+<gloss>to occur at the same time (as)</gloss>
+<gloss>to tackle head-on (a difficulty)</gloss>
+<gloss>to confront boldly</gloss>
+</entry>
+<entry>
+<keb>打ち付ける</keb>
+<keb>打ちつける</keb>
+<keb>打付ける</keb>
+<reb>うちつける</reb>
+<gloss>to nail (to something)</gloss>
+<gloss>to nail down</gloss>
+<gloss>to fasten (to)</gloss>
+<gloss>to drive (a nail; into)</gloss>
+<gloss>to bang (e.g. one's head)</gloss>
+<gloss>to knock</gloss>
+<gloss>to hit</gloss>
+<gloss>to beat (against, on)</gloss>
+<gloss>to batter</gloss>
+<gloss>to throw (at a wall, on the floor, etc.)</gloss>
+<gloss>to fling (at)</gloss>
+</entry>
+<entry>
+<reb>ぶつぶつ</reb>
+<reb>ブツブツ</reb>
+<gloss>grunt</gloss>
+<gloss>grumble</gloss>
+<gloss>complaint</gloss>
+<gloss>mutter</gloss>
+<gloss>pimples</gloss>
+<gloss>spots</gloss>
+<gloss>eruption</gloss>
+<gloss>rash</gloss>
+<gloss>cutting into small pieces</gloss>
+<gloss>simmering</gloss>
+</entry>
+<entry>
+<reb>ブヨブヨ</reb>
+<reb>ぶよぶよ</reb>
+<gloss>soft</gloss>
+<gloss>flabby</gloss>
+<gloss>spongy</gloss>
+<gloss>mushy</gloss>
+<gloss>soggy</gloss>
+</entry>
+<entry>
+<reb>ぶらつく</reb>
+<reb>ブラつく</reb>
+<gloss>to stroll about</gloss>
+<gloss>to saunter</gloss>
+<gloss>to wander</gloss>
+<gloss>to ramble</gloss>
+<gloss>to hang around</gloss>
+<gloss>to linger</gloss>
+<gloss>to dangle</gloss>
+<gloss>to swing</gloss>
+</entry>
+<entry>
+<reb>ぶらぶら</reb>
+<reb>ブラブラ</reb>
+<gloss>dangling</gloss>
+<gloss>swaying</gloss>
+<gloss>swinging</gloss>
+<gloss>(walking) leisurely</gloss>
+<gloss>aimlessly</gloss>
+<gloss>strolling</gloss>
+<gloss>wandering</gloss>
+<gloss>rambling</gloss>
+<gloss>idly</gloss>
+<gloss>lazily</gloss>
+<gloss>leisurely</gloss>
+<gloss>aimlessly</gloss>
+</entry>
+<entry>
+<keb>ぶら下がる</keb>
+<reb>ぶらさがる</reb>
+<gloss>to hang down (from)</gloss>
+<gloss>to dangle</gloss>
+<gloss>to swing</gloss>
+<gloss>to be suspended</gloss>
+<gloss>to be within one's reach</gloss>
+<gloss>to dangle (before one's eyes)</gloss>
+<gloss>to be completely reliant on</gloss>
+<gloss>to be entirely dependent on</gloss>
+</entry>
+<entry>
+<keb>ぶら下げる</keb>
+<reb>ぶらさげる</reb>
+<gloss>to hang</gloss>
+<gloss>to suspend</gloss>
+<gloss>to dangle</gloss>
+<gloss>to swing</gloss>
+<gloss>to carry</gloss>
+</entry>
+<entry>
+<reb>ぶるぶる</reb>
+<reb>ブルブル</reb>
+<gloss>trembling (with fear, anger, etc.)</gloss>
+<gloss>shivering (with cold)</gloss>
+<gloss>shaking</gloss>
+<gloss>quivering</gloss>
+</entry>
+<entry>
+<reb>ぶれ</reb>
+<reb>ブレ</reb>
+<gloss>camera shake</gloss>
+<gloss>picture blur</gloss>
+<gloss>deviation</gloss>
+<gloss>slight shifting</gloss>
+</entry>
+<entry>
+<reb>ぶれる</reb>
+<reb>ブレる</reb>
+<gloss>to be blurred (due to motion; of a photo, video, etc.)</gloss>
+<gloss>to be shaken (of a camera)</gloss>
+<gloss>to waver (in one's beliefs, policy, etc.)</gloss>
+<gloss>to shift (position)</gloss>
+<gloss>to be slightly off</gloss>
+</entry>
+<entry>
+<keb>凹たれる</keb>
+<keb>凹垂れる</keb>
+<reb>へこたれる</reb>
+<gloss>to lose heart</gloss>
+<gloss>to be discouraged</gloss>
+<gloss>to be dejected</gloss>
+<gloss>to be exhausted</gloss>
+<gloss>to be tired out</gloss>
+</entry>
+<entry>
+<keb>蔕</keb>
+<reb>へた</reb>
+<reb>ほぞ</reb>
+<gloss>calyx</gloss>
+</entry>
+<entry>
+<reb>へたばる</reb>
+<gloss>to be exhausted</gloss>
+<gloss>to be tired out</gloss>
+<gloss>to be worn out</gloss>
+<gloss>to collapse (from exhaustion)</gloss>
+<gloss>to be discouraged</gloss>
+<gloss>to lose heart</gloss>
+<gloss>to give in</gloss>
+</entry>
+<entry>
+<reb>ヘトヘト</reb>
+<reb>へとへと</reb>
+<gloss>completely exhausted</gloss>
+<gloss>dead tired</gloss>
+<gloss>knackered</gloss>
+</entry>
+<entry>
+<reb>へなへな</reb>
+<reb>ヘナヘナ</reb>
+<gloss>weakly</gloss>
+<gloss>helplessly</gloss>
+<gloss>weak</gloss>
+<gloss>flimsy</gloss>
+<gloss>easy to bend</gloss>
+</entry>
+<entry>
+<keb>へばり付く</keb>
+<reb>へばりつく</reb>
+<gloss>to cling to</gloss>
+<gloss>to stick to</gloss>
+<gloss>to lie flat (e.g. on the ground)</gloss>
+</entry>
+<entry>
+<reb>へばる</reb>
+<gloss>to be exhausted</gloss>
+<gloss>to be worn out</gloss>
+</entry>
+<entry>
+<reb>へべれけ</reb>
+<gloss>dead drunk</gloss>
+<gloss>blotto</gloss>
+</entry>
+<entry>
+<reb>へぼ</reb>
+<gloss>bungler</gloss>
+<gloss>greenhorn</gloss>
+<gloss>clumsy</gloss>
+<gloss>poor hand</gloss>
+</entry>
+<entry>
+<keb>へぼ医者</keb>
+<reb>へぼいしゃ</reb>
+<gloss>quack doctor</gloss>
+</entry>
+<entry>
+<reb>ヘマ</reb>
+<reb>へま</reb>
+<gloss>blunder</gloss>
+<gloss>bungle</gloss>
+<gloss>gaffe</gloss>
+<gloss>mistake</gloss>
+<gloss>bungling</gloss>
+<gloss>stupid</gloss>
+<gloss>tactless</gloss>
+<gloss>clumsy</gloss>
+<gloss>awkward</gloss>
+</entry>
+<entry>
+<reb>ヘラヘラ</reb>
+<reb>へらへら</reb>
+<gloss>(laughing) foolishly</gloss>
+<gloss>(smiling) thoughtlessly</gloss>
+<gloss>indiscreetly (talking)</gloss>
+<gloss>carelessly (speaking)</gloss>
+<gloss>frivolously</gloss>
+<gloss>flippantly</gloss>
+<gloss>thin (paper, cloth, etc.)</gloss>
+<gloss>flimsy</gloss>
+<gloss>flaring up</gloss>
+<gloss>bursting into flames</gloss>
+</entry>
+<entry>
+<keb>可き</keb>
+<reb>べき</reb>
+<gloss>should</gloss>
+<gloss>must</gloss>
+<gloss>ought to</gloss>
+</entry>
+<entry>
+<reb>ベタベタ</reb>
+<reb>べたべた</reb>
+<gloss>sticky</gloss>
+<gloss>thickly (e.g. painted)</gloss>
+<gloss>heavily (applied)</gloss>
+<gloss>all over (pasting, stamping, etc.)</gloss>
+<gloss>clinging (e.g. of a person)</gloss>
+<gloss>following around</gloss>
+<gloss>being all over (each other)</gloss>
+<gloss>flirting</gloss>
+<gloss>clichéd</gloss>
+<gloss>hackneyed</gloss>
+</entry>
+<entry>
+<reb>べたんこ</reb>
+<gloss>squished flat</gloss>
+</entry>
+</japanesedictionary>

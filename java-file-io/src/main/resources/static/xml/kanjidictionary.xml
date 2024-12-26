@@ -1,0 +1,1023 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kanjidictionary [
+
+<!ELEMENT kanjidictionary (character*)>
+<!ELEMENT character (literal)*>
+<!ELEMENT literal (#PCDATA)>
+<!ELEMENT reading (#PCDATA)>
+<!ATTLIST reading r_type CDATA #REQUIRED>
+<!ELEMENT meaning (#PCDATA)>
+
+]>
+<kanjidictionary>
+
+<character>
+<literal>亜</literal>
+<reading r_type="ja_on">ア</reading>
+<reading r_type="ja_kun">つ.ぐ</reading>
+<meaning>Asia</meaning>
+<meaning>rank next</meaning>
+<meaning>come after</meaning>
+<meaning>-ous</meaning>
+</character>
+<character>
+<literal>唖</literal>
+<reading r_type="ja_on">ア</reading>
+<reading r_type="ja_on">アク</reading>
+<reading r_type="ja_kun">おし</reading>
+<meaning>mute</meaning>
+<meaning>dumb</meaning>
+</character>
+<character>
+<literal>娃</literal>
+<reading r_type="ja_on">ア</reading>
+<reading r_type="ja_on">アイ</reading>
+<reading r_type="ja_on">ワ</reading>
+<reading r_type="ja_kun">うつく.しい</reading>
+<meaning>beautiful</meaning>
+</character>
+<character>
+<literal>阿</literal>
+<reading r_type="ja_on">ア</reading>
+<reading r_type="ja_on">オ</reading>
+<reading r_type="ja_kun">おもね.る</reading>
+<reading r_type="ja_kun">くま</reading>
+<meaning>Africa</meaning>
+<meaning>flatter</meaning>
+<meaning>fawn upon</meaning>
+<meaning>corner</meaning>
+<meaning>nook</meaning>
+<meaning>recess</meaning>
+</character>
+<character>
+<literal>哀</literal>
+<reading r_type="ja_on">アイ</reading>
+<reading r_type="ja_kun">あわ.れ</reading>
+<reading r_type="ja_kun">あわ.れむ</reading>
+<reading r_type="ja_kun">かな.しい</reading>
+<meaning>pathetic</meaning>
+<meaning>grief</meaning>
+<meaning>sorrow</meaning>
+<meaning>pathos</meaning>
+<meaning>pity</meaning>
+<meaning>sympathize</meaning>
+</character>
+<character>
+<literal>愛</literal>
+<reading r_type="ja_on">アイ</reading>
+<reading r_type="ja_kun">いと.しい</reading>
+<reading r_type="ja_kun">かな.しい</reading>
+<reading r_type="ja_kun">め.でる</reading>
+<reading r_type="ja_kun">お.しむ</reading>
+<reading r_type="ja_kun">まな</reading>
+<meaning>love</meaning>
+<meaning>affection</meaning>
+<meaning>favourite</meaning>
+</character>
+<character>
+<literal>挨</literal>
+<reading r_type="ja_on">アイ</reading>
+<reading r_type="ja_kun">ひら.く</reading>
+<meaning>approach</meaning>
+<meaning>draw near</meaning>
+<meaning>push open</meaning>
+</character>
+<character>
+<literal>姶</literal>
+<reading r_type="ja_on">オウ</reading>
+<reading r_type="ja_on">アイ</reading>
+<reading r_type="ja_kun">あい</reading>
+<meaning>good-looking</meaning>
+<meaning>quiet</meaning>
+</character>
+<character>
+<literal>逢</literal>
+<reading r_type="ja_on">ホウ</reading>
+<reading r_type="ja_kun">あ.う</reading>
+<reading r_type="ja_kun">むか.える</reading>
+<meaning>meeting</meaning>
+<meaning>tryst</meaning>
+<meaning>date</meaning>
+<meaning>rendezvous</meaning>
+</character>
+<character>
+<literal>葵</literal>
+<reading r_type="ja_on">キ</reading>
+<reading r_type="ja_kun">あおい</reading>
+<meaning>hollyhock</meaning>
+</character>
+<character>
+<literal>茜</literal>
+<reading r_type="ja_on">セン</reading>
+<reading r_type="ja_kun">あかね</reading>
+<meaning>madder</meaning>
+<meaning>red dye</meaning>
+<meaning>Turkey red</meaning>
+</character>
+<character>
+<literal>穐</literal>
+<reading r_type="ja_on">シュウ</reading>
+<reading r_type="ja_kun">あき</reading>
+<reading r_type="ja_kun">とき</reading>
+<meaning>autumn</meaning>
+</character>
+<character>
+<literal>悪</literal>
+<reading r_type="ja_on">アク</reading>
+<reading r_type="ja_on">オ</reading>
+<reading r_type="ja_kun">わる.い</reading>
+<reading r_type="ja_kun">わる-</reading>
+<reading r_type="ja_kun">あ.し</reading>
+<reading r_type="ja_kun">にく.い</reading>
+<reading r_type="ja_kun">-にく.い</reading>
+<reading r_type="ja_kun">ああ</reading>
+<reading r_type="ja_kun">いずくに</reading>
+<reading r_type="ja_kun">いずくんぞ</reading>
+<reading r_type="ja_kun">にく.む</reading>
+<meaning>bad</meaning>
+<meaning>vice</meaning>
+<meaning>rascal</meaning>
+<meaning>false</meaning>
+<meaning>evil</meaning>
+<meaning>wrong</meaning>
+</character>
+<character>
+<literal>握</literal>
+<reading r_type="ja_on">アク</reading>
+<reading r_type="ja_kun">にぎ.る</reading>
+<meaning>grip</meaning>
+<meaning>hold</meaning>
+<meaning>mould sushi</meaning>
+<meaning>bribe</meaning>
+</character>
+<character>
+<literal>渥</literal>
+<reading r_type="ja_on">アク</reading>
+<reading r_type="ja_kun">あつ.い</reading>
+<reading r_type="ja_kun">うるお.う</reading>
+<meaning>kindness</meaning>
+<meaning>moisten</meaning>
+</character>
+<character>
+<literal>旭</literal>
+<reading r_type="ja_on">キョク</reading>
+<reading r_type="ja_kun">あさひ</reading>
+<meaning>rising sun</meaning>
+<meaning>morning sun</meaning>
+</character>
+<character>
+<literal>葦</literal>
+<reading r_type="ja_on">イ</reading>
+<reading r_type="ja_kun">あし</reading>
+<reading r_type="ja_kun">よし</reading>
+<reading r_type="ja_kun">しお.れる</reading>
+<reading r_type="ja_kun">しな.びる</reading>
+<reading r_type="ja_kun">しぼ.む</reading>
+<reading r_type="ja_kun">な.える</reading>
+<meaning>reed</meaning>
+<meaning>bullrush</meaning>
+</character>
+<character>
+<literal>芦</literal>
+<reading r_type="ja_on">ロ</reading>
+<reading r_type="ja_kun">あし</reading>
+<reading r_type="ja_kun">よし</reading>
+<meaning>reed</meaning>
+<meaning>bullrush</meaning>
+</character>
+<character>
+<literal>鯵</literal>
+<reading r_type="ja_on">ソウ</reading>
+<reading r_type="ja_kun">あじ</reading>
+<meaning>horse mackerel</meaning>
+</character>
+<character>
+<literal>梓</literal>
+<reading r_type="ja_on">シ</reading>
+<reading r_type="ja_kun">あずさ</reading>
+<meaning>catalpa tree</meaning>
+<meaning>woodblock printing</meaning>
+</character>
+<character>
+<literal>圧</literal>
+<reading r_type="ja_on">アツ</reading>
+<reading r_type="ja_on">エン</reading>
+<reading r_type="ja_on">オウ</reading>
+<reading r_type="ja_kun">お.す</reading>
+<reading r_type="ja_kun">へ.す</reading>
+<reading r_type="ja_kun">おさ.える</reading>
+<reading r_type="ja_kun">お.さえる</reading>
+<meaning>pressure</meaning>
+<meaning>push</meaning>
+<meaning>overwhelm</meaning>
+<meaning>oppress</meaning>
+<meaning>dominate</meaning>
+</character>
+<character>
+<literal>斡</literal>
+<reading r_type="ja_on">アツ</reading>
+<reading r_type="ja_on">カン</reading>
+<reading r_type="ja_on">ワツ</reading>
+<reading r_type="ja_kun">めぐ.る</reading>
+<reading r_type="ja_kun">めぐ.らす</reading>
+<meaning>go around</meaning>
+<meaning>rule</meaning>
+<meaning>administer</meaning>
+</character>
+<character>
+<literal>扱</literal>
+<reading r_type="ja_on">ソウ</reading>
+<reading r_type="ja_on">キュウ</reading>
+<reading r_type="ja_kun">あつか.い</reading>
+<reading r_type="ja_kun">あつか.う</reading>
+<reading r_type="ja_kun">あつか.る</reading>
+<reading r_type="ja_kun">こ.く</reading>
+<meaning>handle</meaning>
+<meaning>entertain</meaning>
+<meaning>thresh</meaning>
+<meaning>strip</meaning>
+</character>
+<character>
+<literal>宛</literal>
+<reading r_type="ja_on">エン</reading>
+<reading r_type="ja_kun">あ.てる</reading>
+<reading r_type="ja_kun">-あて</reading>
+<reading r_type="ja_kun">-づつ</reading>
+<reading r_type="ja_kun">あたか.も</reading>
+<meaning>address</meaning>
+<meaning>just like</meaning>
+<meaning>fortunately</meaning>
+</character>
+<character>
+<literal>姐</literal>
+<reading r_type="ja_on">ソ</reading>
+<reading r_type="ja_on">シャ</reading>
+<reading r_type="ja_kun">あね</reading>
+<reading r_type="ja_kun">ねえさん</reading>
+<meaning>elder sister</meaning>
+<meaning>maidservant</meaning>
+</character>
+<character>
+<literal>虻</literal>
+<reading r_type="ja_on">ボウ</reading>
+<reading r_type="ja_kun">あぶ</reading>
+<meaning>gadfly</meaning>
+<meaning>horsefly</meaning>
+</character>
+<character>
+<literal>飴</literal>
+<reading r_type="ja_on">イ</reading>
+<reading r_type="ja_on">シ</reading>
+<reading r_type="ja_kun">あめ</reading>
+<reading r_type="ja_kun">やしな.う</reading>
+<meaning>rice jelly</meaning>
+<meaning>candy</meaning>
+</character>
+<character>
+<literal>絢</literal>
+<reading r_type="ja_on">ケン</reading>
+<meaning>brilliant fabric design</meaning>
+</character>
+<character>
+<literal>綾</literal>
+<reading r_type="ja_on">リン</reading>
+<reading r_type="ja_kun">あや</reading>
+<meaning>design</meaning>
+<meaning>figured cloth</meaning>
+<meaning>twill</meaning>
+</character>
+<character>
+<literal>鮎</literal>
+<reading r_type="ja_on">デン</reading>
+<reading r_type="ja_on">ネン</reading>
+<reading r_type="ja_kun">あゆ</reading>
+<reading r_type="ja_kun">なまず</reading>
+<meaning>freshwater trout</meaning>
+<meaning>smelt</meaning>
+</character>
+<character>
+<literal>或</literal>
+<reading r_type="ja_on">ワク</reading>
+<reading r_type="ja_on">コク</reading>
+<reading r_type="ja_on">イキ</reading>
+<reading r_type="ja_kun">あ.る</reading>
+<reading r_type="ja_kun">あるい</reading>
+<reading r_type="ja_kun">あるいは</reading>
+<meaning>some</meaning>
+<meaning>one</meaning>
+<meaning>or</meaning>
+<meaning>possibly</meaning>
+<meaning>a certain</meaning>
+</character>
+<character>
+<literal>粟</literal>
+<reading r_type="ja_on">ゾク</reading>
+<reading r_type="ja_on">ショク</reading>
+<reading r_type="ja_on">ソク</reading>
+<reading r_type="ja_kun">あわ</reading>
+<reading r_type="ja_kun">もみ</reading>
+<meaning>millet</meaning>
+</character>
+<character>
+<literal>袷</literal>
+<reading r_type="ja_on">コウ</reading>
+<reading r_type="ja_on">キョウ</reading>
+<reading r_type="ja_kun">あわせ</reading>
+<meaning>lined (kimono)</meaning>
+</character>
+<character>
+<literal>安</literal>
+<reading r_type="ja_on">アン</reading>
+<reading r_type="ja_kun">やす.い</reading>
+<reading r_type="ja_kun">やす.まる</reading>
+<reading r_type="ja_kun">やす</reading>
+<reading r_type="ja_kun">やす.らか</reading>
+<meaning>relax</meaning>
+<meaning>cheap</meaning>
+<meaning>low</meaning>
+<meaning>quiet</meaning>
+<meaning>rested</meaning>
+<meaning>contented</meaning>
+<meaning>peaceful</meaning>
+</character>
+<character>
+<literal>庵</literal>
+<reading r_type="ja_on">アン</reading>
+<reading r_type="ja_kun">いおり</reading>
+<reading r_type="ja_kun">いお</reading>
+<meaning>hermitage</meaning>
+<meaning>retreat</meaning>
+</character>
+<character>
+<literal>按</literal>
+<reading r_type="ja_on">アン</reading>
+<reading r_type="ja_kun">おさ.える</reading>
+<reading r_type="ja_kun">しら.べる</reading>
+<meaning>hold</meaning>
+<meaning>consider</meaning>
+<meaning>investigate</meaning>
+</character>
+<character>
+<literal>暗</literal>
+<reading r_type="ja_on">アン</reading>
+<reading r_type="ja_kun">くら.い</reading>
+<reading r_type="ja_kun">くら.む</reading>
+<reading r_type="ja_kun">くれ.る</reading>
+<meaning>darkness</meaning>
+<meaning>disappear</meaning>
+<meaning>shade</meaning>
+<meaning>informal</meaning>
+<meaning>grow dark</meaning>
+<meaning>be blinded</meaning>
+</character>
+<character>
+<literal>案</literal>
+<reading r_type="ja_on">アン</reading>
+<reading r_type="ja_kun">つくえ</reading>
+<meaning>plan</meaning>
+<meaning>suggestion</meaning>
+<meaning>draft</meaning>
+<meaning>ponder</meaning>
+<meaning>fear</meaning>
+<meaning>proposition</meaning>
+<meaning>idea</meaning>
+<meaning>expectation</meaning>
+<meaning>worry</meaning>
+<meaning>table</meaning>
+<meaning>bench</meaning>
+</character>
+<character>
+<literal>闇</literal>
+<reading r_type="ja_on">アン</reading>
+<reading r_type="ja_on">オン</reading>
+<reading r_type="ja_kun">やみ</reading>
+<reading r_type="ja_kun">くら.い</reading>
+<meaning>get dark</meaning>
+<meaning>gloom</meaning>
+<meaning>disorder</meaning>
+</character>
+<character>
+<literal>鞍</literal>
+<reading r_type="ja_on">アン</reading>
+<reading r_type="ja_kun">くら</reading>
+<meaning>saddle</meaning>
+</character>
+<character>
+<literal>杏</literal>
+<reading r_type="ja_on">キョウ</reading>
+<reading r_type="ja_on">アン</reading>
+<reading r_type="ja_on">コウ</reading>
+<reading r_type="ja_kun">あんず</reading>
+<meaning>apricot</meaning>
+</character>
+<character>
+<literal>以</literal>
+<reading r_type="ja_on">イ</reading>
+<reading r_type="ja_kun">もっ.て</reading>
+<meaning>by means of</meaning>
+<meaning>because</meaning>
+<meaning>in view of</meaning>
+<meaning>compared with</meaning>
+</character>
+<character>
+<literal>伊</literal>
+<reading r_type="ja_on">イ</reading>
+<reading r_type="ja_kun">かれ</reading>
+<meaning>Italy</meaning>
+<meaning>that one</meaning>
+</character>
+<character>
+<literal>位</literal>
+<reading r_type="ja_on">イ</reading>
+<reading r_type="ja_kun">くらい</reading>
+<reading r_type="ja_kun">ぐらい</reading>
+<meaning>rank</meaning>
+<meaning>grade</meaning>
+<meaning>throne</meaning>
+<meaning>crown</meaning>
+<meaning>about</meaning>
+<meaning>some</meaning>
+</character>
+<character>
+<literal>依</literal>
+<reading r_type="ja_on">イ</reading>
+<reading r_type="ja_on">エ</reading>
+<reading r_type="ja_kun">よ.る</reading>
+<meaning>reliant</meaning>
+<meaning>depend on</meaning>
+<meaning>consequently</meaning>
+<meaning>therefore</meaning>
+<meaning>due to</meaning>
+</character>
+<character>
+<literal>偉</literal>
+<reading r_type="ja_on">イ</reading>
+<reading r_type="ja_kun">えら.い</reading>
+<meaning>admirable</meaning>
+<meaning>greatness</meaning>
+<meaning>remarkable</meaning>
+<meaning>conceited</meaning>
+<meaning>famous</meaning>
+<meaning>excellent</meaning>
+</character>
+<character>
+<literal>囲</literal>
+<reading r_type="ja_on">イ</reading>
+<reading r_type="ja_kun">かこ.む</reading>
+<reading r_type="ja_kun">かこ.う</reading>
+<reading r_type="ja_kun">かこ.い</reading>
+<meaning>surround</meaning>
+<meaning>besiege</meaning>
+<meaning>store</meaning>
+<meaning>paling</meaning>
+<meaning>enclosure</meaning>
+<meaning>encircle</meaning>
+<meaning>preserve</meaning>
+<meaning>keep</meaning>
+</character>
+<character>
+<literal>夷</literal>
+<reading r_type="ja_on">イ</reading>
+<reading r_type="ja_kun">えびす</reading>
+<reading r_type="ja_kun">えみし</reading>
+<reading r_type="ja_kun">ころ.す</reading>
+<reading r_type="ja_kun">たい.らげる</reading>
+<meaning>barbarian</meaning>
+<meaning>savage</meaning>
+<meaning>Ainu</meaning>
+</character>
+<character>
+<literal>委</literal>
+<reading r_type="ja_on">イ</reading>
+<reading r_type="ja_kun">ゆだ.ねる</reading>
+<meaning>committee</meaning>
+<meaning>entrust to</meaning>
+<meaning>leave to</meaning>
+<meaning>devote</meaning>
+<meaning>discard</meaning>
+</character>
+<character>
+<literal>威</literal>
+<reading r_type="ja_on">イ</reading>
+<reading r_type="ja_kun">おど.す</reading>
+<reading r_type="ja_kun">おど.し</reading>
+<reading r_type="ja_kun">おど.かす</reading>
+<meaning>intimidate</meaning>
+<meaning>dignity</meaning>
+<meaning>majesty</meaning>
+<meaning>menace</meaning>
+<meaning>threaten</meaning>
+</character>
+<character>
+<literal>尉</literal>
+<reading r_type="ja_on">イ</reading>
+<reading r_type="ja_on">ジョウ</reading>
+<meaning>military officer</meaning>
+<meaning>jailer</meaning>
+<meaning>old man</meaning>
+<meaning>rank</meaning>
+</character>
+<character>
+<literal>惟</literal>
+<reading r_type="ja_on">イ</reading>
+<reading r_type="ja_on">ユイ</reading>
+<reading r_type="ja_kun">おも.んみる</reading>
+<reading r_type="ja_kun">これ</reading>
+<reading r_type="ja_kun">おも.うに</reading>
+<meaning>consider</meaning>
+<meaning>reflect</meaning>
+<meaning>think</meaning>
+</character>
+<character>
+<literal>意</literal>
+<reading r_type="ja_on">イ</reading>
+<meaning>idea</meaning>
+<meaning>mind</meaning>
+<meaning>heart</meaning>
+<meaning>taste</meaning>
+<meaning>thought</meaning>
+<meaning>desire</meaning>
+<meaning>care</meaning>
+<meaning>liking</meaning>
+</character>
+<character>
+<literal>慰</literal>
+<reading r_type="ja_on">イ</reading>
+<reading r_type="ja_kun">なぐさ.める</reading>
+<reading r_type="ja_kun">なぐさ.む</reading>
+<meaning>consolation</meaning>
+<meaning>amusement</meaning>
+<meaning>seduce</meaning>
+<meaning>cheer</meaning>
+<meaning>make sport of</meaning>
+<meaning>comfort</meaning>
+<meaning>console</meaning>
+</character>
+<character>
+<literal>易</literal>
+<reading r_type="ja_on">エキ</reading>
+<reading r_type="ja_on">イ</reading>
+<reading r_type="ja_kun">やさ.しい</reading>
+<reading r_type="ja_kun">やす.い</reading>
+<meaning>easy</meaning>
+<meaning>ready to</meaning>
+<meaning>simple</meaning>
+<meaning>fortune-telling</meaning>
+<meaning>divination</meaning>
+</character>
+<character>
+<literal>椅</literal>
+<reading r_type="ja_on">イ</reading>
+<meaning>chair</meaning>
+</character>
+<character>
+<literal>為</literal>
+<reading r_type="ja_on">イ</reading>
+<reading r_type="ja_kun">ため</reading>
+<reading r_type="ja_kun">な.る</reading>
+<reading r_type="ja_kun">な.す</reading>
+<reading r_type="ja_kun">す.る</reading>
+<reading r_type="ja_kun">たり</reading>
+<reading r_type="ja_kun">つく.る</reading>
+<reading r_type="ja_kun">なり</reading>
+<meaning>do</meaning>
+<meaning>change</meaning>
+<meaning>make</meaning>
+<meaning>benefit</meaning>
+<meaning>welfare</meaning>
+<meaning>be of use</meaning>
+<meaning>reach to</meaning>
+<meaning>try</meaning>
+<meaning>practice</meaning>
+<meaning>cost</meaning>
+<meaning>serve as</meaning>
+<meaning>good</meaning>
+<meaning>advantage</meaning>
+<meaning>as a result of</meaning>
+</character>
+<character>
+<literal>畏</literal>
+<reading r_type="ja_on">イ</reading>
+<reading r_type="ja_kun">おそ.れる</reading>
+<reading r_type="ja_kun">かしこま.る</reading>
+<reading r_type="ja_kun">かしこ</reading>
+<reading r_type="ja_kun">かしこ.し</reading>
+<meaning>fear</meaning>
+<meaning>majestic</meaning>
+<meaning>graciously</meaning>
+<meaning>be apprehensive</meaning>
+</character>
+<character>
+<literal>異</literal>
+<reading r_type="ja_on">イ</reading>
+<reading r_type="ja_kun">こと</reading>
+<reading r_type="ja_kun">こと.なる</reading>
+<reading r_type="ja_kun">け</reading>
+<meaning>uncommon</meaning>
+<meaning>different</meaning>
+<meaning>queerness</meaning>
+<meaning>strangeness</meaning>
+<meaning>wonderful</meaning>
+<meaning>curious</meaning>
+<meaning>unusual</meaning>
+</character>
+<character>
+<literal>移</literal>
+<reading r_type="ja_on">イ</reading>
+<reading r_type="ja_kun">うつ.る</reading>
+<reading r_type="ja_kun">うつ.す</reading>
+<meaning>shift</meaning>
+<meaning>move</meaning>
+<meaning>change</meaning>
+<meaning>drift</meaning>
+<meaning>catch (cold, fire)</meaning>
+<meaning>pass into</meaning>
+</character>
+<character>
+<literal>維</literal>
+<reading r_type="ja_on">イ</reading>
+<meaning>fiber</meaning>
+<meaning>tie</meaning>
+<meaning>rope</meaning>
+</character>
+<character>
+<literal>緯</literal>
+<reading r_type="ja_on">イ</reading>
+<reading r_type="ja_kun">よこいと</reading>
+<reading r_type="ja_kun">ぬき</reading>
+<meaning>horizontal</meaning>
+<meaning>woof</meaning>
+<meaning>left &amp; right</meaning>
+<meaning>(parallels of) latitude</meaning>
+<meaning>prediction</meaning>
+</character>
+<character>
+<literal>胃</literal>
+<reading r_type="ja_on">イ</reading>
+<meaning>stomach</meaning>
+<meaning>paunch</meaning>
+<meaning>crop</meaning>
+<meaning>craw</meaning>
+</character>
+<character>
+<literal>萎</literal>
+<reading r_type="ja_on">イ</reading>
+<reading r_type="ja_kun">な</reading>
+<reading r_type="ja_kun">しお.れる</reading>
+<reading r_type="ja_kun">しな.びる</reading>
+<reading r_type="ja_kun">しぼ.む</reading>
+<reading r_type="ja_kun">な.える</reading>
+<meaning>wither</meaning>
+<meaning>droop</meaning>
+<meaning>lame</meaning>
+</character>
+<character>
+<literal>衣</literal>
+<reading r_type="ja_on">イ</reading>
+<reading r_type="ja_on">エ</reading>
+<reading r_type="ja_kun">ころも</reading>
+<reading r_type="ja_kun">きぬ</reading>
+<reading r_type="ja_kun">-ぎ</reading>
+<meaning>garment</meaning>
+<meaning>clothes</meaning>
+<meaning>dressing</meaning>
+</character>
+<character>
+<literal>謂</literal>
+<reading r_type="ja_on">イ</reading>
+<reading r_type="ja_kun">い.う</reading>
+<reading r_type="ja_kun">いい</reading>
+<reading r_type="ja_kun">おも.う</reading>
+<reading r_type="ja_kun">いわゆる</reading>
+<meaning>reason</meaning>
+<meaning>origin</meaning>
+<meaning>history</meaning>
+<meaning>oral tradition</meaning>
+</character>
+<character>
+<literal>違</literal>
+<reading r_type="ja_on">イ</reading>
+<reading r_type="ja_kun">ちが.う</reading>
+<reading r_type="ja_kun">ちが.い</reading>
+<reading r_type="ja_kun">ちが.える</reading>
+<reading r_type="ja_kun">-ちが.える</reading>
+<reading r_type="ja_kun">たが.う</reading>
+<reading r_type="ja_kun">たが.える</reading>
+<meaning>difference</meaning>
+<meaning>differ</meaning>
+</character>
+<character>
+<literal>遺</literal>
+<reading r_type="ja_on">イ</reading>
+<reading r_type="ja_on">ユイ</reading>
+<reading r_type="ja_kun">のこ.す</reading>
+<meaning>bequeath</meaning>
+<meaning>leave behind</meaning>
+<meaning>reserve</meaning>
+</character>
+<character>
+<literal>医</literal>
+<reading r_type="ja_on">イ</reading>
+<reading r_type="ja_kun">い.やす</reading>
+<reading r_type="ja_kun">い.する</reading>
+<reading r_type="ja_kun">くすし</reading>
+<meaning>doctor</meaning>
+<meaning>medicine</meaning>
+</character>
+<character>
+<literal>井</literal>
+<reading r_type="ja_on">セイ</reading>
+<reading r_type="ja_on">ショウ</reading>
+<reading r_type="ja_kun">い</reading>
+<meaning>well</meaning>
+<meaning>well crib</meaning>
+<meaning>town</meaning>
+<meaning>community</meaning>
+</character>
+<character>
+<literal>亥</literal>
+<reading r_type="ja_on">ガイ</reading>
+<reading r_type="ja_on">カイ</reading>
+<reading r_type="ja_kun">い</reading>
+<meaning>sign of the hog</meaning>
+<meaning>9-11PM</meaning>
+<meaning>twelfth sign of the Chinese zodiac</meaning>
+</character>
+<character>
+<literal>域</literal>
+<reading r_type="ja_on">イキ</reading>
+<meaning>range</meaning>
+<meaning>region</meaning>
+<meaning>limits</meaning>
+<meaning>stage</meaning>
+<meaning>level</meaning>
+</character>
+<character>
+<literal>育</literal>
+<reading r_type="ja_on">イク</reading>
+<reading r_type="ja_kun">そだ.つ</reading>
+<reading r_type="ja_kun">そだ.ち</reading>
+<reading r_type="ja_kun">そだ.てる</reading>
+<reading r_type="ja_kun">はぐく.む</reading>
+<meaning>bring up</meaning>
+<meaning>grow up</meaning>
+<meaning>raise</meaning>
+<meaning>rear</meaning>
+</character>
+<character>
+<literal>郁</literal>
+<reading r_type="ja_on">イク</reading>
+<meaning>cultural progress</meaning>
+<meaning>perfume</meaning>
+</character>
+<character>
+<literal>磯</literal>
+<reading r_type="ja_on">キ</reading>
+<reading r_type="ja_kun">いそ</reading>
+<meaning>seashore</meaning>
+<meaning>beach</meaning>
+</character>
+<character>
+<literal>一</literal>
+<reading r_type="ja_on">イチ</reading>
+<reading r_type="ja_on">イツ</reading>
+<reading r_type="ja_kun">ひと-</reading>
+<reading r_type="ja_kun">ひと.つ</reading>
+<meaning>one</meaning>
+<meaning>one radical (no.1)</meaning>
+</character>
+<character>
+<literal>壱</literal>
+<reading r_type="ja_on">イチ</reading>
+<reading r_type="ja_on">イツ</reading>
+<reading r_type="ja_kun">ひとつ</reading>
+<meaning>one (in documents)</meaning>
+</character>
+<character>
+<literal>溢</literal>
+<reading r_type="ja_on">イツ</reading>
+<reading r_type="ja_kun">こぼ.れる</reading>
+<reading r_type="ja_kun">あふ.れる</reading>
+<reading r_type="ja_kun">み.ちる</reading>
+<meaning>overflow</meaning>
+<meaning>inundate</meaning>
+<meaning>spill</meaning>
+</character>
+<character>
+<literal>逸</literal>
+<reading r_type="ja_on">イツ</reading>
+<reading r_type="ja_kun">そ.れる</reading>
+<reading r_type="ja_kun">そ.らす</reading>
+<reading r_type="ja_kun">はぐ.れる</reading>
+<meaning>deviate</meaning>
+<meaning>idleness</meaning>
+<meaning>leisure</meaning>
+<meaning>miss the mark</meaning>
+<meaning>evade</meaning>
+<meaning>elude</meaning>
+<meaning>parry</meaning>
+<meaning>diverge</meaning>
+</character>
+<character>
+<literal>稲</literal>
+<reading r_type="ja_on">トウ</reading>
+<reading r_type="ja_on">テ</reading>
+<reading r_type="ja_kun">いね</reading>
+<reading r_type="ja_kun">いな-</reading>
+<meaning>rice plant</meaning>
+</character>
+<character>
+<literal>茨</literal>
+<reading r_type="ja_on">シ</reading>
+<reading r_type="ja_on">ジ</reading>
+<reading r_type="ja_kun">いばら</reading>
+<reading r_type="ja_kun">かや</reading>
+<reading r_type="ja_kun">くさぶき</reading>
+<meaning>briar</meaning>
+<meaning>thorn</meaning>
+</character>
+<character>
+<literal>芋</literal>
+<reading r_type="ja_on">ウ</reading>
+<reading r_type="ja_kun">いも</reading>
+<meaning>potato</meaning>
+</character>
+<character>
+<literal>鰯</literal>
+<reading r_type="ja_kun">いわし</reading>
+<meaning>sardine</meaning>
+<meaning>(kokuji)</meaning>
+</character>
+<character>
+<literal>允</literal>
+<reading r_type="ja_on">イン</reading>
+<reading r_type="ja_kun">じょう</reading>
+<reading r_type="ja_kun">まこと.に</reading>
+<reading r_type="ja_kun">ゆるす</reading>
+<meaning>license</meaning>
+<meaning>sincerity</meaning>
+<meaning>permit</meaning>
+</character>
+<character>
+<literal>印</literal>
+<reading r_type="ja_on">イン</reading>
+<reading r_type="ja_kun">しるし</reading>
+<reading r_type="ja_kun">-じるし</reading>
+<reading r_type="ja_kun">しる.す</reading>
+<meaning>stamp</meaning>
+<meaning>seal</meaning>
+<meaning>mark</meaning>
+<meaning>imprint</meaning>
+<meaning>symbol</meaning>
+<meaning>emblem</meaning>
+<meaning>trademark</meaning>
+<meaning>evidence</meaning>
+<meaning>souvenir</meaning>
+<meaning>India</meaning>
+</character>
+<character>
+<literal>咽</literal>
+<reading r_type="ja_on">イン</reading>
+<reading r_type="ja_on">エン</reading>
+<reading r_type="ja_on">エツ</reading>
+<reading r_type="ja_kun">むせ.ぶ</reading>
+<reading r_type="ja_kun">むせ.る</reading>
+<reading r_type="ja_kun">のど</reading>
+<reading r_type="ja_kun">の.む</reading>
+<meaning>throat</meaning>
+<meaning>choked</meaning>
+<meaning>smothered</meaning>
+<meaning>stuffy</meaning>
+</character>
+<character>
+<literal>員</literal>
+<reading r_type="ja_on">イン</reading>
+<meaning>employee</meaning>
+<meaning>member</meaning>
+<meaning>number</meaning>
+<meaning>the one in charge</meaning>
+</character>
+<character>
+<literal>因</literal>
+<reading r_type="ja_on">イン</reading>
+<reading r_type="ja_kun">よ.る</reading>
+<reading r_type="ja_kun">ちな.む</reading>
+<meaning>cause</meaning>
+<meaning>factor</meaning>
+<meaning>be associated with</meaning>
+<meaning>depend on</meaning>
+<meaning>be limited to</meaning>
+</character>
+<character>
+<literal>姻</literal>
+<reading r_type="ja_on">イン</reading>
+<meaning>matrimony</meaning>
+<meaning>marry</meaning>
+</character>
+<character>
+<literal>引</literal>
+<reading r_type="ja_on">イン</reading>
+<reading r_type="ja_kun">ひ.く</reading>
+<reading r_type="ja_kun">ひ.ける</reading>
+<meaning>pull</meaning>
+<meaning>tug</meaning>
+<meaning>jerk</meaning>
+<meaning>admit</meaning>
+<meaning>install</meaning>
+<meaning>quote</meaning>
+<meaning>refer to</meaning>
+</character>
+<character>
+<literal>飲</literal>
+<reading r_type="ja_on">イン</reading>
+<reading r_type="ja_on">オン</reading>
+<reading r_type="ja_kun">の.む</reading>
+<reading r_type="ja_kun">-の.み</reading>
+<meaning>drink</meaning>
+<meaning>smoke</meaning>
+<meaning>take</meaning>
+</character>
+<character>
+<literal>淫</literal>
+<reading r_type="ja_on">イン</reading>
+<reading r_type="ja_kun">ひた.す</reading>
+<reading r_type="ja_kun">ほしいまま</reading>
+<reading r_type="ja_kun">みだ.ら</reading>
+<reading r_type="ja_kun">みだ.れる</reading>
+<reading r_type="ja_kun">みだり</reading>
+<meaning>lewdness</meaning>
+<meaning>licentiousness</meaning>
+</character>
+<character>
+<literal>胤</literal>
+<reading r_type="ja_on">イン</reading>
+<reading r_type="ja_kun">たね</reading>
+<meaning>descendent</meaning>
+<meaning>issue</meaning>
+<meaning>offspring</meaning>
+</character>
+<character>
+<literal>蔭</literal>
+<reading r_type="ja_on">イン</reading>
+<reading r_type="ja_on">オン</reading>
+<reading r_type="ja_kun">かげ</reading>
+<meaning>shade</meaning>
+<meaning>shadow</meaning>
+<meaning>backing assistance</meaning>
+</character>
+<character>
+<literal>院</literal>
+<reading r_type="ja_on">イン</reading>
+<meaning>Inst.</meaning>
+<meaning>institution</meaning>
+<meaning>temple</meaning>
+<meaning>mansion</meaning>
+<meaning>school</meaning>
+</character>
+<character>
+<literal>陰</literal>
+<reading r_type="ja_on">イン</reading>
+<reading r_type="ja_kun">かげ</reading>
+<reading r_type="ja_kun">かげ.る</reading>
+<meaning>shade</meaning>
+<meaning>yin</meaning>
+<meaning>negative</meaning>
+<meaning>sex organs</meaning>
+<meaning>secret</meaning>
+<meaning>shadow</meaning>
+</character>
+<character>
+<literal>隠</literal>
+<reading r_type="ja_on">イン</reading>
+<reading r_type="ja_on">オン</reading>
+<reading r_type="ja_kun">かく.す</reading>
+<reading r_type="ja_kun">かく.し</reading>
+<reading r_type="ja_kun">かく.れる</reading>
+<reading r_type="ja_kun">よ.る</reading>
+<meaning>conceal</meaning>
+<meaning>hide</meaning>
+<meaning>cover</meaning>
+</character>
+<character>
+<literal>韻</literal>
+<reading r_type="ja_on">イン</reading>
+<meaning>rhyme</meaning>
+<meaning>elegance</meaning>
+<meaning>tone</meaning>
+</character>
+<character>
+<literal>吋</literal>
+<reading r_type="ja_on">トウ</reading>
+<reading r_type="ja_on">ドウ</reading>
+<reading r_type="ja_on">スン</reading>
+<reading r_type="ja_kun">インチ</reading>
+<meaning>inch</meaning>
+</character>
+<character>
+<literal>右</literal>
+<reading r_type="ja_on">ウ</reading>
+<reading r_type="ja_on">ユウ</reading>
+<reading r_type="ja_kun">みぎ</reading>
+<meaning>right</meaning>
+</character>
+</kanjidictionary>
