@@ -1,8 +1,8 @@
 package io.github.tuanpq.javafileio.excel.service;
 
-import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
+import java.nio.file.Path;
 import java.util.Set;
 
 import org.apache.poi.ss.usermodel.Cell;
@@ -18,7 +18,7 @@ public class ExcelFileService {
 
 	private int rowNumber = 0;
 	
-	public void writeFileToResources(String fileName, Set<String> kanjiList) {
+	public void writeFile(Path filePath, Set<String> kanjiList) {
 		XSSFWorkbook workbook = new XSSFWorkbook();
 
 		FileOutputStream outputStream = null;
@@ -37,10 +37,10 @@ public class ExcelFileService {
 				c.setCellStyle(cellStyle);
 			});
 			
-			File currentDirectory = new File(".");
-			String path = currentDirectory.getAbsolutePath();
-			String fileLocation = path.substring(0, path.length() - 1) + fileName;
-			outputStream = new FileOutputStream(fileLocation);
+			String fileName = filePath.toString();
+			int dotIndex = fileName.lastIndexOf('.');
+			fileName = fileName.substring(0, dotIndex) + ".xlsx";
+			outputStream = new FileOutputStream(fileName);
 			workbook.write(outputStream);
 			workbook.close();
 		} catch (FileNotFoundException e) {
@@ -57,5 +57,5 @@ public class ExcelFileService {
 			}
 		}
 	}
-	
+
 }
