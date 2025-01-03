@@ -32,7 +32,7 @@ public class FileUploadController {
 	}
 
 	@PostMapping("/files/upload")
-	public String uploadFile(Model model, @RequestParam("file") MultipartFile file) {
+	public String uploadFile(Model model, @RequestParam MultipartFile file) {
 		String message = "";
 
 		try {

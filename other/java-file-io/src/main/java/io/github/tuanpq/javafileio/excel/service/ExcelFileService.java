@@ -26,6 +26,8 @@ import org.w3c.dom.Element;
 import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
 
+import io.github.tuanpq.javafileio.xml.service.XmlFileService;
+
 @Service
 public class ExcelFileService {
 
@@ -35,7 +37,11 @@ public class ExcelFileService {
 	@Autowired
 	private ResourceLoader resourceLoader;
 	
+	@Autowired
+	private XmlFileService xmlFileService;
+	
 	public void writeFile(Path filePath, Set<String> kanjiList) {
+		xmlFileService.load();
 		XSSFWorkbook workbook = new XSSFWorkbook();
 
 		FileOutputStream outputStream = null;
@@ -48,7 +54,7 @@ public class ExcelFileService {
 			
 			CellStyle cellStyle = workbook.createCellStyle();
 			XSSFFont font = ((XSSFWorkbook) workbook).createFont();
-			NodeList characterListList = element.getElementsByTagName("character");
+			NodeList characterList = element.getElementsByTagName("character");
 			Sheet kanjiListSheet = workbook.createSheet("KanjiList");
 			
 			font.setFontName("MS PGothic");
@@ -62,7 +68,7 @@ public class ExcelFileService {
 				Cell kanjiCell = row.createCell(0);
 				kanjiCell.setCellValue(kanji);
 				kanjiCell.setCellStyle(cellStyle);
-				lookupKanji(kanji, characterListList, row, cellStyle);
+				lookupKanji(kanji, characterList, row, cellStyle);
 				rowNumber++;
 			});
 			
@@ -91,12 +97,12 @@ public class ExcelFileService {
 		}
 	}
 	
-	private void lookupKanji(String kanji, NodeList characterListList, Row currentRow, CellStyle cellStyle) {
+	private void lookupKanji(String kanji, NodeList characterList, Row currentRow, CellStyle cellStyle) {
 		List<String> readingTypeList = Stream.of("vietnam", "ja_on", "ja_kun").collect(Collectors.toList());
 		int column = 1;
 		
-		for (int i1 = 0; i1 < characterListList.getLength(); i1++) {
-			Node characterNode = characterListList.item(i1);
+		for (int i1 = 0; i1 < characterList.getLength(); i1++) {
+			Node characterNode = characterList.item(i1);
 			if (characterNode.getNodeType() == Node.ELEMENT_NODE) {
 				Element characterElement = (Element)characterNode;
 				NodeList literalList = characterElement.getElementsByTagName("literal");
