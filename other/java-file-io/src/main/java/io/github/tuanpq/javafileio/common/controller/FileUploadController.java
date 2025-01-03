@@ -1,5 +1,6 @@
 package io.github.tuanpq.javafileio.common.controller;
 
+import java.nio.file.Path;
 import java.util.List;
 import java.util.stream.Collectors;
 
@@ -19,12 +20,16 @@ import org.springframework.web.servlet.mvc.support.RedirectAttributes;
 
 import io.github.tuanpq.javafileio.common.model.FileInformation;
 import io.github.tuanpq.javafileio.common.service.FilesStorageService;
+import io.github.tuanpq.javafileio.excel.service.ExcelFileService;
 
 @Controller
 public class FileUploadController {
 
 	@Autowired
-	FilesStorageService storageService;
+	private FilesStorageService storageService;
+	
+	@Autowired
+	private ExcelFileService excelFileService;
 
 	@GetMapping("/files/select")
 	public String newFile(Model model) {
@@ -91,6 +96,14 @@ public class FileUploadController {
 		}
 
 		return "redirect:/files";
+	}
+	
+	@GetMapping("/files/view/{filename:.+}")
+	public String viewFile(@PathVariable String filename, Model model) {
+		Path filePath = storageService.getRootPath().resolve(filename);
+		List<String> kanjiCharacterList = excelFileService.getKanjiCharacterList(filePath);
+		model.addAttribute("kanjiCharacterList", kanjiCharacterList);
+		return "excel/view";
 	}
 
 }

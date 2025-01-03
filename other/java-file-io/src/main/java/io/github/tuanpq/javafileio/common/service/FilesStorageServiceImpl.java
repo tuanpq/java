@@ -105,6 +105,11 @@ public class FilesStorageServiceImpl implements FilesStorageService {
 		}
 	}
 
+	@Override
+	public Path getRootPath() {
+		return root;
+	}
+	
 	private Set<String> getKanjiSet(String text) {
 		Set<String> keys = new HashSet<>();
 		for (int i = 0; i < text.length(); i++) {

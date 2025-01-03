@@ -2,6 +2,7 @@ package io.github.tuanpq.javafileio;
 
 import jakarta.annotation.Resource;
 
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -15,7 +16,7 @@ public class JavaFileIoApplication implements CommandLineRunner {
 	@Resource
 	private FilesStorageService storageService;
 
-	@Resource
+	@Autowired
 	private XmlFileService xmlFileService;
 
 	public static void main(String[] args) {

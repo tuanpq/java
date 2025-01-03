@@ -21,7 +21,7 @@
 						<tr>
 							<th scope="col">File Name</th>
 							<th scope="col">Link</th>
-							<th scope="col">Actions</th>
+							<th scope="col" colspan="2">Actions</th>
 						</tr>
 					</thead>
 					<tbody>
@@ -29,6 +29,7 @@
 							<td>[[${file.name}]]</td>
 							<td><a th:href="@{${file.url}}">Download</a></td>
 							<td><a th:href="@{'/files/delete/' + ${file.name}}" th:fileName="${file.name}" id="btnDelete" title="Delete this file" class="fa-regular fa-trash-can icon-dark btn-delete"></a></td>
+							<td><a th:href="@{'/files/view/' + ${file.name}}" th:fileName="${file.name}" title="View this file">View</a></td>
 						</tr>
 					</tbody>
 				</table>
