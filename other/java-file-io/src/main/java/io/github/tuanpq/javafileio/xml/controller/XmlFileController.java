@@ -27,14 +27,12 @@ public class XmlFileController {
 	@GetMapping("/load")
 	public String load(Model model) {
 		xmlFileService.load();
-		model.addAttribute("status", "Load completed!");
+		model.addAttribute("status", "Dictionary loading completed!");
 		return "xml/load";
 	}
 	
 	@GetMapping("/search/{kanji}")
 	public String search(@PathVariable String kanji, Model model) {
-		xmlFileService.load();
-		
 		List<Document> dictionaryDocumentList = xmlFileService.getDictionaryDocumentList();
 		List<KanjiWord> kanjiWordList = new ArrayList<KanjiWord>();
 		dictionaryDocumentList.forEach(dd -> {
@@ -65,7 +63,7 @@ public class XmlFileController {
 										}
 									}
 								}
-								kanjiWord.setKatakana(String.join(",", katakanaList));
+								kanjiWord.setKatakana(String.join(", ", katakanaList));
 								
 								List<String> meaningList = new ArrayList<String>();
 								NodeList glossList = entryElement.getElementsByTagName("gloss");
@@ -78,7 +76,7 @@ public class XmlFileController {
 										}
 									}
 								}
-								kanjiWord.setGloss(String.join(",", meaningList));
+								kanjiWord.setGloss(String.join(", ", meaningList));
 								
 								kanjiWordList.add(kanjiWord);
 							}

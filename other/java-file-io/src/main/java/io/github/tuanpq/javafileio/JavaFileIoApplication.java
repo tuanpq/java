@@ -7,13 +7,17 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 import io.github.tuanpq.javafileio.common.service.FilesStorageService;
+import io.github.tuanpq.javafileio.xml.service.XmlFileService;
 
 @SpringBootApplication
 public class JavaFileIoApplication implements CommandLineRunner {
 
 	@Resource
-	FilesStorageService storageService;
-	
+	private FilesStorageService storageService;
+
+	@Resource
+	private XmlFileService xmlFileService;
+
 	public static void main(String[] args) {
 		SpringApplication.run(JavaFileIoApplication.class, args);
 	}
@@ -21,6 +25,7 @@ public class JavaFileIoApplication implements CommandLineRunner {
 	@Override
 	public void run(String... args) throws Exception {
 		storageService.init();
+		xmlFileService.load();
 	}
 
 }

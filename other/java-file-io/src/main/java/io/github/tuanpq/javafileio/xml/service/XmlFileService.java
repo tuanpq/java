@@ -6,6 +6,7 @@ import java.io.File;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.nio.file.Files;
+import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.List;
@@ -28,6 +29,8 @@ public class XmlFileService {
 	private Document kanjiDocument;
 	
 	private List<Document> dictionaryDocumentList = new ArrayList<Document>();
+	
+	private final Path root = Paths.get("./temporary");
 	
 	@Autowired
 	private ResourceLoader resourceLoader;
@@ -52,7 +55,7 @@ public class XmlFileService {
 		try {
 			DocumentBuilderFactory documentBuilderFactory = DocumentBuilderFactory.newInstance();
 			DocumentBuilder documentBuilder = documentBuilderFactory.newDocumentBuilder();
-			File kanjiFile = resourceLoader.getResource("classpath:static/xml/kanjidic2.xml").getFile(); //
+			File kanjiFile = resourceLoader.getResource("classpath:static/xml/kanjidic2.xml").getFile(); // https://www.edrdg.org/kanjidic/kanjidic2.xml.gz
 			kanjiDocument = documentBuilder.parse(kanjiFile);
 		} catch (Exception e) {
 			logger.error("ERROR: " + e.getMessage());
@@ -63,8 +66,11 @@ public class XmlFileService {
 	private void loadJMDictionary() {
 		logger.debug("loadJMDictionary: start");
 		try {
+			Files.createDirectories(root);
+			Files.walk(root).filter(Files::isRegularFile).map(Path::toFile).forEach(File::delete);
+			
 			dictionaryDocumentList.clear();
-			File dictionaryFile = resourceLoader.getResource("classpath:static/xml/JMdict_e.xml").getFile(); //
+			File dictionaryFile = resourceLoader.getResource("classpath:static/xml/JMdict_e.xml").getFile(); // ftp://ftp.edrdg.org/pub/Nihongo//JMdict_e.gz
 			try (BufferedReader br = new BufferedReader(new FileReader(dictionaryFile))) {
 			    String line = "";
 			    int numberOfEnties = 0;
@@ -86,7 +92,7 @@ public class XmlFileService {
 			    		if (!newFile) {
 			    			newFile = true;
 			    			numberOfFiles++;
-			    			filePartPath = dictionaryFile.getParent() + "/JMdict_e_p" + numberOfFiles + ".xml";
+			    			filePartPath = root.resolve("JMdict_e_p" + numberOfFiles + ".xml").toString();
 						    writer = new BufferedWriter(new FileWriter(filePartPath));
 						    writer.write(header);
 						}
@@ -97,7 +103,7 @@ public class XmlFileService {
 			    	} else if (line.equals("</entry>")) {
 		    			writer.write(line);
 					    writer.write("\n");
-			    		if (numberOfEnties == 6400) {
+			    		if (numberOfEnties == 20000) {
 						    writer.write("</JMdict>");
 						    writer.close();
 			    			newFile = false;
@@ -108,7 +114,6 @@ public class XmlFileService {
 			    			File dictionaryFilePart = new File(filePartPath);
 			    			Document document = documentBuilder.parse(dictionaryFilePart);
 			    			dictionaryDocumentList.add(document);
-			    			Files.delete(Paths.get(filePartPath));
 			    		}
 			    	} else {
 			    		if (newFile) {
@@ -121,6 +126,16 @@ public class XmlFileService {
 			    			}
 			    		}
 			    	}
+			    }
+			    
+			    if (newFile) {
+			    	// The last one
+				    writer.close();
+				    DocumentBuilderFactory documentBuilderFactory = DocumentBuilderFactory.newInstance();
+	    			DocumentBuilder documentBuilder = documentBuilderFactory.newDocumentBuilder();
+	    			File dictionaryFilePart = new File(filePartPath);
+	    			Document document = documentBuilder.parse(dictionaryFilePart);
+	    			dictionaryDocumentList.add(document);
 			    }
 			}
 		} catch (Exception e) {
