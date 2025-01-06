@@ -42,48 +42,7 @@ public class XmlFileController {
 				Node entryNode = entryList.item(i1);
 				if (entryNode.getNodeType() == Node.ELEMENT_NODE) {
 					Element entryElement = (Element) entryNode;
-					NodeList kebList = entryElement.getElementsByTagName("keb");
-					if (kebList != null && kebList.getLength() > 0) {
-						Node kebNode = kebList.item(0);
-						if (kebNode.getNodeType() == Node.ELEMENT_NODE) {
-							Element kebElement = (Element) kebNode;
-							if (kebElement.getTextContent().contains(kanji)) {
-								KanjiWord kanjiWord = new KanjiWord();
-								
-								kanjiWord.setWord(kebElement.getTextContent());
-								
-								List<String> katakanaList = new ArrayList<String>();
-								NodeList rebList = entryElement.getElementsByTagName("reb");
-								if (rebList != null && rebList.getLength() > 0) {
-									for (int i2 = 0; i2 < rebList.getLength(); i2++) {
-										Node rebNode = rebList.item(i2);
-										if (rebNode.getNodeType() == Node.ELEMENT_NODE) {
-											Element rebElement = (Element) rebNode;
-											katakanaList.add(rebElement.getTextContent());
-										}
-									}
-								}
-								kanjiWord.setKatakana(String.join(", ", katakanaList));
-								
-								List<String> meaningList = new ArrayList<String>();
-								NodeList glossList = entryElement.getElementsByTagName("gloss");
-								if (glossList != null && glossList.getLength() > 0) {
-									for (int i3 = 0; i3 < glossList.getLength(); i3++) {
-										Node glossNode = glossList.item(i3);
-										if (glossNode.getNodeType() == Node.ELEMENT_NODE) {
-											Element glossElement = (Element) glossNode;
-											meaningList.add(glossElement.getTextContent());
-										}
-									}
-								}
-								kanjiWord.setGloss(String.join(", ", meaningList));
-								
-								kanjiWordList.add(kanjiWord);
-							}
-						}
-					}
-					
-					
+					addWordContainsKanji(kanji,entryElement, kanjiWordList);
 				}
 			}
 		});
@@ -91,4 +50,53 @@ public class XmlFileController {
 		return "xml/search";
 	}
 	
+	
+	private void addWordContainsKanji(String kanji, Element entryElement, List<KanjiWord> kanjiWordList) {
+		NodeList kebList = entryElement.getElementsByTagName("keb");
+		
+		if (kebList != null && kebList.getLength() > 0) {
+			for (int i1 = 0; i1 < kebList.getLength(); i1++) {
+				Node kebNode = kebList.item(i1);
+				if (kebNode.getNodeType() == Node.ELEMENT_NODE) {
+					Element kebElement = (Element) kebNode;
+					if (kebElement.getTextContent().contains(kanji)) {
+						KanjiWord kanjiWord = new KanjiWord();
+						
+						kanjiWord.setWord(kebElement.getTextContent());
+						
+						List<String> katakanaList = new ArrayList<String>();
+						NodeList rebList = entryElement.getElementsByTagName("reb");
+						if (rebList != null && rebList.getLength() > 0) {
+							for (int i2 = 0; i2 < rebList.getLength(); i2++) {
+								Node rebNode = rebList.item(i2);
+								if (rebNode.getNodeType() == Node.ELEMENT_NODE) {
+									Element rebElement = (Element) rebNode;
+									katakanaList.add(rebElement.getTextContent());
+								}
+							}
+						}
+						kanjiWord.setKatakana(String.join(", ", katakanaList));
+						
+						List<String> meaningList = new ArrayList<String>();
+						NodeList glossList = entryElement.getElementsByTagName("gloss");
+						if (glossList != null && glossList.getLength() > 0) {
+							for (int i3 = 0; i3 < glossList.getLength(); i3++) {
+								Node glossNode = glossList.item(i3);
+								if (glossNode.getNodeType() == Node.ELEMENT_NODE) {
+									Element glossElement = (Element) glossNode;
+									meaningList.add(glossElement.getTextContent());
+								}
+							}
+						}
+						kanjiWord.setGloss(String.join(", ", meaningList));
+						
+						kanjiWordList.add(kanjiWord);
+						
+						return;
+					}
+				}
+			}
+		}
+	}
+
 }
