@@ -1,28 +1,38 @@
 <!DOCTYPE html>
 <html>
+
 <head>
-<meta charset="UTF-8">
-<title>:: Search Kanji ::</title>
+	<meta charset="UTF-8">
+	<title>:: Search Kanji ::</title>
+	<link rel="stylesheet" type="text/css" th:href="@{/webjars/bootstrap/css/bootstrap.min.css}" />
+	<script type="text/javascript" th:src="@{/webjars/jquery/jquery.min.js}"></script>
+	<script type="text/javascript" th:src="@{/webjars/bootstrap/js/bootstrap.min.js}"></script>
 </head>
+
 <body>
-	<table>
-		<thead>
-	    	<tr>
-	        	<th> Word </th>
-				<th> Katakana </th>
-				<th> Meaning </th>
-	        </tr>
-	    </thead>
-	    <tbody>
-			<tr th:if="${kanjiWordList.empty}">
-	            <td colspan="3"> No result </td>
-	        </tr>
-	        <tr th:each="kanjiWord : ${kanjiWordList}">
-	            <td><span th:text="${kanjiWord.word}"> Word </span></td>
-				<td><span th:text="${kanjiWord.katakana}"> Katakana </span></td>
-				<td><span th:text="${kanjiWord.gloss}"> Meaning </span></td>
-	        </tr>
-	    </tbody>
-	</table>
+	<div th:replace="~{components/header :: header}"></div>
+	<div class="container-fluid" style="margin: 16 auto;">
+		<h2 class="text-center">Kanji List</h2>
+		<table class="table table-striped table-bordered table-hover">
+			<thead class="table-dark">
+				<tr>
+					<th> Word </th>
+					<th> Katakana </th>
+					<th> Meaning </th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr th:if="${kanjiWordList.empty}">
+					<td colspan="3"> No result </td>
+				</tr>
+				<tr th:each="kanjiWord : ${kanjiWordList}">
+					<td><span th:text="${kanjiWord.word}"> Word </span></td>
+					<td><span th:text="${kanjiWord.katakana}"> Katakana </span></td>
+					<td><span th:text="${kanjiWord.gloss}"> Meaning </span></td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
 </body>
+
 </html>

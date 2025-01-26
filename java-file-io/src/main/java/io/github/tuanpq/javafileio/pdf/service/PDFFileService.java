@@ -8,22 +8,10 @@ import java.nio.file.Path;
 import org.apache.pdfbox.Loader;
 import org.apache.pdfbox.pdmodel.PDDocument;
 import org.apache.pdfbox.text.PDFTextStripper;
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.core.io.Resource;
-import org.springframework.core.io.ResourceLoader;
 import org.springframework.stereotype.Service;
 
 @Service
 public class PDFFileService {
-
-	@Autowired
-	private ResourceLoader resourceLoader;
-
-	public String readFileFromResources(String filename) throws IOException {
-		Resource resource = resourceLoader.getResource("classpath:static/" + filename);
-		InputStream inputStream = resource.getInputStream();
-		return read(inputStream);
-	}
 
 	public String readFile(Path filePath) throws IOException {
 		try (InputStream inputStream = Files.newInputStream(filePath)) {
