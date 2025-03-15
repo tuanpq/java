@@ -1,4 +1,4 @@
-package io.github.apitraining.selenium;
+package io.github.tuanpq.selenium;
 
 import static org.junit.jupiter.api.Assertions.assertTrue;
 

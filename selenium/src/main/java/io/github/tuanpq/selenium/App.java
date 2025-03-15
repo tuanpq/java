@@ -1,4 +1,4 @@
-package io.github.apitrainer.selenium;
+package io.github.tuanpq.selenium;
 
 import java.io.File;
 import java.io.FileInputStream;

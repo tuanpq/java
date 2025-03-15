@@ -1,4 +1,4 @@
-package io.github.apitrainer.selenium;
+package io.github.tuanpq.selenium;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
