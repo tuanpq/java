@@ -1,6 +1,6 @@
 # Read Me First
-Install Jira on local machine (localhost)
-Visit http://localhost:8080/swagger-ui/index.html
+* Install Jira on local machine (localhost)
+* Visit http://localhost:8080/swagger-ui/index.html
 
 # Getting Started
 

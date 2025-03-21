@@ -11,7 +11,7 @@
 	</parent>
 	<groupId>io.github.tuanpq</groupId>
 	<artifactId>spring-boot-security-jwt</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>spring-boot-security-jwt</name>
 	<description>Spring Boot Security - JWT</description>
 
@@ -39,7 +39,11 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>
 		</dependency>
-
+		<dependency>
+  			<groupId>org.springdoc</groupId>
+  			<artifactId>springdoc-openapi-ui</artifactId>
+  			<version>1.8.0</version>
+		</dependency>
 		<dependency>
 			<groupId>org.postgresql</groupId>
 			<artifactId>postgresql</artifactId>

@@ -63,8 +63,12 @@ public class WebSecurityConfig extends WebSecurityConfigurerAdapter {
 		logger.debug("configure enter");
 		http.cors().and().csrf().disable().exceptionHandling().authenticationEntryPoint(unauthorizedHandler).and()
 				.sessionManagement().sessionCreationPolicy(SessionCreationPolicy.STATELESS).and().authorizeRequests()
-				.antMatchers("/api/authentication/**").permitAll().antMatchers("/api/test/**").permitAll().anyRequest()
-				.authenticated();
+				.antMatchers("/swagger-ui/**").permitAll()
+				.antMatchers("/swagger-resources/**").permitAll()
+				.antMatchers("/v3/api-docs/**").permitAll()
+				.antMatchers("/api/authentication/**").permitAll()
+				.antMatchers("/api/test/**").permitAll()
+				.anyRequest().authenticated();
 
 		http.addFilterBefore(authenticationJwtTokenFilter(), UsernamePasswordAuthenticationFilter.class);
 	}
