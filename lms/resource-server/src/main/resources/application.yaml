@@ -1,0 +1,19 @@
+
+
+server:
+  port: 8090
+
+logging:
+  file:
+    name: logs/lms-resource-server.log
+  level:
+    root: TRACE
+    org:
+      springframework: TRACE
+
+spring:
+  security:
+    oauth2:
+      resourceserver:
+        jwt:
+          issuer-uri: http://auth-server:9000

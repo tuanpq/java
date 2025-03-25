@@ -1,0 +1,38 @@
+server:
+  port: 8080
+
+logging:
+  file:
+    name: logs/lms-client-application.log
+  level:
+    root: TRACE
+    org:
+      springframework: TRACE
+
+spring:
+  security:
+    oauth2:
+      client:
+        registration:
+          lms-client-oidc:
+            provider: spring
+            client-id: lms-client
+            client-secret: secret
+            authorization-grant-type: authorization_code
+            redirect-uri: "http://127.0.0.1:8080/login/oauth2/code/{registrationId}"
+            scope: openid
+            client-name: lms-client-oidc
+          lms-client-authorization-code:
+            provider: spring
+            client-id: lms-client
+            client-secret: secret
+            authorization-grant-type: authorization_code
+            redirect-uri: "http://127.0.0.1:8080/authorized"
+            scope:
+            - profile
+            - lms.read
+            - lms.write
+            client-name: lms-client-authorization-code
+        provider:
+          spring:
+            issuer-uri: http://auth-server:9000
