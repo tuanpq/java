@@ -12,8 +12,6 @@ logging:
       springframework: TRACE
 
 spring:
-  application:
-    name: lms-resource-server
   security:
     oauth2:
       resourceserver:

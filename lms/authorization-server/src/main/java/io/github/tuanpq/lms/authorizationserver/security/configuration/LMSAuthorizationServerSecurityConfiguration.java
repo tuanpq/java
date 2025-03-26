@@ -25,18 +25,30 @@ public class LMSAuthorizationServerSecurityConfiguration {
     @Bean
     @Order(1)
     SecurityFilterChain authorizationServerSecurityFilterChain(HttpSecurity http) throws Exception {
-        // http.with(OAuth2AuthorizationServerConfigurer.authorizationServer().oidc(withDefaults()), withDefaults());
-        // return http.build();
+        /*
+        OAuth2AuthorizationServerConfigurer authorizationServerConfigurer = OAuth2AuthorizationServerConfigurer.authorizationServer();
+		http
+			.securityMatcher(authorizationServerConfigurer.getEndpointsMatcher())
+			.with(authorizationServerConfigurer, (authorizationServer) ->
+				authorizationServer.oidc(Customizer.withDefaults())	// Enable OpenID Connect 1.0
+			)
+			.authorizeHttpRequests((authorize) ->
+				authorize.anyRequest().authenticated()
+			);
+		return http.build();
+        */
+        
         OAuth2AuthorizationServerConfiguration.applyDefaultSecurity(http);
         http.getConfigurer(OAuth2AuthorizationServerConfigurer.class)
             .oidc(withDefaults());    // Enable OpenID Connect 1.0
         return http.formLogin(withDefaults()).build();
+        
     }
-
+    
     @Bean
     @Order(2)
     SecurityFilterChain defaultSecurityFilterChain(HttpSecurity http) throws Exception {
-        http.authorizeHttpRequests(authorizeRequests -> authorizeRequests.anyRequest().authenticated()).formLogin(withDefaults());
+        http.authorizeHttpRequests(authorizeRequests -> authorizeRequests.anyRequest().authenticated()).formLogin(Customizer.withDefaults());
         return http.build();
     }
 

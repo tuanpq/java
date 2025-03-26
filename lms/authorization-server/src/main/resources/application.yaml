@@ -10,8 +10,6 @@ logging:
       springframework: TRACE
 
 spring:
-  application:
-    name: lms-authorization-server
   security:
     oauth2:
       authorizationserver:
@@ -33,4 +31,3 @@ spring:
               scopes:
                 - openid
                 - articles.read
-
