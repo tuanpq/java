@@ -18,13 +18,20 @@ import org.springframework.security.web.SecurityFilterChain;
 
 import static org.springframework.security.config.Customizer.withDefaults;
 
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+
 @Configuration
 @EnableWebSecurity
 public class LMSAuthorizationServerSecurityConfiguration {
 
+    private static final Logger logger = LoggerFactory.getLogger(LMSAuthorizationServerSecurityConfiguration.class);
+
     @Bean
     @Order(1)
     SecurityFilterChain authorizationServerSecurityFilterChain(HttpSecurity http) throws Exception {
+        logger.trace("XXX authorizationServerSecurityFilterChain: enter");
+
         /*
         OAuth2AuthorizationServerConfigurer authorizationServerConfigurer = OAuth2AuthorizationServerConfigurer.authorizationServer();
 		http
@@ -41,19 +48,24 @@ public class LMSAuthorizationServerSecurityConfiguration {
         OAuth2AuthorizationServerConfiguration.applyDefaultSecurity(http);
         http.getConfigurer(OAuth2AuthorizationServerConfigurer.class)
             .oidc(withDefaults());    // Enable OpenID Connect 1.0
+
+        logger.trace("XXX authorizationServerSecurityFilterChain: exit");
         return http.formLogin(withDefaults()).build();
-        
     }
     
     @Bean
     @Order(2)
     SecurityFilterChain defaultSecurityFilterChain(HttpSecurity http) throws Exception {
+        logger.trace("XXX defaultSecurityFilterChain: enter");
         http.authorizeHttpRequests(authorizeRequests -> authorizeRequests.anyRequest().authenticated()).formLogin(Customizer.withDefaults());
+        logger.trace("XXX defaultSecurityFilterChain: exit");
         return http.build();
     }
 
     @Bean
     UserDetailsService users() {
+        logger.trace("XXX users: enter");
+
         PasswordEncoder encoder = PasswordEncoderFactories.createDelegatingPasswordEncoder();
         UserDetails admin = User.builder()
             .username("admin")
@@ -66,7 +78,9 @@ public class LMSAuthorizationServerSecurityConfiguration {
             .password("password")
             .passwordEncoder(encoder::encode)
             .roles("USER")
-            .build();            
+            .build();
+            
+        logger.trace("XXX users: exit");
         return new InMemoryUserDetailsManager(admin, user);
     }
     

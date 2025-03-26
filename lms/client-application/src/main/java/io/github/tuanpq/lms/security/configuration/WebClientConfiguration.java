@@ -1,5 +1,7 @@
 package io.github.tuanpq.lms.security.configuration;
 
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.security.oauth2.client.OAuth2AuthorizedClientManager;
@@ -14,19 +16,21 @@ import org.springframework.web.reactive.function.client.WebClient;
 @Configuration
 public class WebClientConfiguration {
 
+    private static final Logger logger = LoggerFactory.getLogger(WebClientConfiguration.class);
+
     @Bean
     WebClient webClient(OAuth2AuthorizedClientManager authorizedClientManager) {
-        ServletOAuth2AuthorizedClientExchangeFilterFunction oauth2Client =
-          new ServletOAuth2AuthorizedClientExchangeFilterFunction(authorizedClientManager);
-        return WebClient.builder()
-          .apply(oauth2Client.oauth2Configuration())
-          .build();
+        logger.trace("XXX webClient: start");
+        ServletOAuth2AuthorizedClientExchangeFilterFunction oauth2Client = new ServletOAuth2AuthorizedClientExchangeFilterFunction(authorizedClientManager);
+        logger.trace("XXX webClient: end");
+        return WebClient.builder().apply(oauth2Client.oauth2Configuration()).build();
     }
 
     @Bean
     OAuth2AuthorizedClientManager authorizedClientManager(
       ClientRegistrationRepository clientRegistrationRepository,
         OAuth2AuthorizedClientRepository authorizedClientRepository) {
+        logger.trace("XXX authorizedClientManager: start");
 
         OAuth2AuthorizedClientProvider authorizedClientProvider =
           OAuth2AuthorizedClientProviderBuilder.builder()
@@ -37,6 +41,7 @@ public class WebClientConfiguration {
           clientRegistrationRepository, authorizedClientRepository);
         authorizedClientManager.setAuthorizedClientProvider(authorizedClientProvider);
 
+        logger.trace("XXX authorizedClientManager: end");
         return authorizedClientManager;
     }
     

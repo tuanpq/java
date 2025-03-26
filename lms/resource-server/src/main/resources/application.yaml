@@ -7,7 +7,7 @@ logging:
   file:
     name: logs/lms-resource-server.log
   level:
-    root: INFO
+    root: TRACE
     org:
       springframework: TRACE
 
