@@ -11,12 +11,9 @@ import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;
 import org.springframework.security.crypto.factory.PasswordEncoderFactories;
 import org.springframework.security.crypto.password.PasswordEncoder;
-import org.springframework.security.oauth2.server.authorization.config.annotation.web.configuration.OAuth2AuthorizationServerConfiguration;
 import org.springframework.security.oauth2.server.authorization.config.annotation.web.configurers.OAuth2AuthorizationServerConfigurer;
 import org.springframework.security.provisioning.InMemoryUserDetailsManager;
 import org.springframework.security.web.SecurityFilterChain;
-
-import static org.springframework.security.config.Customizer.withDefaults;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -30,41 +27,36 @@ public class LMSAuthorizationServerSecurityConfiguration {
     @Bean
     @Order(1)
     SecurityFilterChain authorizationServerSecurityFilterChain(HttpSecurity http) throws Exception {
-        logger.trace("XXX authorizationServerSecurityFilterChain: enter");
-
-        /*
-        OAuth2AuthorizationServerConfigurer authorizationServerConfigurer = OAuth2AuthorizationServerConfigurer.authorizationServer();
-		http
-			.securityMatcher(authorizationServerConfigurer.getEndpointsMatcher())
-			.with(authorizationServerConfigurer, (authorizationServer) ->
-				authorizationServer.oidc(Customizer.withDefaults())	// Enable OpenID Connect 1.0
-			)
-			.authorizeHttpRequests((authorize) ->
-				authorize.anyRequest().authenticated()
-			);
-		return http.build();
-        */
+        logger.trace("=====LMS===== authorizationServerSecurityFilterChain: start");
         
-        OAuth2AuthorizationServerConfiguration.applyDefaultSecurity(http);
-        http.getConfigurer(OAuth2AuthorizationServerConfigurer.class)
-            .oidc(withDefaults());    // Enable OpenID Connect 1.0
+        OAuth2AuthorizationServerConfigurer authorizationServerConfigurer = OAuth2AuthorizationServerConfigurer.authorizationServer();
+		http.securityMatcher(authorizationServerConfigurer.getEndpointsMatcher())
+			.with(authorizationServerConfigurer, (authorizationServer) -> authorizationServer.oidc(Customizer.withDefaults()))	// Enable OpenID Connect 1.0
+			.authorizeHttpRequests((authorize) -> authorize.anyRequest().authenticated());
+        SecurityFilterChain sfc = http.formLogin(Customizer.withDefaults()).build();
+        
+        logger.trace("=====LMS===== authorizationServerSecurityFilterChain: end");
 
-        logger.trace("XXX authorizationServerSecurityFilterChain: exit");
-        return http.formLogin(withDefaults()).build();
+		return sfc;
     }
     
     @Bean
     @Order(2)
     SecurityFilterChain defaultSecurityFilterChain(HttpSecurity http) throws Exception {
-        logger.trace("XXX defaultSecurityFilterChain: enter");
-        http.authorizeHttpRequests(authorizeRequests -> authorizeRequests.anyRequest().authenticated()).formLogin(Customizer.withDefaults());
-        logger.trace("XXX defaultSecurityFilterChain: exit");
-        return http.build();
+        logger.trace("=====LMS===== defaultSecurityFilterChain: start");
+
+        http.authorizeHttpRequests(authorizeRequests -> authorizeRequests.anyRequest().authenticated())
+            .formLogin(Customizer.withDefaults());
+        SecurityFilterChain sfc = http.build();
+
+        logger.trace("=====LMS===== defaultSecurityFilterChain: end");
+
+        return sfc;
     }
 
     @Bean
     UserDetailsService users() {
-        logger.trace("XXX users: enter");
+        logger.trace("=====LMS===== users: start");
 
         PasswordEncoder encoder = PasswordEncoderFactories.createDelegatingPasswordEncoder();
         UserDetails admin = User.builder()
@@ -80,7 +72,8 @@ public class LMSAuthorizationServerSecurityConfiguration {
             .roles("USER")
             .build();
             
-        logger.trace("XXX users: exit");
+        logger.trace("=====LMS===== users: end");
+
         return new InMemoryUserDetailsManager(admin, user);
     }
     

@@ -20,28 +20,29 @@ public class WebClientConfiguration {
 
     @Bean
     WebClient webClient(OAuth2AuthorizedClientManager authorizedClientManager) {
-        logger.trace("XXX webClient: start");
+        logger.trace("=====LMS===== webClient: start");
+
         ServletOAuth2AuthorizedClientExchangeFilterFunction oauth2Client = new ServletOAuth2AuthorizedClientExchangeFilterFunction(authorizedClientManager);
-        logger.trace("XXX webClient: end");
-        return WebClient.builder().apply(oauth2Client.oauth2Configuration()).build();
+        WebClient webClient = WebClient.builder().apply(oauth2Client.oauth2Configuration()).build();
+
+        logger.trace("=====LMS===== webClient: end");
+
+        return webClient;
     }
 
     @Bean
-    OAuth2AuthorizedClientManager authorizedClientManager(
-      ClientRegistrationRepository clientRegistrationRepository,
-        OAuth2AuthorizedClientRepository authorizedClientRepository) {
-        logger.trace("XXX authorizedClientManager: start");
+    OAuth2AuthorizedClientManager authorizedClientManager(ClientRegistrationRepository clientRegistrationRepository, OAuth2AuthorizedClientRepository authorizedClientRepository) {
+        logger.trace("=====LMS===== authorizedClientManager: start");
 
-        OAuth2AuthorizedClientProvider authorizedClientProvider =
-          OAuth2AuthorizedClientProviderBuilder.builder()
-            .authorizationCode()
-            .refreshToken()
-            .build();
-        DefaultOAuth2AuthorizedClientManager authorizedClientManager = new DefaultOAuth2AuthorizedClientManager(
-          clientRegistrationRepository, authorizedClientRepository);
+        OAuth2AuthorizedClientProvider authorizedClientProvider = OAuth2AuthorizedClientProviderBuilder.builder()
+          .authorizationCode()
+          .refreshToken()
+          .build();
+        DefaultOAuth2AuthorizedClientManager authorizedClientManager = new DefaultOAuth2AuthorizedClientManager(clientRegistrationRepository, authorizedClientRepository);
         authorizedClientManager.setAuthorizedClientProvider(authorizedClientProvider);
 
-        logger.trace("XXX authorizedClientManager: end");
+        logger.trace("=====LMS===== authorizedClientManager: end");
+
         return authorizedClientManager;
     }
     

@@ -17,12 +17,14 @@ public class LMSResourceServerConfiguration {
 
     @Bean
     SecurityFilterChain securityFilterChain(HttpSecurity http) throws Exception {
-        logger.trace("XXX securityFilterChain: start");
-        http.securityMatcher("/articles/**")
-            .authorizeHttpRequests(authorize -> authorize.anyRequest()
-                .hasAuthority("SCOPE_articles.read"))
+        logger.trace("=====LMS===== securityFilterChain: start");
+
+        http.securityMatcher("/courses/**")
+            .authorizeHttpRequests(authorize -> authorize.anyRequest().hasAuthority("SCOPE_lms.read"))
             .oauth2ResourceServer(oauth2 -> oauth2.jwt(Customizer.withDefaults()));
-        logger.trace("XXX securityFilterChain: end");
+
+        logger.trace("=====LMS===== securityFilterChain: end");
+
         return http.build();
     }
 
