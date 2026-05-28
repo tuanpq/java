@@ -1,0 +1,9 @@
+{"createdDate":"2026\/05\/13 20:58:22","data":[{
+    "dateTime": "2026\/05\/13 21:00:48",
+    "appVersion": "",
+    "moduleName": "",
+    "actionCode": "",
+    "parametersContent": "{\"category\":\"{\\\"subCategory\\\":[]}\"}",
+    "resultsContent": "",
+    "status": ""
+}]}
